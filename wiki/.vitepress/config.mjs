@@ -95,6 +95,7 @@ export default defineConfig({
           { text: 'AutoTotal', link: '/apps/autototal' },
           { text: 'MalwTool', link: '/apps/malwtool' },
           { text: 'ReVanced', link: '/apps/revanced' },
+          { text: 'Rufus', link: '/apps/rufus' },
           { text: 'SmartTube', link: '/apps/smarttube' },
           { text: 'Spicetify', link: '/apps/spicetify' },
           { text: 'Vencord и Vesktop', link: '/apps/vencord' },
@@ -123,6 +124,7 @@ export default defineConfig({
           { text: 'Отображение расширений файлов в Windows', link: '/windows/file-ext' },
           { text: 'Очистка диска в Windows', link: '/windows/cleanmgr' },
           { text: 'Приложение Get Help в Windows', link: '/windows/get-help' },
+          { text: 'Переустановка Windows без флешки', link: '/windows/install-without-usb' },
           { text: 'HWID', link: '/windows/hwid' },
           { text: 'Windows Subsystem for Android', link: '/windows/wsa' }
         ]

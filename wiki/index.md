@@ -35,7 +35,9 @@ hero:
 <!-- - [NFC Card Emulator](/apps/nfc-card-emulator) -->
 <!-- - [PCAPdroid](/apps/pcapdroid) -->
 - <img src="/img/logo/revanced.png" class="inline">[ReVanced](/apps/revanced)
-<!-- - [Rufus](/apps/rufus) -->
+
+- <img src="/img/logo/rufus.png" class="inline">[Rufus](/apps/rufus)
+
 - <img src="/img/logo/smarttube.png" class="inline">[SmartTube](/apps/smarttube)
 
 - <img src="/img/logo/spicetify.png" class="inline">[Spicetify](/apps/spicetify)
@@ -67,7 +69,7 @@ hero:
 
 - [Очистка диска в Windows](/windows/cleanmgr)
 - <img src="/img/logo/get-help.png" class="inline"/>[Приложение Get Help в Windows](/windows/get-help)
-<!-- - [Установка Windows без флешки](/windows/install) -->
+- [Переустановка Windows без флешки](/windows/install-without-usb)
 <!-- - [%appdata%](/windows/appdata) -->
 - [HWID](/windows/hwid)
 <!-- - [TrustedInstaller](/windows/trusted-installer) -->

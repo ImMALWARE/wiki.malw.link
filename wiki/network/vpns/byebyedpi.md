@@ -1,8 +1,8 @@
 # ByeByeDPI
 
-<img src="https://github.com/romanvht/ByeDPIAndroid/raw/master/.github/images/app.svg" style="float: right" width="200px">
+<img src="/img/logo/byebyedpi.svg" style="float: right" width="200px">
 
-**ByeByeDPI** или сокращённо ***bbd*** - Android-приложение для противодействия ограничениям [DPI](https://ru.wikipedia.org/wiki/Deep_packet_inspection), которое локально запускает ByeDPI и перенаправляет весь трафик через него.
+**ByeByeDPI** или сокращённо ***bbd*** — Android-приложение для противодействия ограничениям [DPI](https://ru.wikipedia.org/wiki/Deep_packet_inspection), которое локально запускает ByeDPI и перенаправляет весь трафик через него.
 
 Не требует каких-либо сторонних серверов, работает локально на вашем устройстве, а значит без потерь в скорости интернета, пинге. Приложение использует систему VPN в Android для перенаправления трафика.
 
