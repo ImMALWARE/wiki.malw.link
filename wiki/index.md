@@ -23,48 +23,55 @@ hero:
 
 # Список всех статей
 ## Программы
+<!-- - [Aliucord](/apps/aliucord) -->
 <!-- - [App Manager](/apps/app-manager) -->
 <!-- - [Autoruns](/apps/autoruns) -->
 - [AutoTotal](/apps/autototal)
 <!-- - [Bulk Crap Uninstaller](/apps/bulk-crap-uninstaller) -->
 <!-- - [Kizzy](/apps/kizzy) -->
-- [MalwTool](/apps/malwtool)
+- <img src="/img/logo/malwtool.png" class="inline">[MalwTool](/apps/malwtool)
 <!-- - [Millenium for Steam](/apps/millenium-for-steam) -->
 <!-- - [NanaZip](/apps/nanazip) -->
 <!-- - [NFC Card Emulator](/apps/nfc-card-emulator) -->
 <!-- - [PCAPdroid](/apps/pcapdroid) -->
-- [ReVanced](/apps/revanced)
+- <img src="/img/logo/revanced.png" class="inline">[ReVanced](/apps/revanced)
 <!-- - [Rufus](/apps/rufus) -->
-- [SmartTube](/apps/smarttube)
-- [Spicetify](/apps/spicetify)
+- <img src="/img/logo/smarttube.png" class="inline">[SmartTube](/apps/smarttube)
+
+- <img src="/img/logo/spicetify.png" class="inline">[Spicetify](/apps/spicetify)
 <!-- - [System Informer](/apps/system-informer) -->
 <!-- - [th-ch/YouTube Music](/apps/youtube-music) -->
 <!-- - [uBlock Origin](/apps/ublock-origin) -->
 <!-- - [UniGetUI](/apps/unigetui) -->
-<!-- - [Vencord и Vesktop](/apps/vencord) -->
-<!-- - [Ventoy](/apps/ventoy) -->
-- [winget](/apps/winget)
+- <img src="/img/logo/vencord.png" class="inline">[Vencord и Vesktop](/apps/vencord)
+
+- <img src="/img/logo/ventoy.png" class="inline">[Ventoy](/apps/ventoy)
+
+- <img src="/img/logo/winget.png" class="inline">[winget](/apps/winget)
 <!-- - [YTDLnis](/apps/ytdlnis) -->
-- [yt-dlp](/apps/yt-dlp)
+- <img src="/img/logo/yt-dlp.png" class="inline">[yt-dlp](/apps/yt-dlp)
 
 ## Сервисы
-- [IPFS](/services/ipfs)
+- <img src="/img/logo/ipfs.png" class="inline">[IPFS](/services/ipfs)
 
 ## Про сеть
 - [Безопасный DNS-сервер](/network/secure-dns)
+
 - [Ускорение устаревших серверов (недоступно в России)](/network/vpns)
 <!-- - [Matrix](/networks/matrix) -->
 
 ## Windows
 - <img src="/img/logo/run.png" class="inline"/>[Выполнение команды в Windows](/windows/run)
+
 - [Отображение расширений файлов в Windows](/windows/file-ext)
+
 - [Очистка диска в Windows](/windows/cleanmgr)
-- [Приложение Get Help в Windows](/windows/get-help)
+- <img src="/img/logo/get-help.png" class="inline"/>[Приложение Get Help в Windows](/windows/get-help)
 <!-- - [Установка Windows без флешки](/windows/install) -->
 <!-- - [%appdata%](/windows/appdata) -->
 - [HWID](/windows/hwid)
 <!-- - [TrustedInstaller](/windows/trusted-installer) -->
-<!-- - [Windows Subsystem for Android](/apps/wsa) -->
+- <img src="/img/logo/wsa.png" class="inline"/>[Windows Subsystem for Android](/windows/wsa)
 
 <!-- ## Android -->
 <!-- - [Удаление системных приложений без root](/android/uninstall-apps) -->

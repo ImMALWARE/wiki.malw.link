@@ -1,7 +1,5 @@
 # Cloudflare WARP
 
-#### [Не хочу разбираться, просто дайте лёгкий способ подключиться!](/network/vpns/warp-in-amneziavpn)
-
 <img src="/img/logo/warp.png" style="float: right" width="200px">
 
 **Cloudflare WARP** — это [VPN-сервис](/network/vpns/vpn-service), предоставляемый [Cloudflare](https://ru.wikipedia.org/wiki/Cloudflare), который предназначен для защиты и ускорения интернет-соединения. WARP не является анонимизирующим VPN, принципиально сохраняя страну подключения пользователя. Поэтому в 99% случаев при подключении у вас будет российский IP-адрес.

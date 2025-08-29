@@ -9,7 +9,7 @@
 
 ## Программы
 - <img src="/img/logo/zapret.png" class="inline"/>[zapret](/network/vpns/zapret) — автономный инструмент противодействия ограничениям DPI. Работает локально на вашем устройстве, без потерь в скорости интернета.
-- [Hiddify](/network/vpns/hiddify)
+<!-- - [Hiddify](/network/vpns/hiddify) -->
 - <img src="https://github.com/romanvht/ByeDPIAndroid/raw/master/.github/images/app.svg" class="inline"/>[ByeByeDPI](/network/vpns/byebyedpi) — аналог zapret для Android без root.
 - <img src="/img/logo/orbot.png" class="inline"/>[Orbot](/network/vpns/orbot)
 - [Tor Portable](/network/vpns/tor-portable) — [Tor](https://ru.wikipedia.org/wiki/Tor) для ПК, только для браузера и Discord. 
@@ -28,6 +28,8 @@
 - [LagomVPN](https://t.me/LagomVPN_bot) (Telegram бот)
 - <img src="/img/logo/amneziavpn.png" class="inline"/>[Amnezia Free](/network/vpns/amnezia-free) — бесплатный VPN-сервис от разработчиков [AmneziaVPN](/network/vpns/amneziavpn). YouTube работать не будет.
 - [FineVPN](https://t.me/FineVPNbot) (Telegram бот)
+- [Privio](https://t.me/PrivioTech_bot) (Telegram бот)
+- [Liberty Free](https://t.me/liberty_free_link_bot) (Telegram бот)
 - [Aeza Security](https://aezasecurity.net)
 - [Windscribe](https://windscribe.com)
 - [nthLink](https://www.nthlink.com)

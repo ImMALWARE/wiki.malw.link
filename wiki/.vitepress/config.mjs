@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: "Malw.link Wiki",
-  description: "",
+  description: "(>⩊<)",
   lang: 'ru',
   theme: './theme',
   cleanUrls: true,
@@ -97,6 +97,8 @@ export default defineConfig({
           { text: 'ReVanced', link: '/apps/revanced' },
           { text: 'SmartTube', link: '/apps/smarttube' },
           { text: 'Spicetify', link: '/apps/spicetify' },
+          { text: 'Vencord и Vesktop', link: '/apps/vencord' },
+          { text: 'Ventoy', link: '/apps/ventoy' },
           { text: 'winget', link: '/apps/winget' },
           { text: 'yt-dlp', link: '/apps/yt-dlp' }
         ]
@@ -117,10 +119,12 @@ export default defineConfig({
       {
         text: 'Windows',
         items: [
+          { text: 'Выполнение команды в Windows', link: '/windows/run' },
           { text: 'Отображение расширений файлов в Windows', link: '/windows/file-ext' },
           { text: 'Очистка диска в Windows', link: '/windows/cleanmgr' },
           { text: 'Приложение Get Help в Windows', link: '/windows/get-help' },
-          { text: 'HWID', link: '/windows/hwid' }
+          { text: 'HWID', link: '/windows/hwid' },
+          { text: 'Windows Subsystem for Android', link: '/windows/wsa' }
         ]
       }
     ],
