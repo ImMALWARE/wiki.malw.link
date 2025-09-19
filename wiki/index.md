@@ -83,3 +83,5 @@ hero:
 <!-- ## Другое -->
 <!-- - [Активация всех расширений в Google Chrome](/other/chrome-ext) -->
 <!-- - [Простая установка Arch Linux](/other/install-arch) -->
+
+<img src="/img/tongue_cat.webp" style="margin: 45px auto"/>

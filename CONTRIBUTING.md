@@ -9,7 +9,7 @@
 5. Внизу, в терминале введите команды:
     ```shell
     npm install
-    npm run vp:dev
+    npm run dev
     ```
     (дождитесь завершения `npm install`, потом выполните `npm run vp:dev`)
 6. Когда в терминале появится строка
