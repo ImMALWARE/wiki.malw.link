@@ -99,6 +99,7 @@ export default defineConfig({
           { text: 'Vencord и Vesktop', link: '/apps/vencord' },
           { text: 'Ventoy', link: '/apps/ventoy' },
           { text: 'winget', link: '/apps/winget' },
+          { text: 'scoop', link: '/apps/scoop' },
           { text: 'Wireshark', link: '/apps/wireshark' },
           { text: 'yt-dlp', link: '/apps/yt-dlp' }
         ]

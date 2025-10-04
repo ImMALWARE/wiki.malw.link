@@ -41,6 +41,8 @@ hero:
 
 - <img src="/img/logo/winget.png" class="inline">[winget](/apps/winget)
 
+- <img src="/img/logo/scoop.png" class="inline">[scoop](/apps/scoop)
+
 - <img src="/img/logo/wireshark.png" class="inline">[Wireshark](/apps/wireshark)
 
 - <img src="/img/logo/yt-dlp.png" class="inline">[yt-dlp](/apps/yt-dlp)
