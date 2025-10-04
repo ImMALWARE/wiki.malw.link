@@ -90,18 +90,25 @@ export default defineConfig({
         },
     sidebar: [
       {
-        text: 'Программы',
+        text: 'Программы на ПК',
         items: [
           { text: 'AutoTotal', link: '/apps/autototal' },
           { text: 'MalwTool', link: '/apps/malwtool' },
-          { text: 'ReVanced', link: '/apps/revanced' },
           { text: 'Rufus', link: '/apps/rufus' },
-          { text: 'SmartTube', link: '/apps/smarttube' },
           { text: 'Spicetify', link: '/apps/spicetify' },
           { text: 'Vencord и Vesktop', link: '/apps/vencord' },
           { text: 'Ventoy', link: '/apps/ventoy' },
           { text: 'winget', link: '/apps/winget' },
+          { text: 'Wireshark', link: '/apps/wireshark' },
           { text: 'yt-dlp', link: '/apps/yt-dlp' }
+        ]
+      },
+      {
+        text: 'Программы на Android',
+        items: [
+          { text: 'PCAPdroid', link: '/apps/pcapdroid' },
+          { text: 'ReVanced', link: '/apps/revanced' },
+          { text: 'SmartTube', link: '/apps/smarttube' }
         ]
       },
       {
@@ -114,6 +121,7 @@ export default defineConfig({
         text: 'Про сеть',
         items: [
           { text: 'Безопасный DNS-сервер', link: '/network/secure-dns' },
+          { text: 'Отслеживание списка доменов, к которым обращаются приложения', link: '/network/get-domains' },
           { text: 'Ускорение устаревших серверов (недоступно в России)', link: '/network/vpns' }
         ]
       },
@@ -127,6 +135,12 @@ export default defineConfig({
           { text: 'Переустановка Windows без флешки', link: '/windows/install-without-usb' },
           { text: 'HWID', link: '/windows/hwid' },
           { text: 'Windows Subsystem for Android', link: '/windows/wsa' }
+        ]
+      },
+      {
+        'text': 'Другое',
+        'items': [
+          { text: 'Активация всех расширений в Google Chrome', link: '/other/chrome-ext' }
         ]
       }
     ],

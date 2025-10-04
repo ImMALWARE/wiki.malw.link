@@ -3,6 +3,7 @@ layout: home
 
 hero:
   name: "Malw.link Wiki"
+  tagline: "(>⩊<)"
   image:
     src: '/img/main_cat.png'
   actions:
@@ -18,27 +19,16 @@ hero:
     - theme: alt
       text: Основной сайт
       link: https://malw.link
-
 ---
-
 # Список всех статей
-## Программы
-<!-- - [Aliucord](/apps/aliucord) -->
-<!-- - [App Manager](/apps/app-manager) -->
-<!-- - [Autoruns](/apps/autoruns) -->
+## Программы на ПК
 - [AutoTotal](/apps/autototal)
+<!-- - [Autoruns](/apps/autoruns) -->
 <!-- - [Bulk Crap Uninstaller](/apps/bulk-crap-uninstaller) -->
-<!-- - [Kizzy](/apps/kizzy) -->
-- <img src="/img/logo/malwtool.png" class="inline">[MalwTool](/apps/malwtool)
+- <img src="/img/logo/powershell.png" class="inline">[MalwTool](/apps/malwtool)
 <!-- - [Millenium for Steam](/apps/millenium-for-steam) -->
 <!-- - [NanaZip](/apps/nanazip) -->
-<!-- - [NFC Card Emulator](/apps/nfc-card-emulator) -->
-<!-- - [PCAPdroid](/apps/pcapdroid) -->
-- <img src="/img/logo/revanced.png" class="inline">[ReVanced](/apps/revanced)
-
 - <img src="/img/logo/rufus.png" class="inline">[Rufus](/apps/rufus)
-
-- <img src="/img/logo/smarttube.png" class="inline">[SmartTube](/apps/smarttube)
 
 - <img src="/img/logo/spicetify.png" class="inline">[Spicetify](/apps/spicetify)
 <!-- - [System Informer](/apps/system-informer) -->
@@ -50,15 +40,26 @@ hero:
 - <img src="/img/logo/ventoy.png" class="inline">[Ventoy](/apps/ventoy)
 
 - <img src="/img/logo/winget.png" class="inline">[winget](/apps/winget)
-<!-- - [YTDLnis](/apps/ytdlnis) -->
+
+- <img src="/img/logo/wireshark.png" class="inline">[Wireshark](/apps/wireshark)
+
 - <img src="/img/logo/yt-dlp.png" class="inline">[yt-dlp](/apps/yt-dlp)
+
+## Программы на Android
+<!-- - [App Manager](/apps/app-manager) -->
+<!-- - [Kizzy](/apps/kizzy) -->
+<!-- - [NFC Card Emulator](/apps/nfc-card-emulator) -->
+- <img src="/img/logo/pcapdroid.png" class="inline">[PCAPdroid](/apps/pcapdroid)
+- <img src="/img/logo/revanced.png" class="inline">[ReVanced](/apps/revanced)
+- <img src="/img/logo/smarttube.png" class="inline">[SmartTube](/apps/smarttube)
+<!-- - [YTDLnis](/apps/ytdlnis) -->
 
 ## Сервисы
 - <img src="/img/logo/ipfs.png" class="inline">[IPFS](/services/ipfs)
 
 ## Про сеть
 - [Безопасный DNS-сервер](/network/secure-dns)
-
+- [Отслеживание списка доменов, к которым обращаются приложения](/network/get-domains)
 - [Ускорение устаревших серверов (недоступно в России)](/network/vpns)
 <!-- - [Matrix](/networks/matrix) -->
 
@@ -68,7 +69,9 @@ hero:
 - [Отображение расширений файлов в Windows](/windows/file-ext)
 
 - [Очистка диска в Windows](/windows/cleanmgr)
+
 - <img src="/img/logo/get-help.png" class="inline"/>[Приложение Get Help в Windows](/windows/get-help)
+
 - [Переустановка Windows без флешки](/windows/install-without-usb)
 <!-- - [%appdata%](/windows/appdata) -->
 - [HWID](/windows/hwid)
@@ -80,8 +83,7 @@ hero:
 <!-- - [Magisk](/android/magisk) -->
 <!-- - [root права](/android/root) -->
 
-<!-- ## Другое -->
-<!-- - [Активация всех расширений в Google Chrome](/other/chrome-ext) -->
-<!-- - [Простая установка Arch Linux](/other/install-arch) -->
+## Другое
+- <img src="/img/logo/chrome.svg" class="inline"/>[Активация всех расширений в Google Chrome](/other/chrome-ext)
 
-<img src="/img/tongue_cat.webp" style="margin: 45px auto"/>
+<img src="/img/tongue_cat.webp" style="margin: 45px auto; width: 400px"/>

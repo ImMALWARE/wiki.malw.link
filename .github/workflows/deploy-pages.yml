@@ -19,7 +19,7 @@ jobs:
         run: npm install
 
       - name: Build website
-        run: npm run build
+        run: npm run ghbuild
 
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3

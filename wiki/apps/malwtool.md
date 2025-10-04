@@ -1,6 +1,6 @@
 # MalwTool
 
-<img src="/img/logo/malwtool.png" style="float: right" width="150">
+<img src="/img/logo/powershell.png" style="float: right" width="150">
 
 **MalwTool** — инструмент для активации, скачивания, настройки [Windows](https://ru.wikipedia.org/wiki/Windows) и [Office](https://ru.wikipedia.org/wiki/Microsoft_Office).
 

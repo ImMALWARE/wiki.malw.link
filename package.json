@@ -16,8 +16,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "vitepress dev wiki",
-    "build": "git fetch --unshallow && vitepress build wiki",
-    "xbuild": "vitepress build wiki"
+    "build": "vitepress build wiki",
+    "ghbuild": "git fetch --unshallow && vitepress build wiki"
   },
   "dependencies": {
     "vitepress": "^2.0.0-alpha.12",
