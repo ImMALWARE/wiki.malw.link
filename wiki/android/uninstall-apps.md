@@ -14,10 +14,10 @@ Linux: https://dl.google.com/android/repository/platform-tools-latest-linux.zip
 
 Mac: https://dl.google.com/android/repository/platform-tools-latest-darwin.zip
 
-После того как скачали, заходим в папку с adb, тыкаем на пустую область папки, зажимаем SHIFT и нажимаем правой кнопкой мышей, после чего откроется окно "Открыть окно PowerShell здесь". На Mac и Linux откройте Terminal. 
+После того как скачали, заходим в папку с adb, тыкаем на пустую область папки, зажимаем SHIFT и нажимаем правой кнопкой мыши, после чего откроется окно "Открыть окно PowerShell здесь". На Mac и Linux откройте Terminal. 
 <img src="/img/android/uninstall-apps/1.png" style="margin: 15px auto; display: block">
 
-После того, как открылоcь окно PowerShell, вводим команду .\adb, чтобы проверить работает или нет, если работает, то вам высветится версия программы.
+После того, как открылоcь окно PowerShell, вводим команду `.\adb`, чтобы проверить работает или нет, если работает, то вам высветится версия программы.
 
 <img src="/img/android/uninstall-apps/2.png" style="margin: 15px auto; display: block">
 
@@ -27,7 +27,7 @@ Mac: https://dl.google.com/android/repository/platform-tools-latest-darwin.zip
 
 <img src="/img/android/uninstall-apps/3.png" style="margin: 15px auto; display: block">
 
-4. Подключаем Shizuku, для этого скопируйте команду adb shell sh /sdcard/Android/data/moe.shizuku.privileged.api/start.sh и вставьте в терминал. Если проблем нет, вы увидите, что Shizuku успешно запущен в приложении Shizuku.
+4. Подключаем Shizuku, для этого скопируйте команду `adb shell sh /sdcard/Android/data/moe.shizuku.privileged.api/start.sh` и вставьте в терминал. Если проблем нет, вы увидите, что Shizuku успешно запущен в приложении Shizuku.
 
 <img src="/img/android/uninstall-apps/4.png" style="margin: 15px auto; display: block">
 
