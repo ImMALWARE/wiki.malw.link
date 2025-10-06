@@ -1,4 +1,4 @@
 ---
-title: Сервисы
+title: Прочее
 comment: false
 ---
