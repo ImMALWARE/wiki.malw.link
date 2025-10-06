@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://wiki.malw.link/sitemap.xml
-Host: wiki.malw.link
-
-User-agent: YandexBot
-Disallow: /vpns/

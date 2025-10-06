@@ -28,4 +28,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy wiki/.vitepress/dist --project-name=wiki-malw-link --commit-dirty=true
+          command: pages deploy .vitepress/dist --project-name=wiki-malw-link --commit-dirty=true
