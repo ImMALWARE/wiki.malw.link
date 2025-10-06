@@ -7,6 +7,7 @@ import { useData, useRoute } from 'vitepress';
 
 import './style/index.css'
 import Layout from './Layout.vue'
+import ErrorGlitch from './components/ErrorGlitch.vue'
 
 const theme: Theme = {
     ...DefaultTheme,
@@ -16,6 +17,7 @@ const theme: Theme = {
         googleAnalytics({
           id: 'G-KMJENJYYPP'
         })
+        app.component('ErrorGlitch', ErrorGlitch)
     },
     setup() {
         const { frontmatter } = useData();
