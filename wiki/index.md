@@ -78,8 +78,8 @@ hero:
 <!-- - [TrustedInstaller](/windows/trusted-installer) -->
 - <img src="/img/logo/wsa.png" class="inline"/>[Windows Subsystem for Android](/windows/wsa)
 
-<!-- ## Android -->
-<!-- - [Удаление системных приложений без root](/android/uninstall-apps) -->
+## Android
+- [Удаление системных приложений без root](/android/uninstall-apps)
 <!-- - [Magisk](/android/magisk) -->
 <!-- - [root права](/android/root) -->
 
