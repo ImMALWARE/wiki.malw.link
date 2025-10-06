@@ -1,0 +1,29 @@
+{
+    "type": "commonjs",
+    "name": "wiki.malw.link",
+    "version": "1.0.0",
+    "description": "Wiki malw.link",
+    "author": "MALWARE",
+    "license": "MIT",
+    "main": "index.js",
+    "homepage": "https://github.com/ImMALWARE/wiki.malw.link",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ImMALWARE/wiki.malw.link.git"
+    },
+    "bugs": {
+      "url": "https://github.com/ImMALWARE/wiki.malw.link/issues"
+    },
+    "scripts": {
+      "docs:dev": "vitepress dev",
+      "docs:build": "vitepress build",
+      "docs:preview": "vitepress preview",
+      "ghbuild": "git fetch --unshallow && vitepress build"
+    },
+    "devDependencies": {
+      "vitepress": "^1.6.4",
+      "vitepress-plugin-comment-with-giscus": "^1.1.15",
+      "vitepress-plugin-google-analytics": "^1.0.2",
+      "vitepress-sidebar": "^1.33.0"
+    }
+  }
