@@ -2,11 +2,11 @@
 
 <img src="/img/logo/scoop.png" style="float: right" width="100px">
 
-**Scoop** — это [инструмент командной строки](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B9_%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8) для установки приложений на Windows. Он похож на Winget, но имеет свои особенности.
+**Scoop** — это [инструмент командной строки](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B9_%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8) для установки приложений на Windows. Он похож на [Winget](/apps/winget), но имеет свои особенности.
 
 ## Возможности
 
- - Хранит программы в папке пользователя (%USERNAME%/scoop/apps)
+ - Хранит программы в папке пользователя (`%USERNAME%/scoop/apps`)
  - Не требует прав администратора для установки программ
  - Скрывает установщики в стиле графического интерфейса
  - Предотвращает засорение PATH при установке большого количества программ
@@ -15,7 +15,7 @@
 
 ## Установка Scoop
 
-Для установки необходимо выполнить команду в PowerShell от имени администратора
+Для установки необходимо [выполнить команду в PowerShell от имени администратора](/windows/run)
 
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
@@ -23,14 +23,11 @@ Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 ```
 
 ## Базовые команды Scoop
-
----
-
 ### Установка программ
 
 Синтаксис команды: `scoop install <название пакета>`
 
-Например: `scoop install git`, `scoop install vlc`, `scoop install python`,
+Например: `scoop install git`, `scoop install vlc`, `scoop install python`
 
 ### Поиск программ
 
@@ -38,13 +35,9 @@ Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 
 Так же можно искать программы на оффициальном сайте [scoop.sh](https://scoop.sh/)
 
----
-
 ### Список установленных программ
 
 Синтаксис команды: `scoop list`
-
----
 
 ### Удаление программ
 
