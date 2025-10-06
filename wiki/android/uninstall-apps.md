@@ -1,49 +1,47 @@
-# Удаление системных приложений без рут прав
+# Удаление системных приложений Android без root
 
-**Сanta** - приложение для удаления системных приложений без рут прав, но c использованием ADB и модуля Shisuku.
+Для удаления системных приложений без [root](/android/root), c использованием [ADB](https://ru.wikipedia.org/wiki/Android_Debug_Bridge) и [Shizuku](https://github.com/RikkaApps/Shizuku) будет использоваться приложение **Сanta**.
 
-1. Скачиваем по ссылкам ниже приложения:
-https://github.com/RikkaApps/Shizuku/releases
-https://github.com/samolego/Canta/releases/tag/3.0.2
+1. Установите Shizuku и Canta:
+    - https://github.com/RikkaApps/Shizuku/releases/download/v13.6.0/shizuku-v13.6.0.r1086.2650830c-release.apk
+    - https://github.com/samolego/Canta/releases/download/3.0.2/app-release.apk
 
-2. Нам нужен ADB, чтобы удалять наши приложения, по ссылке ниже скачиваем программу SDK Platform Tools.
+2. Для использования ADB, нужно установить Android SDK Platform Tools на компьютер.
+    На Windows проще всего использовать пакетный менеджер [winget](/apps/winget). В Windows 10 и Windows 11 он установлен по умолчанию. Для этого нужно [открыть командную строку и выполнить команду](/windows/run):
 
-Windows: https://dl.google.com/android/repository/platform-tools-latest-windows.zip
+    ```bat
+    winget install --id=Google.PlatformTools  -e
+    ```
 
-Linux: https://dl.google.com/android/repository/platform-tools-latest-linux.zip
+    > Если будет ошибка о том, что "winget не является командой", следуйте [инструкции по установке winget](/apps/winget).
 
-Mac: https://dl.google.com/android/repository/platform-tools-latest-darwin.zip
+    На Linux установите Android SDK через ваш пакетный менеджер. На macOS используйте [Homebrew](https://ru.wikipedia.org/wiki/Homebrew_(%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80_%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%B2)):
 
-После того как скачали, заходим в папку с adb, тыкаем на пустую область папки, зажимаем SHIFT и нажимаем правой кнопкой мыши, после чего откроется окно "Открыть окно PowerShell здесь". На Mac и Linux откройте Terminal. 
-<img src="/img/android/uninstall-apps/1.png" style="margin: 15px auto; display: block">
+    ```shell
+    brew install --cask android-platform-tools
+    ```
 
-После того, как открылоcь окно PowerShell, вводим команду `.\adb`, чтобы проверить работает или нет, если работает, то вам высветится версия программы.
+3. Активируйте отладку по USB на Android. На разных прошивках этот процесс может отличаться, но чаще всего сработает такой алгоритм: откройте Настройки -> "Об устройстве" -> нажмите "Номер сборки" несколько раз. Вы должны увидеть сообщение "Вы стали разработчиком". Затем в настройках появится раздел "Для разработчиков". Включите в нём "Отладку по USB".
+    Подключите устройство к компьютеру и [выполните команду в командной строке](/windows/run): `adb devices`. В этот момент на Android появится запрос на разрешение отладки. Отметьте "Всегда разрешать..." и подтвердите.
 
-<img src="/img/android/uninstall-apps/2.png" style="margin: 15px auto; display: block">
+4. [Выполните команду в командной строке](/windows/run):
+    ```
+    adb shell sh /sdcard/Android/data/moe.shizuku.privileged.api/start.sh
+    ```
+    Если всё прошло успешно, вы увидите, что Shizuku успешно запущен в приложении.
+    <img src="/img/android/uninstall-apps/1.png" style="margin: 15px auto; display: block">
 
-3. Чтобы использовать adb необходимо сделать включить отладку по USB на вашем устройстве, обычно выполнив следующие действия:
+    <img src="/img/android/uninstall-apps/2.jpg" style="margin: 15px auto; display: block; width: 300px">
 
-Откройте настройки системы и перейдите в раздел `О системе` -> нажмите `Номер сборки` несколько раз, и вы увидите сообщение, похожее на `Вы разработчик` ->  `Для разработчиков` -> включить `Отладку по USB`. Подключите устройство к компьютеру и введите `adb devices` в терминале, в это время на устройстве появится диалоговое окно `Разрешить отладку`, отметьте `Всегда разрешать` и подтвердите, вводим `adb devices` снова в терминале. Если проблем нет, вы увидите что-то вроде следующего:
+5. В Shizuku в меню "Доступно для ... приложений" активируйте Canta.
 
-<img src="/img/android/uninstall-apps/3.png" style="margin: 15px auto; display: block">
+    <img src="/img/android/uninstall-apps/3.jpg" style="margin: 15px auto; display: block; width: 300px">
+    <img src="/img/android/uninstall-apps/4.jpg" style="margin: 15px auto; display: block; width: 300px">
 
-4. Подключаем Shizuku, для этого скопируйте команду `adb shell sh /sdcard/Android/data/moe.shizuku.privileged.api/start.sh` и вставьте в терминал. Если проблем нет, вы увидите, что Shizuku успешно запущен в приложении Shizuku.
+6. Перейдите в приложение Canta. Выберите любое приложение, которое вы хотите удалить и подтвердите удаление.
 
-<img src="/img/android/uninstall-apps/4.png" style="margin: 15px auto; display: block">
+    <img src="/img/android/uninstall-apps/5.jpg" style="margin: 15px auto; display: block; width: 300px">
+    <img src="/img/android/uninstall-apps/6.jpg" style="margin: 15px auto; display: block; width: 300px">
 
-<img src="/img/android/uninstall-apps/5.png" style="margin: 15px auto; display: block">
-
-5. Заходим в приложение Shizuku и активируем приложение Canta
-
-<img src="/img/android/uninstall-apps/6.png" style="margin: 15px auto; display: block">
-<img src="/img/android/uninstall-apps/7.png" style="margin: 15px auto; display: block">
-
-Всё готово для удаления системных программ! Поздравляю! :)
-
-Теперь переходим в приложение Canta и выбираем любое приложение, которое хотим удалить нажимая на квадратик справа и на значок мусорки, всё мы удалили приложение! Обратите внимание, под приложениями пишутся плашки, что можно удалять, а что нельзя, иначе можете превратить свой телефон в кирпич или вообще не запустить его. Переводчик вам в помощь! :)
-
-!!!Также, после перезагрузки телефона может потребоваться заново настроить все сначала, если захотите снова удалить приложение.!!!
-
-<img src="/img/android/uninstall-apps/8.png" style="margin: 15px auto; display: block">
-<img src="/img/android/uninstall-apps/9.png" style="margin: 15px auto; display: block">
-<img src="/img/android/uninstall-apps/10.png" style="margin: 15px auto; display: block">
+Теги под пунктами с приложениями могут подсказать, насколько безопасно удалять приложение.
+<img src="/img/android/uninstall-apps/7.jpg" style="margin: 15px auto; display: block; width: 300px">

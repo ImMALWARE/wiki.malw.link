@@ -138,6 +138,12 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Android',
+        items: [
+          { text: 'Удаление системных приложений без root', link: '/android/uninstall-apps' }
+        ]
+      },
+      {
         'text': 'Другое',
         'items': [
           { text: 'Активация всех расширений в Google Chrome', link: '/other/chrome-ext' }
