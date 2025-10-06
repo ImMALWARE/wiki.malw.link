@@ -18,12 +18,11 @@ export const rootLocaleConfig = {
     sidebar: withPrefixToLinks(
         generateSidebar({ 
             documentRootPath: 'wiki/docs',
+            collapsed: true,
             includeRootIndexFile: true,
-            includeFolderIndexFile: true,
             useTitleFromFrontmatter: true,
             useTitleFromFileHeading: true,
             useFolderTitleFromIndexFile: true,
-            useFolderLinkFromIndexFile: true
         }),
         '/docs'
     ),
