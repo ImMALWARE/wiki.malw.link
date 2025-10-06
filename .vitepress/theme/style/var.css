@@ -1,10 +1,10 @@
 :root {
     --vp-home-hero-image-background-image: linear-gradient(270deg,
-      #ff6b6b 0%,   /* red */
-      #f8c444 25%, /* amber */
-      #34d399 50%, /* emerald */
-      #60a5fa 75%, /* blue */
-      #a78bfa 100% /* purple */
+      #ff6b6b 0%,
+      #f8c444 25%,
+      #34d399 50%,
+      #60a5fa 75%, 
+      #a78bfa 100% 
     );
     --vp-home-hero-image-filter: blur(40px);
   }
@@ -31,7 +31,6 @@
     100% { background-position: 0% 50%; }
   }
 
-  /* Пробуем применить анимацию к возможным селекторам hero изображения темы */
   .VPHero .image-bg,
   .VPHomeHero .image .image-bg,
   .VPHomeHeroImage {
@@ -54,7 +53,6 @@
     animation: vp-hero-gradient-shift 12s ease-in-out infinite;
   }
 
-  /* Главный заголовок (Hero) на главной */
   .VPHero .title,
   .VPHero .name,
   .VPHero h1,
