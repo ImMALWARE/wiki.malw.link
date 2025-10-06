@@ -19,6 +19,7 @@ export const rootLocaleConfig = {
         generateSidebar({ 
             documentRootPath: 'wiki/docs',
             collapsed: true,
+            sortMenusByName: true,
             includeRootIndexFile: true,
             useTitleFromFrontmatter: true,
             useTitleFromFileHeading: true,

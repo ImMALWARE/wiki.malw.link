@@ -1,5 +1,5 @@
 ---
-title: Рут
+title: Главная
 comment: false
 ---
 
