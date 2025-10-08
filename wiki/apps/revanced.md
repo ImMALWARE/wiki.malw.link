@@ -57,3 +57,13 @@ APK для устройств без root:
 Менеджер облегчает весь процесс модификации и обновления приложений, делая его доступным даже для пользователей без технического опыта.
 
 Скачать ReVanced Manager можно здесь: [https://revanced.app/download](https://revanced.app/download)
+
+## ReVanced Xposed
+
+**ReVanced Xposed** — это модуль для фреймворка **LSPosed**, который позволяет применять патчи **ReVanced** к приложениям «на лету», без необходимости перепаковывать APK.  
+
+Для работы требуется **root-доступ** и установленный **LSPosed**.
+
+Поддерживаемые приложения: YouTube, YouTube Music, Spotify, Google Photos и другие приложения, для которых доступны патчи.
+
+Для установки необходимо скачать APK файл [https://github.com/chsbuffer/ReVancedXposed/releases](https://github.com/chsbuffer/ReVancedXposed/releases) и активировать его в LSPosed.
