@@ -66,4 +66,4 @@ APK для устройств без root:
 
 Поддерживаемые приложения: YouTube, YouTube Music, Spotify, Google Photos и другие приложения, для которых доступны патчи.
 
-Для установки необходимо скачать APK файл [https://github.com/chsbuffer/ReVancedXposed/releases](https://github.com/chsbuffer/ReVancedXposed/releases) и активировать его в LSPosed.
+Для установки необходимо установить модуль [https://github.com/chsbuffer/ReVancedXposed/releases](https://github.com/chsbuffer/ReVancedXposed/releases) и активировать его в LSPosed.
