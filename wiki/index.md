@@ -70,11 +70,11 @@ hero:
 
 - [Отображение расширений файлов в Windows](/windows/file-ext)
 
-- [Очистка диска в Windows](/windows/cleanmgr)
+- <img src="/img/logo/cleanmgr.png" class="inline"/>[Очистка диска в Windows](/windows/cleanmgr)
 
 - <img src="/img/logo/get-help.png" class="inline"/>[Приложение Get Help в Windows](/windows/get-help)
 
-- [Переустановка Windows без флешки](/windows/install-without-usb)
+- <img src="/img/logo/install-without-usb.png" class="inline"/>[Переустановка Windows без флешки](/windows/install-without-usb)
 <!-- - [%appdata%](/windows/appdata) -->
 - [HWID](/windows/hwid)
 <!-- - [TrustedInstaller](/windows/trusted-installer) -->
