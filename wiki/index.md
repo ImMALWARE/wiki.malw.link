@@ -68,7 +68,7 @@ hero:
 ## Windows
 - <img src="/img/logo/run.png" class="inline"/>[Выполнение команды в Windows](/windows/run)
 
-- [Отображение расширений файлов в Windows](/windows/file-ext)
+- <img src="/img/logo/file-ext.png" class="inline"/>[Отображение расширений файлов в Windows](/windows/file-ext)
 
 - <img src="/img/logo/cleanmgr.png" class="inline"/>[Очистка диска в Windows](/windows/cleanmgr)
 
