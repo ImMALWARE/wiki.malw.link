@@ -63,3 +63,8 @@ winget install --id=Google.PlatformTools -e
 В [командной строке](/windows/run) напишите `adb install ` и после пробела вставьте скопированный путь.
 
 Установленное приложение появится в Пуске.
+
+### Установка APK без adb и командной строки
+Что бы воспользоваться данным способом необходимо установить программу "WSA Pacman": [https://github.com/alesimula/wsa_pacman/releases/download/v1.5.0/WSA-pacman-v1.5.0-installer.exe](https://github.com/alesimula/wsa_pacman/releases/download/v1.5.0/WSA-pacman-v1.5.0-installer.exe)
+
+После установки можно легко устанавливать приложения через проводник, нажав два раза на apk файл.
