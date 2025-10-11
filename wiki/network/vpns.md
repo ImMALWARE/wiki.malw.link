@@ -24,7 +24,6 @@
 
 ## Бесплатные рабочие [VPN-сервисы](/network/vpns/vpn-service)
 - <img src="/img/logo/warp.png" class="inline"/>[Cloudflare WARP](/network/vpns/warp) — бесплатный [VPN-сервис](/network/vpns/vpn-service) от Cloudflare. Не меняет страну IP, почти нет потерь в скорости.
-- [proxy.tegalwap.com](https://proxy.tegalwap.com) — сайт с конфигами VLESS, Trojan, ShadowSocks. Найдите сервер с наименьшим пингом, нажмите кнопку VLESS, это скопирует конфиг в буфер обмена. Вставьте его в VPN-клиент, например, [AmneziaVPN](/network/vpns/amneziavpn).
 - [VLESS Generator](https://t.me/vlessgeneratorbot) (Telegram бот) — несколько локаций на протоколе VLESS.
 - [VLESSovod](https://t.me/vlessovod_bot) (Telegram бот)
 - [LagomVPN](https://t.me/LagomVPN_bot) (Telegram бот)
