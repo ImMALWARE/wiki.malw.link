@@ -64,7 +64,8 @@ winget install --id=Google.PlatformTools -e
 
 Установленное приложение появится в Пуске.
 
-### Установка APK без adb и командной строки
-Что бы воспользоваться данным способом необходимо установить программу "WSA Pacman": [https://github.com/alesimula/wsa_pacman/releases/download/v1.5.0/WSA-pacman-v1.5.0-installer.exe](https://github.com/alesimula/wsa_pacman/releases/download/v1.5.0/WSA-pacman-v1.5.0-installer.exe)
+### WSA Pacman
+**WSA Pacman** — это удобный установщик APK для WSA, который интегрируется в проводник Windows.
+Скачайте его по ссылке [https://github.com/alesimula/wsa_pacman/releases/download/v1.5.0/WSA-pacman-v1.5.0-installer.exe](https://github.com/alesimula/wsa_pacman/releases/download/v1.5.0/WSA-pacman-v1.5.0-installer.exe)
 
-После установки можно легко устанавливать приложения через проводник, нажав два раза на apk файл.
+После установки можно будет легко устанавливать приложения обычеым запуском apk файлов из проводника Windows.

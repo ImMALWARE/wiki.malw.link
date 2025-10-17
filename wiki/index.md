@@ -74,7 +74,7 @@ hero:
 
 - <img src="/img/logo/get-help.png" class="inline"/>[Приложение Get Help в Windows](/windows/get-help)
 
-- <img src="/img/logo/install-without-usb.png" class="inline"/>[Переустановка Windows без флешки](/windows/install-without-usb)
+- <img src="/img/logo/windows11.png" class="inline"/>[Переустановка Windows без флешки](/windows/install-without-usb)
 <!-- - [%appdata%](/windows/appdata) -->
 - [HWID](/windows/hwid)
 <!-- - [TrustedInstaller](/windows/trusted-installer) -->

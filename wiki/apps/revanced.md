@@ -60,10 +60,10 @@ APK для устройств без root:
 
 ## ReVanced Xposed
 
-**ReVanced Xposed** — это модуль для фреймворка **LSPosed**, который позволяет применять патчи **ReVanced** к приложениям «на лету», без необходимости перепаковывать APK.  
+**ReVanced Xposed** — это модуль для фреймворка [Xposed/LSPosed](/android/xposed), который позволяет применять патчи **ReVanced** к приложениям «на лету», без необходимости перепаковывать APK.
 
-Для работы требуется **root-доступ** и установленный **LSPosed**.
+Для работы требуется **root** и установленный **Xposed** или **LSPosed**.
 
 Поддерживаемые приложения: YouTube, YouTube Music, Spotify, Google Photos и другие приложения, для которых доступны патчи.
 
-Для установки необходимо установить модуль [https://github.com/chsbuffer/ReVancedXposed/releases](https://github.com/chsbuffer/ReVancedXposed/releases) и активировать его в LSPosed.
+Для установки необходимо установить модуль: [https://github.com/chsbuffer/ReVancedXposed/releases](https://github.com/chsbuffer/ReVancedXposed/releases) и активировать его в приложении **Xposed** или **LSPosed**.
