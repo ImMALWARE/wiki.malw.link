@@ -18,6 +18,14 @@ winget install yt-dlp --source winget
 
 > Если будет ошибка о том, что "winget не является командой", следуйте [инструкции по установке winget](/apps/winget).
 
+#### scoop
+
+Если у вас установлен [Scoop](/apps/scoop), то yt-dlp можно установить с помощью него. Для этого нужно выполнить команду:
+
+```bat
+scoop install yt-dlp
+```
+
 #### pip
 
 Если у вас установлен [Python](https://ru.wikipedia.org/wiki/Python), то yt-dlp можно установить с помощью [пакетного менеджера pip](https://ru.wikipedia.org/wiki/Pip_(%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80_%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%B2)). Для этого нужно выполнить команду:
