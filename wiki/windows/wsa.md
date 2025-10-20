@@ -68,4 +68,4 @@ winget install --id=Google.PlatformTools -e
 **WSA Pacman** — это удобный установщик APK для WSA, который интегрируется в проводник Windows.
 Скачайте его по ссылке [https://github.com/alesimula/wsa_pacman/releases/download/v1.5.0/WSA-pacman-v1.5.0-installer.exe](https://github.com/alesimula/wsa_pacman/releases/download/v1.5.0/WSA-pacman-v1.5.0-installer.exe)
 
-После установки можно будет легко устанавливать приложения обычеым запуском apk файлов из проводника Windows.
+После установки можно будет легко устанавливать приложения обычным запуском apk файлов из проводника Windows.
