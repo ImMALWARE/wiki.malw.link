@@ -111,7 +111,7 @@ powershell -command "[Net.ServicePointManager]::SecurityProtocol = [Net.Security
 
 ### Office 2010
 
-1.  Скачайте архив: https://github.com/ImMALWARE/MalwTool/raw/main/files/Office\_2010\_Library.zip
+1.  Скачайте архив: https://github.com/ImMALWARE/MalwTool/raw/main/files/Office_2010_Library.zip
 2.  Распакуйте его в какую-нибудь папку
 3.  Скопируйте путь к папке, куда были распакованы файлы из архива
     <img src="/img/apps/malwtool/3.png" style="margin: 15px auto; display: block">
@@ -135,7 +135,7 @@ powershell -command "[Net.ServicePointManager]::SecurityProtocol = [Net.Security
 
 ### Office 2013
 
-1.  Скачайте архив: https://github.com/ImMALWARE/MalwTool/raw/main/files/Office\_2013\_Library.zip
+1.  Скачайте архив: https://github.com/ImMALWARE/MalwTool/raw/main/files/Office_2013_Library.zip
 2.  Распакуйте его в какую-нибудь папку
 3.  Скопируйте путь к папке, куда были распакованы файлы из архива
 4.  Откройте cmd от имени администратора
