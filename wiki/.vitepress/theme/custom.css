@@ -14,7 +14,14 @@ img.inline {
 img {
   cursor: pointer;
 }
-
 .giscus {
   margin-top: 20px;
+}
+:root {
+   --vp-c-bg: #ffffffe5;
+}
+.dark {
+  --vp-c-bg: #000000e5;
+  --vp-home-hero-image-background-image: linear-gradient(-45deg, #2e2f33 50%, #1d1f24 50%);
+  --vp-c-bg-alt: #0f0d13;
 }

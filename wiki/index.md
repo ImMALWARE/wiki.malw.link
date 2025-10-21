@@ -20,6 +20,10 @@ hero:
       text: Основной сайт
       link: https://malw.link
 ---
+<BackdropAnimation />
+<script setup>
+import BackdropAnimation from '/.vitepress/theme/components/main_mountains.vue'
+</script>
 # Список всех статей
 ## Программы на ПК
 - [AutoTotal](/apps/autototal)
