@@ -96,6 +96,7 @@ export default defineConfig({
           { text: 'MalwTool', link: '/apps/malwtool' },
           { text: 'Rufus', link: '/apps/rufus' },
           { text: 'Spicetify', link: '/apps/spicetify' },
+          { text: 'uBlock Origin', link: '/apps/ubo' },
           { text: 'Vencord и Vesktop', link: '/apps/vencord' },
           { text: 'Ventoy', link: '/apps/ventoy' },
           { text: 'winget', link: '/apps/winget' },
