@@ -33,7 +33,7 @@ hero:
 - <img src="/img/logo/spicetify.png" class="inline">[Spicetify](/apps/spicetify)
 <!-- - [System Informer](/apps/system-informer) -->
 <!-- - [th-ch/YouTube Music](/apps/youtube-music) -->
-<!-- - [uBlock Origin](/apps/ublock-origin) -->
+- <img src="/img/logo/ubo.svg" class="inline">[uBlock Origin](/apps/ubo)
 <!-- - [UniGetUI](/apps/unigetui) -->
 - <img src="/img/logo/vencord.png" class="inline">[Vencord и Vesktop](/apps/vencord)
 
