@@ -3,7 +3,7 @@
 <img src="/img/logo/windows10.png" style="float: right" width="100px">
 
 ## Шаг 1: Скачайте ISO-образ Windows
-Проще всего сделать это на https://malw.link/app/malwtool
+Проще всего сделать это на https://malw.link/apps/malwtool
 
 ## Шаг 2 (необязательно): Сделайте резервную копию драйверов
 Для этого [выполните команду в Командной строке от имени администратора](/windows/run):
