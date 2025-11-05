@@ -11,6 +11,7 @@
 ## Простая генерация конфигурационного файла WARP для AmneziaWG
 
 *   Самый простой способ — использовать онлайн-генераторы конфигов на сайтах (**это не мои сайты**):
+    *   https://warp-mirrors.vercel.app
     *   https://config-generator-warp.vercel.app
     *   https://warp-gen.vercel.app
     *   https://warp.llimonix.pw

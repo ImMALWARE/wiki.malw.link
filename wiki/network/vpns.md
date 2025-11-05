@@ -1,5 +1,9 @@
 # Ускорение устаревших серверов
 
+::: info Информация
+Эта статья требует постоянного обновления информации. [Принять участие в написании](https://github.com/ImMALWARE/wiki.malw.link?tab=contributing-ov-file)
+:::
+
 ## Теория
 - [VPN](/network/vpns/vpn)
 - [VPN-сервис](/network/vpns/vpn-service)
@@ -24,18 +28,27 @@
 
 ## Бесплатные рабочие [VPN-сервисы](/network/vpns/vpn-service)
 - <img src="/img/logo/warp.png" class="inline"/>[Cloudflare WARP](/network/vpns/warp) — бесплатный [VPN-сервис](/network/vpns/vpn-service) от Cloudflare. Не меняет страну IP, почти нет потерь в скорости.
-- [VLESS Generator](https://t.me/vlessgeneratorbot) (Telegram бот) — несколько локаций на протоколе VLESS.
-- [VLESSovod](https://t.me/vlessovod_bot) (Telegram бот)
 - [LagomVPN](https://t.me/LagomVPN_bot) (Telegram бот)
 - <img src="/img/logo/amneziavpn.png" class="inline"/>[Amnezia Free](/network/vpns/amnezia-free) — бесплатный VPN-сервис от разработчиков [AmneziaVPN](/network/vpns/amneziavpn). YouTube работать не будет.
-- [FineVPN](https://t.me/FineVPNbot) (Telegram бот)
 - [Privio](https://t.me/PrivioTech_bot) (Telegram бот)
 - [Liberty Free](https://t.me/liberty_free_link_bot) (Telegram бот)
+- [Waicore VPN](https://t.me/waicorevpn_bot) (Telegram бот)
+- [EOFVPN](https://t.me/eofvpnbot) (Telegram бот)
+- [FPTN VPN](https://fptn.org)
+- [V4Freedom](https://v4freedom.com)
+- [HLVPN](https://t.me/hlvpnbot) (Telegram бот)
+- [Whitenet VPN](https://t.me/whitenetvpn_bot) (Telegram бот)
+- [VLESS Generator](https://t.me/vlessgeneratorbot) (Telegram бот)
 - [Aeza Security](https://aezasecurity.net)
 - [Windscribe](https://windscribe.com)
 - [nthLink](https://www.nthlink.com)
 - [Seed4me](https://seed4.me)
 - [AdGuard VPN](https://adguard-vpn.com/ru)
 - <img src="/img/logo/censor-tracker.png" class="inline"/>[Censor Tracker](/network/vpns/censor-tracker) — расширение для браузера, проксирует заблокированные сайты, с возможностью добавлять домены в список.
+
+## Бесплатные публичные ключи VLESS
+- [Goida VPN Configs](https://github.com/AvenCores/goida-vpn-configs)
+- [V2Ray List](https://openproxylist.com/v2ray/)
+- [Агрегатор подписок](https://sub-aggregator.vercel.app)
 
 <img src="/img/vpn_cat.jpeg">
