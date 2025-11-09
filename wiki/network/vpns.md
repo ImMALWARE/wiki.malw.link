@@ -9,6 +9,7 @@
 
 ## Программы
 - <img src="/img/logo/zapret.png" class="inline"/>[zapret](/network/vpns/zapret) — автономный инструмент противодействия ограничениям DPI. Работает локально на вашем устройстве, без потерь в скорости интернета.
+- <img src="/img/logo/zapret.png" class="inline"/>[blockcheck](/network/vpns/blockcheck) — скрипт-анализатор способов обхода [DPI](https://ru.wikipedia.org/wiki/Deep_packet_inspection). Используется для автоматизированного подбора стратегий для [zapret](/network/vpns/zapret) в текущей сети по заданным параметрам.
 <!-- - [Hiddify](/network/vpns/hiddify) -->
 - <img src="/img/logo/byebyedpi.svg" class="inline"/>[ByeByeDPI](/network/vpns/byebyedpi) — аналог zapret для Android без root.
 - <img src="/img/logo/orbot.png" class="inline"/>[Orbot](/network/vpns/orbot)
