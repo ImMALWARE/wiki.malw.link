@@ -15,7 +15,7 @@
 
     > Если будет ошибка о том, что "winget не является командой", следуйте [инструкции по установке winget](/apps/winget).
 
-    На Linux установите Android SDK через ваш пакетный менеджер. На macOS используйте [Homebrew](https://ru.wikipedia.org/wiki/Homebrew_(%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80_%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%B2)):
+    На Linux установите Android SDK через ваш пакетный менеджер. На macOS используйте [Homebrew](/apps/homebrew):
 
     ```shell
     brew install --cask android-platform-tools

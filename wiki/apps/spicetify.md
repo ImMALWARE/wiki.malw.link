@@ -36,7 +36,7 @@ curl -fsSL https://raw.githubusercontent.com/spicetify/cli/main/install.sh | sh
 
 Когда установщик предложит также установить Marketplace, нажмите `Y` и Enter.
 
-### Через Homebrew ​
+### Через [Homebrew](/apps/homebrew) 
 
 ```shell
 brew install spicetify-cli

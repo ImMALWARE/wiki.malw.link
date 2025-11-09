@@ -93,7 +93,7 @@ export default defineConfig({
         text: 'Программы на ПК',
         items: [
           { text: 'AutoTotal', link: '/apps/autototal' },
-          { text: 'HomeBrew', link: '/apps/homebrew' },
+          { text: 'Homebrew', link: '/apps/homebrew' },
           { text: 'MalwTool', link: '/apps/malwtool' },
           { text: 'Rufus', link: '/apps/rufus' },
           { text: 'Spicetify', link: '/apps/spicetify' },
