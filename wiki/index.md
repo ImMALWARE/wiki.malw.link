@@ -29,6 +29,8 @@ import BackdropAnimation from '/.vitepress/theme/components/main_mountains.vue'
 - [AutoTotal](/apps/autototal)
 <!-- - [Autoruns](/apps/autoruns) -->
 <!-- - [Bulk Crap Uninstaller](/apps/bulk-crap-uninstaller) -->
+- <img src="/img/logo/homebrew.png" class="inline">[Homebrew](/apps/homebrew)
+
 - <img src="/img/logo/powershell.png" class="inline">[MalwTool](/apps/malwtool)
 <!-- - [Millenium for Steam](/apps/millenium-for-steam) -->
 <!-- - [NanaZip](/apps/nanazip) -->
@@ -50,8 +52,6 @@ import BackdropAnimation from '/.vitepress/theme/components/main_mountains.vue'
 - <img src="/img/logo/wireshark.png" class="inline">[Wireshark](/apps/wireshark)
 
 - <img src="/img/logo/yt-dlp.png" class="inline">[yt-dlp](/apps/yt-dlp)
-
-- <img src="/img/logo/homebrew.png" class="inline">[Homebrew](/apps/homebrew)
 
 ## Программы на Android
 <!-- - [App Manager](/apps/app-manager) -->
