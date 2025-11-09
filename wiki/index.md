@@ -29,6 +29,8 @@ import BackdropAnimation from '/.vitepress/theme/components/main_mountains.vue'
 - [AutoTotal](/apps/autototal)
 <!-- - [Autoruns](/apps/autoruns) -->
 <!-- - [Bulk Crap Uninstaller](/apps/bulk-crap-uninstaller) -->
+- <img src="/img/logo/homebrew.png" class="inline">[Homebrew](/apps/homebrew)
+
 - <img src="/img/logo/powershell.png" class="inline">[MalwTool](/apps/malwtool)
 <!-- - [Millenium for Steam](/apps/millenium-for-steam) -->
 <!-- - [NanaZip](/apps/nanazip) -->
