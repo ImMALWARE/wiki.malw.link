@@ -51,6 +51,8 @@ import BackdropAnimation from '/.vitepress/theme/components/main_mountains.vue'
 
 - <img src="/img/logo/yt-dlp.png" class="inline">[yt-dlp](/apps/yt-dlp)
 
+- <img src="/img/logo/homebrew.png" class="inline">[Homebrew](/apps/homebrew)
+
 ## Программы на Android
 <!-- - [App Manager](/apps/app-manager) -->
 <!-- - [Kizzy](/apps/kizzy) -->
