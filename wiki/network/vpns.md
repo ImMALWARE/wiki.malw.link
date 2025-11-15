@@ -39,6 +39,8 @@
 - [V4Freedom](https://v4freedom.com)
 - [HLVPN](https://t.me/hlvpnbot) (Telegram бот)
 - [Whitenet VPN](https://t.me/whitenetvpn_bot) (Telegram бот)
+- [WhiteDead VPN](@whitedeadvpnbot) (Telegram бот)
+- [astracatvpnX](@astracatvpnX_bot) (Telegram бот)
 - [VLESS Generator](https://t.me/vlessgeneratorbot) (Telegram бот)
 - [Aeza Security](https://aezasecurity.net)
 - [Windscribe](https://windscribe.com)
