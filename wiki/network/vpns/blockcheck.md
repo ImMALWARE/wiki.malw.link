@@ -68,7 +68,7 @@
 
 В [моей сборке zapret](/network/vpns/zapret) есть файл `config.txt`, в котором легко можно отредактировать стратегию. Все стратегии из blockcheck предназначены только для HTTPS (TCP и UDP). Поэтому нужно заменить только те строки в `config.txt`, которая отвечают за HTTPS (TCP и UDP).
 
-TCP стратегия в `config.txt` начинается с `--filter-tcp=443 --hostlist-auto={hosts} --hostlist-exclude={ignore}`, `--filter-udp=443 --hostlist-auto={hosts} --hostlist-exclude={ignore}`, обе заканчиваются на `--new`. Всё, что между ними, стоит заменить на найденные стратегии из blockcheck.
+TCP стратегия в `config.txt` начинается с `--filter-tcp=443 --hostlist-auto={hosts} --hostlist-exclude={ignore}`, UDP начинается с `--filter-udp=443 --hostlist-auto={hosts} --hostlist-exclude={ignore}`, обе заканчиваются на `--new`. Всё, что между ними, стоит заменить на найденные стратегии из blockcheck.
 
 ## Пример действий замены стратегий
 Первая стратегия со скриншота выше содержит `--wf-tcp=443`. Значит, она для TCP. Значит нужно в `config.txt` заменить эту строку:
