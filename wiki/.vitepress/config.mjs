@@ -109,9 +109,11 @@ export default defineConfig({
       {
         text: 'Программы на Android',
         items: [
+          { text: 'NFC Card Emulator (Эмулятор карт)', link: '/apps/nfc-card-emulator' },
           { text: 'PCAPdroid', link: '/apps/pcapdroid' },
           { text: 'ReVanced', link: '/apps/revanced' },
-          { text: 'SmartTube', link: '/apps/smarttube' }
+          { text: 'SmartTube', link: '/apps/smarttube' },
+          { text: 'YTDLnis', link: '/apps/ytdlnis' }
         ]
       },
       {

@@ -55,12 +55,11 @@ import BackdropAnimation from '/.vitepress/theme/components/main_mountains.vue'
 
 ## Программы на Android
 <!-- - [App Manager](/apps/app-manager) -->
-<!-- - [Kizzy](/apps/kizzy) -->
-<!-- - [NFC Card Emulator](/apps/nfc-card-emulator) -->
+- <img src="/img/logo/nfc-card-emulator.png" class="inline">[NFC Card Emulator (Эмулятор карт)](/apps/nfc-card-emulator)
 - <img src="/img/logo/pcapdroid.png" class="inline">[PCAPdroid](/apps/pcapdroid)
 - <img src="/img/logo/revanced.png" class="inline">[ReVanced](/apps/revanced)
 - <img src="/img/logo/smarttube.png" class="inline">[SmartTube](/apps/smarttube)
-<!-- - [YTDLnis](/apps/ytdlnis) -->
+- <img src="/img/logo/ytdlnis.png" class="inline">[YTDLnis](/apps/ytdlnis)
 
 ## Сервисы
 - <img src="/img/logo/ipfs.png" class="inline">[IPFS](/services/ipfs)
