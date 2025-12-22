@@ -2,7 +2,7 @@
 
 <img src="/img/logo/spicetify.png" style="float: right" width="80px">
 
-**Spicetify** — это [инструмент командной строки](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B9_%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8) для кастомизации настройки внешнего вида и поведения [Spotify](https://ru.wikipedia.org/wiki/Spotify) на Windows, Linux, macOS.
+**Spicetify** — это [инструмент командной строки](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B9_%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8) для настройки внешнего вида и поведения [Spotify](https://ru.wikipedia.org/wiki/Spotify) на Windows, Linux, macOS.
 
 ## Установка
 
@@ -56,7 +56,7 @@ yay -S spicetify-cli
 
 ```shell
 sudo chmod a+wr /opt/spotify
-sudo chmod a+wr /opt/spotify/Apps -R
+sudo chmod -R a+wr /opt/spotify/Apps 
 spicetify backup apply
 ```
 
@@ -83,7 +83,7 @@ sudo chmod a+wr /usr/share/spotify/Apps -R
 
 ### Если Spotify из Flatpak
 
-Вам нужно найти путь к Spotify. В Manjaro и Fedora, путь такой:
+Вам нужно найти путь к Spotify. В Manjaro и Fedora путь такой:
 
 ```shell
 /var/lib/flatpak/app/com.spotify.Client/x86_64/stable/active/files/extra/share/spotify/
@@ -95,7 +95,7 @@ sudo chmod a+wr /usr/share/spotify/Apps -R
 ~/.local/share/flatpak/app/com.spotify.Client/x86_64/stable/active/files/extra/share/spotify/
 ```
 
-У вас он может быть другой. Когда вы найдёте путь, нужно отредактировать файл `~/.config/spicetify/config-xpui.ini`, поставить параметру `spotify_path` значение, которое соответствует пути к Spotify.
+У вас он может быть другим. Когда вы найдёте путь, нужно отредактировать файл `~/.config/spicetify/config-xpui.ini`, поставить параметру `spotify_path` значение, которое соответствует пути к Spotify.
 
 Выдайте разрешения к этому пути и к подпапке Apps (замените путь в команде):
 
@@ -119,11 +119,11 @@ spicetify config prefs_path ~/.var/app/com.spotify.Client/config/spotify/prefs
 
 ## Для пользователей macOS после установки
 
-Нужно отредактировать файл `~/.config/spicetify/config-xpui.ini`, поставить параметру `spotify_path` значение `/Applications/Spotify.app/Contents/Resources`.
+Нужно отредактировать файл `~/.config/spicetify/config-xpui.ini`, присвоить параметру `spotify_path` значение `/Applications/Spotify.app/Contents/Resources`.
 
 ## Marketplace
 
-Если всё установлено правильно, в Spotify должен появиться значок Marketplace в верхнем левом углу. Заходите и устанавливайте нужные вам расширения и темы. Если же он не появился — возможно, Marketplace нужно установить дополнительно.
+Если всё установлено правильно, в Spotify должен появиться значок Marketplace в верхнем левом углу. Перейдите в него и установите нужные вам расширения и темы. Если же он не появился — возможно, Marketplace нужно установить дополнительно.
 
 Команда Windows, нужно выполнять в PowerShell **не от имени администратора**.
 

@@ -2,19 +2,19 @@
 
 <img src="/img/logo/invizible-pro.png" style="float: right" width="150px">
 
-**InviZible Pro** — клиент [Tor](https://ru.wikipedia.org/wiki/Tor), [I2P](https://ru.wikipedia.org/wiki/I2P) и [DNSCrypt](https://ru.wikipedia.org/wiki/DNSCrypt) для Android с открытым исходным кодом. Приложение известно тем, что одним из первых внесло изменения в протокол WebTunnel, схоже с [Tor Portable](/network/vpns/tor-portable). Оно поставляет мосты WebTunnel в готовом виде, не требуя их поиска от своего пользователя, поэтому очень легко в настройке.
+**InviZible Pro** — клиент [Tor](https://ru.wikipedia.org/wiki/Tor), [I2P](https://ru.wikipedia.org/wiki/I2P) и [DNSCrypt](https://ru.wikipedia.org/wiki/DNSCrypt) для Android с открытым исходным кодом. Приложение известно тем, что одним из первых внесло изменения в протокол WebTunnel, схоже с [Tor Portable](/network/vpns/tor-portable). Оно поставляет мосты WebTunnel в готовом виде, не требуя от пользователя их поиска, поэтому оно очень лёгкое в настройке.
 
-[GitHub репозиторий](https://github.com/Gedsh/InviZible).
+[GitHub-репозиторий](https://github.com/Gedsh/InviZible).
 
 ## Использование
 
 1.  Скачайте [последнюю версию InviZible Pro](https://github.com/Gedsh/InviZible/releases/latest) с GitHub и установите её. В Play Маркете находится устаревшая версия.
 2.  Зайдите в быстрые настройки и активируйте пункт «Подделать SNI».
     <img src="/img/network/vpns/invizible-pro/1.png" style="margin: 15px auto; display: block" width="auto">
-3.  Внутри быстрых настроек зайдите в мосты, выберите пункт «Использовать список мостов по умолчанию» и укажите в нём webtunnel. Активируйте все мосты, что предложит приложение.
+3.  Внутри быстрых настроек зайдите в мосты, выберите пункт «Использовать список мостов по умолчанию» и укажите в нём webtunnel. Активируйте все мосты, которые предложит приложение.
     <img src="/img/network/vpns/invizible-pro/2.png" style="margin: 15px auto; display: block" width="auto">
 4.  Вернитесь обратно и запустите Tor.
-5.  Если качество подключения вас не устроило, то вернитесь в мосты и удалите нерабочий. Вам будут выданы значения пинга до мостов. Зелёный пинг — хорошо, красный пинг или отсутствие пинга — плохо, такие мосты стоит удалить. Также нерабочий мост даёт ошибки в логах в разделе TOR. Если вам нужны самые лучшие из возможных мостов, то на июль 2025 стабильно и быстро работали эти пять:
+5.  Если качество подключения вас не устроило, то вернитесь в мосты и удалите нерабочий. Вы увидите значения пинга до мостов. Зелёный пинг — хорошо, красный пинг или отсутствие пинга — плохо, такие мосты стоит удалить. Также нерабочий мост даёт ошибки в логах в разделе TOR. Если вам нужны самые лучшие из возможных мостов, то на июль 2025 стабильно и быстро работали эти пять:
     ```text
     Bridge webtunnel [2001:db8:75db:c6f2:1dae:121:7a04:9e9d]:443 4B673DF159CFC12AC91FC2E6AC3047FF2183FCEA url=http://freifunk.ckgc.de/xBKEzZunnc3A5pcf6jaeVyPL ver=0.0.1
 

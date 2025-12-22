@@ -8,13 +8,13 @@
 
 ### Активация
 
-*   Windows 10/11 всех редакций, в том числе [LTSC](https://ru.wikipedia.org/wiki/LTSC) (LTSC будет конвертирована в LTSC IoT, она имеет более долгий срок поддержки) по HWID (активация будет сохраняться даже после переустановки системы)
+*   Windows 10/11 всех редакций, в том числе [LTSC](https://ru.wikipedia.org/wiki/LTSC) (LTSC будет конвертирована в LTSC IoT, которая имеет более долгий срок поддержки) по HWID (активация будет сохраняться даже после переустановки системы)
 *   Конвертирование Windows [LTSC Evaluation](/windows/ltsc-evaluation) в LTSC
 *   [Windows Server](https://ru.wikipedia.org/wiki/Windows_Server) 2022, Windows Server Standard, Windows Server Datacenter, 2019, 2016, 2012, 2012 R2, 1803, 1709 через KMS
 *   Office 2013, 2016, 2019, 2021, 2024, 365 через sppc.dll
-*   [Visio](https://ru.wikipedia.org/wiki/Microsoft_Visio) 2016/2019/2021 -> 2021 (будут конвертированы в 2021) через KMS
-*   [Project](https://ru.wikipedia.org/wiki/Microsoft_Project) 2016/2019/2021 -> 2021 (будут конвертированы в 2021) через KMS
-*   [Prism Launcher](https://prismlauncher.org) (разблокировка оффлайн аккаунта)
+*   [Visio](https://ru.wikipedia.org/wiki/Microsoft_Visio) 2016/2019/2021 (будут конвертированы в 2021) через KMS
+*   [Project](https://ru.wikipedia.org/wiki/Microsoft_Project) 2016/2019/2021 (будут конвертированы в 2021) через KMS
+*   [Prism Launcher](https://prismlauncher.org) (разблокировка офлайн-аккаунта)
 *   TL (разблокировка возможности отключить добавление рекламных серверов)
 *   [MobaXterm](https://mobaxterm.mobatek.net)
 
@@ -27,7 +27,7 @@
 *   Windows 8.1
 *   Windows Server 2025, 2022, 2019, 2016, 2012
 *   [Rufus](/apps/rufus)
-*   Office 2024, 2021, 2019, 2016, 2013 (онлайн-установщик либо ISO архив. В случае онлайн-установщика, MalwTool поможет обойти ограничения)
+*   Office 2024, 2021, 2019, 2016, 2013 (онлайн-установщик либо ISO-образ. В случае онлайн-установщика, MalwTool поможет обойти ограничения)
 *   Visio 2024 (ISO)
 *   Project 2024 (ISO)
 
@@ -38,7 +38,7 @@
 *   Установить [Microsoft Store](https://ru.wikipedia.org/wiki/Microsoft_Store) (для версий Windows без Microsoft Store)
 *   Резервное копирование и восстановление драйверов (рекомендуется при переустановке)
 *   Полное удаление [Microsoft Edge](https://ru.m.wikipedia.org/wiki/Microsoft_Edge)
-*   Удаление CompatTelRunner.exe и wsqmcons.exe (системные шпионские файлы, нагружают процессор во вред)
+*   Удаление CompatTelRunner.exe и wsqmcons.exe (системные шпионские файлы, создают излишнюю нагрузку на процессор)
 *   Установка [Spicetify](/apps/spicetify)
 *   [Добавление строк в файл hosts для обхода ограничений](https://info.dns.malw.link/hosts)
 
@@ -48,7 +48,7 @@
 *   Инструмент удаления Office (необходимо установленное приложение "[Техническая поддержка](/windows/get-help)" (Get Help) в Windows)
 *   Отсутствие папки Office16
 *   Сброс KMS-активации Windows
-*   Проверка системных файлов на целостность (выполняет команды sfc /scannow, DISM /Online /Cleanup-Image /RestoreHealth, chkdsk C: /b /x)
+*   Проверка целостности системных файлов (выполняет команды sfc /scannow, DISM /Online /Cleanup-Image /RestoreHealth, chkdsk C: /b /x)
 
 ## Запуск
 
@@ -90,7 +90,7 @@ powershell -command "[Net.ServicePointManager]::SecurityProtocol = [Net.Security
 ### Windows 7
 
 ::: warning Внимание
-Активировать этим способом возможно только Профессиональную (Professional) и Корпоративную (Enterprise) редакцию Windows 7! [Как узнать?](/windows/win7-edition)
+Этим способом можно активировать только Профессиональную (Professional) и Корпоративную (Enterprise) редакцию Windows 7! [Как узнать?](/windows/win7-edition)
 :::
 
 1.  Откройте PowerShell от имени администратора:
@@ -112,7 +112,7 @@ powershell -command "[Net.ServicePointManager]::SecurityProtocol = [Net.Security
 ### Office 2010
 
 1.  Скачайте архив: https://github.com/ImMALWARE/MalwTool/raw/main/files/Office_2010_Library.zip
-2.  Распакуйте его в какую-нибудь папку
+2.  Распакуйте его в любую папку
 3.  Скопируйте путь к папке, куда были распакованы файлы из архива
     <img src="/img/apps/malwtool/3.png" style="margin: 15px auto; display: block">
 4.  Откройте cmd от имени администратора

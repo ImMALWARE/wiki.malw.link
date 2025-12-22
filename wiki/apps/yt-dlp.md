@@ -2,7 +2,7 @@
 
 <img src="/img/logo/yt-dlp.png" style="float: right" width="200">
 
-**yt-dlp** — это многофункциональный [инструмент командной строки](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B9_%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8) для загрузки аудио и видео с поддержкой [тысяч сайтов](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) (YouTube, Twitch, TikTok, SoundCloud и т.д.). Является [форком](https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D0%BA) [youtube-dl](https://github.com/ytdl-org/youtube-dl), созданный после того, как основной проект перестал активно развиваться.
+**yt-dlp** — это многофункциональный [инструмент командной строки](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B9_%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8) для загрузки аудио и видео с поддержкой [тысяч сайтов](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) (YouTube, Twitch, TikTok, SoundCloud и т.д.). Является [форком](https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D0%BA) [youtube-dl](https://github.com/ytdl-org/youtube-dl), созданным после того, как основной проект перестал активно развиваться.
 
 ## Установка
 
@@ -10,7 +10,7 @@
 
 #### winget
 
-Самый простой способ это установка через пакетный менеджер [winget](/apps/winget). В Windows 10 и Windows 11 он установлен по умолчанию. Для этого нужно [открыть командную строку и выполнить команду](/windows/run):
+Самый простой способ — установка через пакетный менеджер [winget](/apps/winget). В Windows 10 и Windows 11 он установлен по умолчанию. Для этого нужно [открыть командную строку и выполнить команду](/windows/run):
 
 ```bat
 winget install yt-dlp --source winget
@@ -20,7 +20,7 @@ winget install yt-dlp --source winget
 
 #### scoop
 
-Если у вас установлен [Scoop](/apps/scoop), то yt-dlp можно установить с помощью него. Для этого нужно выполнить команду:
+Если у вас установлен [Scoop](/apps/scoop), то yt-dlp можно установить с его помощью. Для этого нужно выполнить команду:
 
 ```bat
 scoop install yt-dlp
@@ -88,7 +88,7 @@ yt-dlp доступен в виде приложения [YTDLnis](/apps/ytdlnis
 | Команда                                                                                                                              | Описание                                                                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | `yt-dlp -x --audio-format mp3 https://www.youtube.com/watch?v=bLZHcnuqscU`                                                             | Скачать только аудио (`-x`) в формате mp3.                                                                                                                                                                                                                                      |
-| `yt-dlp -f 'bestaudio[height<=720]+bestvideo[height<=720]' --merge-output-format mp4 https://www.youtube.com/watch?v=bLZHcnuqscU`      | Скачивает видео в качестве (`-f`) 720p в формате (`--merge-output-format`) mp4.                                                                                                                                                                                                  |
+| `yt-dlp -f "bestaudio[height<=720]+bestvideo[height<=720]" --merge-output-format mp4 https://www.youtube.com/watch?v=bLZHcnuqscU`      | Скачивает видео в качестве (`-f`) 720p в формате (`--merge-output-format`) mp4.                                                                                                                                                                                                  |
 | `yt-dlp -x --audio-format mp3 --embed-thumbnail --embed-metadata https://www.youtube.com/watch?v=bLZHcnuqscU`                           | Скачать только аудио (`-x`) в формате mp3, при этом вытащить обложку (`--embed-thumbnail`) и [метаданные](https://ru.wikipedia.org/wiki/ID3_(%D0%BC%D0%B5%D1%82%D0%B0%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5)) (`--embed-metadata`) видео и записать их в файл mp3. |
 | `yt-dlp --proxy socks5://login:password@127.0.0.1:1080 https://www.youtube.com/watch?v=bLZHcnuqscU`                                    | Скачать видео, используя [прокси](https://ru.wikipedia.org/wiki/Прокси-сервер) [socks5](https://ru.wikipedia.org/wiki/SOCKS) (также можно использовать http, https, socks4) с логином и паролем.                                                                                       |
 | `yt-dlp --cookies-from chrome https://vk.com/video685728764_456239017`                                                                 | Скачать видео с сайта, на котором обязательно нужен вход в аккаунт (например, файлообменник, Boosty) путём установки файлов Cookie, которые будут взяты из браузера Chrome. Вы должны войти в аккаунт в этом браузере. Вместо chrome может быть brave, chromium, edge, firefox, opera, safari, vivaldi, whale. |

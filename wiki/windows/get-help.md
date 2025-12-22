@@ -2,7 +2,7 @@
 
 <img src="/img/logo/get-help.png" style="float: right;" width="150px">
 
-**Техническая поддержка (Get Help)** — встроенное приложение в [Windows](https://ru.wikipedia.org/wiki/Windows) для обращения в поддержку Microsoft. В большинстве случаев оно бесполезно, но имеет одну полезную функцию — инструмент полного удаления [Office](https://ru.wikipedia.org/wiki/Microsoft_Office).
+**Техническая поддержка (Get Help)** — встроенное приложение в [Windows](https://ru.wikipedia.org/wiki/Windows) для обращения в поддержку Microsoft. Оно имеет особенную функцию — инструмент полного удаления [Office](https://ru.wikipedia.org/wiki/Microsoft_Office).
 
 ## Полное удаление Office
 
@@ -14,7 +14,7 @@ ms-contact-support://smc-to-emerald/SARA-UninstallOffice
 
 ## Установка Get Help
 
-Если приложение "Техническая поддержка" (Get Help) у вас отсутствует, его можно установить через [Microsoft Store](https://ru.wikipedia.org/wiki/Microsoft_Store). Убедитесь, что у вас установлен Microsoft Store (если нет — можно установить с помощью [MalwTool](/apps/malwtool)) и [выполните команду](/windows/run):
+Если приложение "Техническая поддержка" (Get Help) у вас отсутствует, его можно установить через [Microsoft Store](https://ru.wikipedia.org/wiki/Microsoft_Store). Убедитесь, что у вас установлен Microsoft Store (если его нет, воспользуйтесь [MalwTool](/apps/malwtool)). Затем [выполните команду](/windows/run):
 
 ```bat
 ms-windows-store://pdp/?PFN=Microsoft.Gethelp_8wekyb3d8bbwe

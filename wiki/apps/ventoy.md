@@ -2,7 +2,7 @@
 
 <img src="/img/logo/ventoy.png" style="float: right" width="100px">
 
-**Ventoy** — инструмент с [открытым исходным кодом](https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5) для создания универсальных загрузочных USB-накопителей. Вы можете положить несколько [ISO файлов](https://ru.wikipedia.org/wiki/ISO-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7) в папку, а затем выбирать нужный при загрузке с накопителя. Вы также можете загружаться с [VHD](https://ru.wikipedia.org/wiki/VHD) (виртуальных дисков виртуальных машин) с помощью Ventoy.
+**Ventoy** — инструмент с [открытым исходным кодом](https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5) для создания универсальных загрузочных USB-накопителей. Вы можете скопировать несколько [ISO-файлов](https://ru.wikipedia.org/wiki/ISO-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7) в папку, а затем выбирать нужный при загрузке с накопителя. Вы также можете загружаться с [VHD](https://ru.wikipedia.org/wiki/VHD) (дисков виртуальных машин) с помощью Ventoy.
 <img src="/img/apps/ventoy/1.png" style="display: block; margin: 15px auto;">
 <img src="/img/apps/ventoy/2.png" style="display: block; margin: 15px auto;">
 
@@ -13,11 +13,11 @@
 
 В архиве есть 3 приложения: **Ventoy2Disk**, **VentoyPlugson**, **VentoyVlnk**. Для создания флешки с Ventoy запустите Ventoy2Disk. Выберите флешку из списка и нажмите Установить.
 <img src="/img/apps/ventoy/3.png" style="display: block; margin: 15px auto;">
-После установки, флешка разделится на два раздела: `Ventoy` и `VTOYEFI`.
+После установки флешка разделится на два раздела: `Ventoy` и `VTOYEFI`.
 
 Раздел `VTOYEFI` не нужно трогать вообще (скорее всего, он и отображаться не будет).
 
-Раздел `Ventoy` предназначен для хранения ISO/VHD файлов. После загрузки с Ventoy, вы увидите экран выбора файла для загрузки.
+Раздел `Ventoy` предназначен для хранения ISO/VHD-файлов. После загрузки с Ventoy, вы увидите экран выбора файла для загрузки.
 
 ## Кастомизация и настройки
 
@@ -48,10 +48,10 @@
 
 ## Прочие настройки
 - В разделе **Theme Plugin** -> **gfxmode** можно установить разрешение экрана.
-- В разделе **Menu Alias Plugin** можно установить кастомные названия для iso и vhd файлов:
+- В разделе **Menu Alias Plugin** можно установить кастомные названия для ISO и VHD-файлов:
     <img src="/img/apps/ventoy/8.png" style="display: block; margin: 15px auto;">
     <img src="/img/apps/ventoy/9.png" style="display: block; margin: 15px auto;">
-    Аналогично процессу установке темы, скопируйте путь к файлу, нажмите **Add**, вставьте путь в **File Path** без кавычек, в **Alias** введите нужное вам название.
+    Аналогично процессу установки темы, скопируйте путь к файлу, нажмите **Add**, вставьте путь в **File Path** без кавычек, в **Alias** введите нужное вам название.
 - В разделе **Global Control Plugin** -> **VTOY_WIN11_BYPASS_CHECK** можно включить обход требований для установки Windows 11.
 
 ## Загрузка с виртуальных жёстких дисков
@@ -70,4 +70,4 @@
 3. Найдите VHD от вашей виртуальной машины. В VirtualBox можно нажать правой кнопкой по ВМ -> показать в проводнике.
 <img src="/img/apps/ventoy/10.png" style="display: block; margin: 15px auto;">
 
-4. Запустите `VentoyVlnk`, нажмите **Create** и выберите нужный вам VHD файл.
+4. Запустите `VentoyVlnk`, нажмите **Create** и выберите нужный вам VHD-файл.

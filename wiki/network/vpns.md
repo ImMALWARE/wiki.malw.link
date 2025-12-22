@@ -48,7 +48,7 @@
 - [nthLink](https://www.nthlink.com)
 - [Seed4me](https://seed4.me)
 - [AdGuard VPN](https://adguard-vpn.com/ru)
-- <img src="/img/logo/censor-tracker.png" class="inline"/>[Censor Tracker](/network/vpns/censor-tracker) — расширение для браузера, проксирует заблокированные сайты, с возможностью добавлять домены в список.
+- <img src="/img/logo/censor-tracker.png" class="inline"/>[Censor Tracker](/network/vpns/censor-tracker) — расширение для браузера, проксирует заблокированные сайты с возможностью добавлять домены в список.
 
 ## Бесплатные публичные ключи VLESS
 - [Goida VPN Configs](https://github.com/AvenCores/goida-vpn-configs)

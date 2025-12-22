@@ -1,12 +1,12 @@
 # Удаление системных приложений Android без root
 
-Для удаления системных приложений без [root](/android/root), c использованием [ADB](https://ru.wikipedia.org/wiki/Android_Debug_Bridge) и [Shizuku](https://github.com/RikkaApps/Shizuku) будет использоваться приложение **Сanta**.
+Для удаления системных приложений без [root](/android/root) c использованием [ADB](https://ru.wikipedia.org/wiki/Android_Debug_Bridge) и [Shizuku](https://github.com/RikkaApps/Shizuku) будем использовать приложение **Сanta**.
 
 1. Установите Shizuku и Canta:
     - https://github.com/RikkaApps/Shizuku/releases/download/v13.6.0/shizuku-v13.6.0.r1086.2650830c-release.apk
     - https://github.com/samolego/Canta/releases/download/3.0.2/app-release.apk
 
-2. Для использования ADB, нужно установить Android SDK Platform Tools на компьютер.
+2. Для использования ADB нужно установить Android SDK Platform Tools на компьютер.
     На Windows проще всего использовать пакетный менеджер [winget](/apps/winget). В Windows 10 и Windows 11 он установлен по умолчанию. Для этого нужно [открыть командную строку и выполнить команду](/windows/run):
 
     ```bat
@@ -38,7 +38,7 @@
     <img src="/img/android/uninstall-apps/3.jpg" style="margin: 15px auto; display: block; width: 300px">
     <img src="/img/android/uninstall-apps/4.jpg" style="margin: 15px auto; display: block; width: 300px">
 
-6. Перейдите в приложение Canta. Выберите любое приложение, которое вы хотите удалить и подтвердите удаление.
+6. Перейдите в приложение Canta. Выберите любое приложение, которое вы хотите удалить, и подтвердите удаление.
 
     <img src="/img/android/uninstall-apps/5.jpg" style="margin: 15px auto; display: block; width: 300px">
     <img src="/img/android/uninstall-apps/6.jpg" style="margin: 15px auto; display: block; width: 300px">

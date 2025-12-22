@@ -12,23 +12,23 @@
 ## Установка Vencord
 Перейдите на [страницу загрузки Vencord](https://vencord.dev/download/) и следуйте инструкциям на сайте.
 
-Перед установкой Vencord, нужно закрыть Discord из трея:
+Перед установкой Vencord нужно закрыть Discord из трея:
 <img src="/img/apps/vencord/1.png" style="display: block; margin: 15px auto;">
 
-После установки Vencord или Vesktop, соответствующий раздел должен появиться в настройках:
+После установки Vencord или Vesktop соответствующий раздел должен появиться в настройках:
 <img src="/img/apps/vencord/2.png" style="display: block; margin: 15px auto;">
 
-В разделе **Plugins** можно найти и установить плагины. Чтобы плагин заработал, нужно перезапустить приложение (кнопка **Restart Client** в разделе Vencord)
+В разделе **Plugins** можно найти и установить плагины. Чтобы плагин заработал, нужно перезапустить приложение (кнопка **Restart Client** в разделе Vencord).
 
 ## Рекомендуемые плагины
 
 ### FakeNitro
 <img src="/img/apps/vencord/3.png" style="display: block; margin: 15px auto;">
-Демонстрация экрана в nitro-качестве, нитро эмодзи/стикеры.
+Демонстрация экрана в Nitro-качестве, Nitro-эмодзи, стикеры.
 
 ### FakeProfileThemes
 <img src="/img/apps/vencord/4.png" style="display: block; margin: 15px auto;">
-Цвета профиля (будут видеть все пользователи плагина). Работает через невидимые символы в описании. Зайдите в настройки плагина, выберите нужные цвета, нажмите «Copy 3y3«. Вставляем невидимые серверы в конец поля «О себе». Все пользователи плагина будут видеть ваши цвета профиля.
+Цвета профиля (будут видеть все пользователи плагина). Работает через невидимые символы в описании. Зайдите в настройки плагина, выберите нужные цвета, нажмите "Copy 3y3". Вставьте невидимые символы в конец поля «О себе». Все пользователи плагина будут видеть ваши цвета профиля.
 
 ### Decor
 <img src="/img/apps/vencord/5.png" style="display: block; margin: 15px auto;">
@@ -39,7 +39,7 @@
 <img src="/img/apps/vencord/7.png" style="display: block; margin: 15px auto;">
 Обложки профиля, видны всем пользователям плагина.
 Чтобы установить свою обложку, нужно:
-    1. Присоединиться на сервер разработчиков [discord.gg/TeRQEPb](https://discord.com/invite/TeRQEPb)
+    1. Присоединиться к серверу разработчиков [discord.gg/TeRQEPb](https://discord.com/invite/TeRQEPb)
     2. В канале `#click-here-to-request` использовать команду `/bg`, чтобы отправить файл обложки
     3. Дождаться, когда в канале `#userbg-log` появится уведомление о том, что ваша обложка одобрена
 
@@ -102,9 +102,9 @@
 <img src="/img/apps/vencord/28.png" style="display: block; margin: 15px auto;">
 То вставьте её в Настройки -> Themes -> Online Themes:
 <img src="/img/apps/vencord/29.png" style="display: block; margin: 15px auto;">
-Если же такой ссылки нет, скачайте css файл и поместите его в папку для тем
+Если же такой ссылки нет, скачайте CSS-файл и поместите его в папку для тем
 <img src="/img/apps/vencord/30.png" style="display: block; margin: 15px auto;">
-(Open Themes Folder)
+(Open Themes Folder).
 
 ## Vesktop
 На Windows скачайте Vesktop тут: https://github.com/Vencord/Vesktop/releases/download/v1.5.8/Vesktop-Setup-1.5.8.exe

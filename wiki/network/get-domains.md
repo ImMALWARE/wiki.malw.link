@@ -10,12 +10,12 @@
     ```
     dns.flags.response == 0 || tls.handshake.extensions_server_name
     ```
-    Это отфильтрует только DNS-запросы, не включая ответы и запросы, запросы Client Hello с SNI и [QUIC](https://ru.wikipedia.org/wiki/QUIC) Initial запросы.
+    Это отфильтрует только DNS-запрос (не включая ответы), запросы Client Hello с SNI и запросы [QUIC](https://ru.wikipedia.org/wiki/QUIC) Initial.
 4. Запустите нужное приложение. В Wireshark вы можете увидеть список доменов.
     <img src="/img/network/get-domains/2.png" style="display: block; margin: 15px auto;">
 
 ## Android
-На Android есть аналогичное приложение — [PCAPdroid](/apps/pcapdroid). В приложении есть дополнительный функционал с [root правами](/android/root): расшифровка содержимого зашифрованного трафика. Но домены можно отследить и без root.
+На Android есть аналогичное приложение — [PCAPdroid](/apps/pcapdroid). В приложении есть дополнительный функционал с [root-правами](/android/root): расшифровка содержимого зашифрованного трафика. Но домены можно отследить и без root.
 
 1. Установите [PCAPdroid (ссылки в этой статье)](/apps/pcapdroid).
 2. В меню "Целевые приложения" выберите те приложения, трафик которых нужно отследить.

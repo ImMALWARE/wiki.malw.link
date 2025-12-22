@@ -2,7 +2,7 @@
 
 <img src="/img/logo/censor-tracker.png" style="float: right;" width="100px">
 
-**Censor Tracker** — расширение для Chrome и Firefox, которое проксирует сайты с ограничениями.
+**Censor Tracker** — расширение для Chrome и Firefox, которое проксирует заблокированные сайты.
 
 ## Установка
 
@@ -10,7 +10,7 @@ Chrome: https://chrome.google.com/webstore/detail/censor-tracker/gaidoampbkcknof
 
 Firefox: https://addons.mozilla.org/ru/firefox/addon/censor-tracker/
 
-После установки, расширение должно активироваться сразу. Если нужные сайты всё ещё не работают, добавьте их в список.
+После установки расширение должно активироваться сразу. Если нужные сайты всё ещё не работают, добавьте их в список.
 
 ## Добавление сайтов в список
 

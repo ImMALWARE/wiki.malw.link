@@ -6,14 +6,14 @@
 
 ## Использование (для всех устройств, кроме iOS)
 
-1.  Скачайте и установите приложение [AmneziaVPN](/network/vpns/amneziavpn), ссылки на скачивание в [этой статье](/network/vpns/amneziavpn).
-2.  Зайдите в [Telegram бота Amnezia Free](https://t.me/free_vpn_amnezia_bot) (он также пришлёт ссылки на скачивание AmneziaVPN).
+1.  Скачайте и установите приложение [AmneziaVPN](/network/vpns/amneziavpn), ссылки на скачивание есть в [этой статье](/network/vpns/amneziavpn).
+2.  Зайдите в [Telegram-бота Amnezia Free](https://t.me/free_vpn_amnezia_bot) (он также пришлёт ссылки на скачивание AmneziaVPN).
 3.  Скопируйте ключ из бота и вставьте в приложение AmneziaVPN.
 4.  Подключитесь.
 
 ## Использование (для iOS)
 
-1.  Зайдите в [Telegram бота Amnezia Free](https://t.me/free_vpn_amnezia_bot).
+1.  Зайдите в [Telegram-бота Amnezia Free](https://t.me/free_vpn_amnezia_bot).
 2.  Нажмите кнопку "Файл для iOS".
 3.  Скачайте AmneziaWG из App Store (бот даст ссылку).
 4.  Скачайте конфиг из бота, импортируйте его в AmneziaWG.

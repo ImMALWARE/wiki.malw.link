@@ -88,7 +88,7 @@ import BackdropAnimation from '/.vitepress/theme/components/main_mountains.vue'
 ## Android
 - [Удаление системных приложений без root](/android/uninstall-apps)
 <!-- - [Magisk](/android/magisk) -->
-<!-- - [root права](/android/root) -->
+<!-- - [root-права](/android/root) -->
 
 ## Другое
 - <img src="/img/logo/chrome.svg" class="inline"/>[Активация всех расширений в Google Chrome](/other/chrome-ext)

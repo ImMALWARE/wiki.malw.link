@@ -4,7 +4,7 @@
 
 **Windows Subsystem for Android** (WSA) — это эмулятор Android для Windows от Microsoft. Он позволяет запускать Android-приложения на Windows 11 и Windows 10.
 
-К сожалению, в настоящее время поддержка WSA прекращена, но последние версии продолжают стабильно работать (Android 13 будет поддерживаться ещё очень долго). Имеет смысл устанавливать [версию WSA от сообщества](https://github.com/MustardChef/WSABuilds), в которую встроены [root права](/android/root) и сервисы Google Play.
+К сожалению, в настоящее время поддержка WSA прекращена, но последние версии продолжают стабильно работать (Android 13 остаётся актуальным). Имеет смысл устанавливать [версию WSA от сообщества](https://github.com/MustardChef/WSABuilds), в которую встроены [root-права](/android/root) и сервисы Google Play.
 
 ## Перед установкой
 1. Проверьте соответствие системным требованиям для запуска WSA:
@@ -56,7 +56,7 @@ winget install --id=Google.PlatformTools -e
     ```
     Где `127.0.0.1:58526` - адрес, который указан в параметрах, он может отличаться!
 
-### Конкретно установка APK
+### Установка через командную строку
 
 Скопируйте путь к APK-файлу. Нажмите Shift + правой кнопкой по нему и выберите "Копировать как путь".
 
@@ -68,4 +68,4 @@ winget install --id=Google.PlatformTools -e
 **WSA Pacman** — это удобный установщик APK для WSA, который интегрируется в проводник Windows.
 Скачайте его по ссылке [https://github.com/alesimula/wsa_pacman/releases/download/v1.5.0/WSA-pacman-v1.5.0-installer.exe](https://github.com/alesimula/wsa_pacman/releases/download/v1.5.0/WSA-pacman-v1.5.0-installer.exe)
 
-После установки можно будет легко устанавливать приложения обычным запуском apk файлов из проводника Windows.
+После установки можно будет легко устанавливать приложения обычным запуском APK-файлов из проводника Windows.

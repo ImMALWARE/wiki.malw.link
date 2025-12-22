@@ -33,7 +33,7 @@ Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 
 Синтаксис команды: `scoop search <название пакета>` или `scoop-search <название пакета>`, если установлен scoop-search (программы ищутся в установленных bucket'ах) 
 
-Так же можно искать программы на оффициальном сайте [scoop.sh](https://scoop.sh/)
+Также можно искать программы на официальном сайте [scoop.sh](https://scoop.sh/)
 
 ### Список установленных программ
 
@@ -43,9 +43,9 @@ Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 
 Для обновления программы: `scoop update <название пакета>`
 
-Обновление всех установленных программ происходит в два этава:
+Обновление всех установленных программ происходит в два этапа:
 
-1. `scoop update` - обновление [бакетов](##buckets)
+1. `scoop update` - обновление bucket'ов
 2. `scoop update *` - обновление всех программ
 
 ### Удаление программ
@@ -58,7 +58,7 @@ Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 
 Установка программ происходит через репозитории (buckets)
 
-Для того что бы узнать репозитории нужно написать `scoop bucket known`
+Для того, чтобы узнать репозитории нужно написать `scoop bucket known`
 
 Она покажет список известных официальных bucket’ов, например:
 
@@ -79,12 +79,12 @@ games
 
 Пример: `scoop bucket add extras`
 
-Пример для пользовательского репозитория `scoop bucket add mybucket https://github.com/username/mybucket`
+Пример для пользовательского репозитория: `scoop bucket add mybucket https://github.com/username/mybucket`
 
 Проверка установленных bucket'ов: `scoop bucket list`
 
 Удалить ненужный bucket: `scoop bucket rm <имя>`
 
-Список пользовательских бакетов можно найти на сайте [scoop.sh](https://scoop.sh/)
+Список пользовательских bucket'ов можно найти на сайте [scoop.sh](https://scoop.sh/)
 
-Так же можно создавать свои бакеты со своими программами
+Также можно создавать свои bucket'ы со своими программами.
