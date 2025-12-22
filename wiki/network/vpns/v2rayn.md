@@ -18,17 +18,17 @@
 2. Установите русский язык.
 3. Перезапустите приложение закрытием в системном трее -> Exit. Запустите его снова.
 4. На верхней панели "Настройки" -> Региональные пресеты -> Россия. Ожидайте обновления.
-<img src="/img/network/vpns/v2rayN/1.jpg" style="margin: 15px auto; display: block">
+<img src="/img/network/vpns/v2rayn/1.jpg" style="margin: 15px auto; display: block">
 
 5. Внизу, в настройках правил маршрутизации, должны появиться правила для России.
-<img src="/img/network/vpns/v2rayN/2.jpg" style="margin: 15px auto; display: block">
+<img src="/img/network/vpns/v2rayn/2.jpg" style="margin: 15px auto; display: block">
 
 6. Скопируйте вашу конфигурацию или ссылку-подписку.
 7. На верхней панели "Серверы" -> "Импорт массива URL из буфера обмена" (Или Ctrl + V)
-<img src="/img/network/vpns/v2rayN/3.jpg" style="margin: 15px auto; display: block">
+<img src="/img/network/vpns/v2rayn/3.jpg" style="margin: 15px auto; display: block">
 
 8. Если у вас несколько конфигураций, вы можете протестировать пинги до каждого сервера, нажав кнопку на верхней панели или (Ctrl + E)
-<img src="/img/network/vpns/v2rayN/4.jpg" style="margin: 15px auto; display: block">
+<img src="/img/network/vpns/v2rayn/4.jpg" style="margin: 15px auto; display: block">
 
 9. Выберите сервер двойным нажатием. Включите "Режим VPN" внизу.
-<img src="/img/network/vpns/v2rayN/5.jpg" style="margin: 15px auto; display: block">
+<img src="/img/network/vpns/v2rayn/5.jpg" style="margin: 15px auto; display: block">

@@ -17,10 +17,10 @@
 <!-- - [Hiddify](/network/vpns/hiddify) -->
 - <img src="/img/logo/byebyedpi.svg" class="inline"/>[ByeByeDPI](/network/vpns/byebyedpi) — аналог zapret для Android без root.
 - <img src="/img/logo/orbot.png" class="inline"/>[Orbot](/network/vpns/orbot)
-- [Tor Portable](/network/vpns/tor-portable) — [Tor](https://ru.wikipedia.org/wiki/Tor) для ПК, только для браузера и Discord. 
+- [Tor Portable](/network/vpns/tor-portable) — [Tor](https://ru.wikipedia.org/wiki/Tor) для ПК, только для браузера и Discord.
 - <img src="/img/logo/invizible-pro.png" class="inline"/>[InviZible Pro](/network/vpns/invizible-pro)
 - <img src="/img/logo/amneziavpn.png" class="inline"/>[Приложение AmneziaVPN](/network/vpns/amneziavpn)
-<!-- - [v2rayN](/network/vpns/v2rayn) -->
+- <img src="/img/logo/v2rayn.png" class="inline"/>[v2rayN](/network/vpns/v2rayn) — подключение к VLESS и другим протоколам на Windows, Linux, macOS.
 <!-- - [v2rayNG](/network/vpns/v2rayng) -->
 
 ## Прочее
