@@ -2,7 +2,7 @@
 
 <img src="/img/logo/v2rayn.png" style="float: right" width="200px">
 
-**v2rayN** — это клиент для подключения к [VPN-сервисам](/network/vpns/vpn-service) на протоколах [VMess(теперь VLESS)](https://ru.wikipedia.org/wiki/VLESS), [Shadowsocks](https://ru.wikipedia.org/wiki/Shadowsocks), [Trojan](https://wiki.archlinux.org/title/Trojan), [WireGuard](https://ru.wikipedia.org/wiki/WireGuard), [Hysteria2](https://deepwiki.com/apernet/hysteria), обеспечивающий обход блокировок и защищённое шифрованное соединение. Приложение предоставляет удобный графический интерфейс для настройки и управления туннелями, поддерживает импорт конфигураций и подписки, а также работу с несколькими узлами одновременно. Приложение доступно для Windows, macOS, Linux.
+**v2rayN** — это клиент для подключения к [VPN-серверам](/network/vpns/vpn) на протоколах [VMess, VLESS](https://ru.wikipedia.org/wiki/VLESS), [Shadowsocks](https://ru.wikipedia.org/wiki/Shadowsocks), [Trojan](https://wiki.archlinux.org/title/Trojan), [WireGuard](https://ru.wikipedia.org/wiki/WireGuard), [Hysteria2](https://deepwiki.com/apernet/hysteria). Приложение предоставляет удобный графический интерфейс для настройки и управления туннелями, поддерживает импорт конфигураций (в том числе ссылки-подписки). Приложение доступно для Windows, macOS, Linux.
 
 ## Скачать приложение
 
@@ -12,23 +12,23 @@
 *   Linux Debian/Ubuntu: https://github.com/2dust/v2rayN/releases/download/7.16.6/v2rayN-linux-64.zip
 *   Linux ARM64: https://github.com/2dust/v2rayN/releases/download/7.16.6/v2rayN-linux-arm64.zip
 
-## Настройка v2rayN
+## Рекомендуемая настройка v2rayN при запуске
 
-1. Выбираем три точки в самом вверху.
-2. Жмем на русский язык.
-3. Перезапускаем приложение закрытием в панели индикации - exit и снова запуск.
-4. Нажимаем на настройки - региональные пресеты - Россия. Ждем обновления.
+1. Справа вверху три точки
+2. Установите русский язык.
+3. Перезапустите приложение закрытием в системном трее -> Exit. Запустите его снова.
+4. На верхней панели "Настройки" -> Региональные пресеты -> Россия. Ожидайте обновления.
 <img src="/img/network/vpns/v2rayN/1.jpg" style="margin: 15px auto; display: block">
 
-5. У вас должно появиться здесь RU.
+5. Внизу, в настройках правил маршрутизации, должны появиться правила для России.
 <img src="/img/network/vpns/v2rayN/2.jpg" style="margin: 15px auto; display: block">
 
-6. После этого копируем свою подписку либо конфиги VLESS.
-7. Потом добавляем свою подписку либо конфиги VLESS в v2rayN.
+6. Скопируйте вашу конфигурацию или ссылку-подписку.
+7. На верхней панели "Серверы" -> "Импорт массива URL из буфера обмена" (Или Ctrl + V)
 <img src="/img/network/vpns/v2rayN/3.jpg" style="margin: 15px auto; display: block">
 
-8. Далее если у вас много локаций, то жмем на кнопку тест задержки и скорости всех серверов.
+8. Если у вас несколько конфигураций, вы можете протестировать пинги до каждого сервера, нажав кнопку на верхней панели или (Ctrl + E)
 <img src="/img/network/vpns/v2rayN/4.jpg" style="margin: 15px auto; display: block">
 
-9. После этого выбираем сервер двойным нажатием и включаем кнопку режим VPN.
+9. Выберите сервер двойным нажатием. Включите "Режим VPN" внизу.
 <img src="/img/network/vpns/v2rayN/5.jpg" style="margin: 15px auto; display: block">
