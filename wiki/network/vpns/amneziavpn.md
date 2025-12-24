@@ -4,6 +4,8 @@
 
 **AmneziaVPN** — приложение для подключения к любым [VPN-серверам](/network/vpns/vpn-service) на протоколах [OpenVPN](https://ru.wikipedia.org/wiki/OpenVPN), [Shadowsocks](https://ru.wikipedia.org/wiki/Shadowsocks), OpenVPN over [Cloak](https://github.com/cbeuw/Cloak), [WireGuard](https://ru.wikipedia.org/wiki/WireGuard), [IKEv2](https://ru.wikipedia.org/wiki/IKE), [AmneziaWG](/network/vpns/amneziawg), XRay (VLESS, VMESS, Trojan). Приложение доступно для Windows, macOS, Linux, Android, iOS.
 
+Приложение **не поддерживает** [ссылки-подписки](/network/vpns/sublinks).
+
 ## Скачать приложение
 
 *   Windows: https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.9.2/AmneziaVPN_4.8.9.2_windows_x64.exe
