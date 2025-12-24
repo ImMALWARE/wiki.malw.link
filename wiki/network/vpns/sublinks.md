@@ -11,3 +11,4 @@
 - [v2rayN](/network/vpns/v2rayn)
 - [v2rayNG](/network/vpns/v2rayng)
 - [Hiddify](/network/vpns/hiddify)
+- [Happ](/network/vpns/happ)
