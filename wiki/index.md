@@ -56,6 +56,9 @@ import BackdropAnimation from '/.vitepress/theme/components/main_mountains.vue'
 - <img src="/img/logo/scrcpy.svg" class="inline">[scrcpy](/apps/scrcpy)
 
 - <img src="/img/logo/termius.png" class="inline">[termius](/apps/termius)
+
+- <img src="/img/logo/OnlyOffice.webp" class="inline">[OnlyOffice](/apps/onlyoffice)
+
 ## Программы на Android
 <!-- - [App Manager](/apps/app-manager) -->
 - <img src="/img/logo/nfc-card-emulator.png" class="inline">[NFC Card Emulator (Эмулятор карт)](/apps/nfc-card-emulator)
