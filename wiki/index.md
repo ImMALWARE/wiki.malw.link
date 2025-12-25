@@ -38,6 +38,7 @@ import BackdropAnimation from '/.vitepress/theme/components/main_mountains.vue'
 
 - <img src="/img/logo/spicetify.png" class="inline">[Spicetify](/apps/spicetify)
 <!-- - [System Informer](/apps/system-informer) -->
+- <img src="/img/logo/termius.png" class="inline">[Termius](/apps/termius)
 <!-- - [th-ch/YouTube Music](/apps/youtube-music) -->
 - <img src="/img/logo/ubo.svg" class="inline">[uBlock Origin](/apps/ubo)
 <!-- - [UniGetUI](/apps/unigetui) -->
@@ -49,13 +50,13 @@ import BackdropAnimation from '/.vitepress/theme/components/main_mountains.vue'
 
 - <img src="/img/logo/scoop.png" class="inline">[scoop](/apps/scoop)
 
+- <img src="/img/logo/scrcpy.svg" class="inline">[scrcpy](/apps/scrcpy)
+
 - <img src="/img/logo/wireshark.png" class="inline">[Wireshark](/apps/wireshark)
 
 - <img src="/img/logo/yt-dlp.png" class="inline">[yt-dlp](/apps/yt-dlp)
 
-- <img src="/img/logo/scrcpy.svg" class="inline">[scrcpy](/apps/scrcpy)
 
-- <img src="/img/logo/termius.png" class="inline">[termius](/apps/termius)
 
 ## Программы на Android
 <!-- - [App Manager](/apps/app-manager) -->

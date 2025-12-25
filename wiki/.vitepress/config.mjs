@@ -97,11 +97,13 @@ export default defineConfig({
           { text: 'MalwTool', link: '/apps/malwtool' },
           { text: 'Rufus', link: '/apps/rufus' },
           { text: 'Spicetify', link: '/apps/spicetify' },
+          { text: 'Termius', link: '/apps/termius' },
           { text: 'uBlock Origin', link: '/apps/ubo' },
           { text: 'Vencord и Vesktop', link: '/apps/vencord' },
           { text: 'Ventoy', link: '/apps/ventoy' },
           { text: 'winget', link: '/apps/winget' },
           { text: 'scoop', link: '/apps/scoop' },
+          { text: 'scrcpy', link: '/apps/scrcpy' },
           { text: 'Wireshark', link: '/apps/wireshark' },
           { text: 'yt-dlp', link: '/apps/yt-dlp' }
         ]
