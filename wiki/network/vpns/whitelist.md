@@ -15,6 +15,7 @@
 - [YzeNet](https://t.me/yzewevpn_bot) (Telegram-бот)
 - [FastNet](https://t.me/fastnet_robot) (Telegram-бот)
 - https://ryzgames31.github.io/UWB/ (агрегатор ссылок-подписок)
+- https://etoneya.a9fm.site/ (агрегатор ссылок-подписок)
 
 ## Рабочие ссылки-подписки, включающие в себя конфиги, обходящие белые списки
 ```
@@ -70,6 +71,7 @@ https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/gi
 ```
 https://key.vpnstarlink.ru/MB63UT
 ```
+
 ```
 https://raw.githubusercontent.com/55prosek-lgtm/vpn_config_for_russia/refs/
 heads/main/whitelist.txt
@@ -77,4 +79,13 @@ heads/main/whitelist.txt
 ```
 https://raw.githubusercontent.com/vlesscollector/vlesscollector/refs/heads/main/vless_configs.txt
 
+```
+```
+https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/1
+```
+```
+https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/2
+```
+```
+https://cdn.jsdelivr.net/gh/EtoNeYaProject/EtoNeYaProject.github.io@refs/heads/main/1
 ```
