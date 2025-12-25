@@ -1,23 +1,25 @@
 # Happ
 
-<img src="/img/logo/happ.png" style="float: right" width="200px">
+<img src="/img/logo/happ.png" style="float: right; margin-left: 15px;" width="200px">
 
-**Happ** — это клиент для подключения к [VPN-серверам](/network/vpns/vpn) на протоколах [VMess, VLESS](https://ru.wikipedia.org/wiki/VLESS), [Shadowsocks](https://ru.wikipedia.org/wiki/Shadowsocks), [Trojan](https://wiki.archlinux.org/title/Trojan), [WireGuard](https://ru.wikipedia.org/wiki/WireGuard). Приложение предоставляет удобный графический интерфейс для настройки и управления туннелями, поддерживает импорт конфигураций (в том числе [ссылки-подписки](/network/vpns/sublinks)). Приложение доступно для Windows, macOS, Linux, Android, IOS, Android/Apple TV.
+**Happ** — это кроссплатформенный клиент для подключения к [VPN-серверам](/network/vpns/vpn). Поддерживает протоколы [VMess, VLESS](https://ru.wikipedia.org/wiki/VLESS), [Shadowsocks](https://ru.wikipedia.org/wiki/Shadowsocks), [Trojan](https://wiki.archlinux.org/title/Trojan) и [WireGuard](https://ru.wikipedia.org/wiki/WireGuard).
+
+Клиент предлагает удобный графический интерфейс, поддерживает импорт конфигураций (в том числе через [ссылки-подписки](/network/vpns/sublinks)) и доступен на всех популярных платформах, включая **Android TV** и **Apple TV**.
 
 ## Скачать приложение
 
-*   Windows: https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe
-*   macOS from store: https://apps.apple.com/us/app/happ-proxy-utility/id6504287215
-*   macOS .dmg: https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.macOS.universal.dmg
-*   Linux Debian/Ubuntu: https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.x64.deb
-*   IOS: https://apps.apple.com/ru/app/happ-proxy-utility-plus/id6746188973
-*   Android GP: https://play.google.com/store/apps/details?id=com.happproxy
-*   Android APK: https://github.com/Happ-proxy/happ-android/releases/latest/download/Happ.apk
-*   Android TV: https://github.com/Happ-proxy/happ-android/releases/latest/download/Happ.apk
-*   Apple TV: https://apps.apple.com/us/app/happ-proxy-utility-for-tv/id6748297274
+* Windows: https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe
+* macOS (App Store): https://apps.apple.com/us/app/happ-proxy-utility/id6504287215
+* macOS (DMG): https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.macOS.universal.dmg
+* Linux (Debian/Ubuntu): https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.linux.x64.deb
+* iOS: https://apps.apple.com/ru/app/happ-proxy-utility-plus/id6746188973
+* Android (Google Play): https://play.google.com/store/apps/details?id=com.happproxy
+* Android (APK): https://github.com/Happ-proxy/happ-android/releases/latest/download/Happ.apk
+* Apple TV: https://apps.apple.com/us/app/happ-proxy-utility-for-tv/id6748297274
 
 ## Рекомендуемая настройка Happ при запуске
 
-1. Добавить подписку при первом запуске или нажать пропустить, а далее нажать сверху слева плюсик для добавления сервера.
-2. По желанию установить русский язык
-3. Выберите режим работы: Proxy(локальный прокси) или TUN(так называемый режим VPN, весь трафик идет через виртуальный интерфейс).
+1. **Добавление сервера:** При первом запуске приложение предложит добавить подписку. Если вы пропустили этот шаг, нажмите кнопку «+» в левом верхнем углу.
+2. **Режим работы:** Выберите подходящий режим:
+    * **Proxy** — локальный прокси (работает только в браузерах или настроенных приложениях).
+    * **TUN** — режим VPN (весь трафик устройства заворачивается в туннель). **Рекомендуется.**
