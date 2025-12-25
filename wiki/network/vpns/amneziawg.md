@@ -121,3 +121,7 @@ AmneziaWG работает в рамках обратной совместимо
 <img src="/img/network/vpns/amneziawg/2.png"/>
 
 Уберите галочку "Блокировать нетуннелированный трафик"
+
+### Failed to set IPv4: error: Destination address required на macOS
+
+Уберите [IPv6-адрес](https://ru.wikipedia.org/wiki/IPv6) в файле конфигурации.
