@@ -46,7 +46,6 @@
 - [WhiteDead VPN](@whitedeadvpnbot) (Telegram бот)
 - [astracatvpnX](@astracatvpnX_bot) (Telegram бот)
 - [@FurkVPNbot](https://t.me/FurkVPNbot) (Telegram бот)
-- [VLESS Generator](https://t.me/vlessgeneratorbot) (Telegram бот)
 - [Aeza Security](https://aezasecurity.net)
 - [Windscribe](https://windscribe.com)
 - [nthLink](https://www.nthlink.com)
