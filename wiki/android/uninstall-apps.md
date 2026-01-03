@@ -4,7 +4,7 @@
 
 1. Установите Shizuku и Canta:
     - https://github.com/RikkaApps/Shizuku/releases/download/v13.6.0/shizuku-v13.6.0.r1086.2650830c-release.apk
-    - https://github.com/samolego/Canta/releases/download/3.0.2/app-release.apk
+    - https://github.com/samolego/Canta/releases/latest/download/app-release.apk
 
 2. Для использования ADB нужно установить Android SDK Platform Tools на компьютер.
     На Windows проще всего использовать пакетный менеджер [winget](/apps/winget). В Windows 10 и Windows 11 он установлен по умолчанию. Для этого нужно [открыть командную строку и выполнить команду](/windows/run):
