@@ -42,16 +42,14 @@
 - [FPTN VPN](https://fptn.org)
 - [V4Freedom](https://v4freedom.com)
 - [HLVPN](https://t.me/hlvpnbot) (Telegram бот)
-- [Whitenet VPN](https://t.me/whitenetvpn_bot) (Telegram бот)
-- [WhiteDead VPN](@whitedeadvpnbot) (Telegram бот)
-- [astracatvpnX](@astracatvpnX_bot) (Telegram бот)
 - [@FurkVPNbot](https://t.me/FurkVPNbot) (Telegram бот)
-- [Aeza Security](https://aezasecurity.net)
+- [AnotherBoringSimpleBot](https://t.me/abs_vpnbot)(Telegram бот)
 - [Windscribe](https://windscribe.com)
 - [nthLink](https://www.nthlink.com)
 - [Seed4me](https://seed4.me)
 - [AdGuard VPN](https://adguard-vpn.com/ru)
 - <img src="/img/logo/censor-tracker.png" class="inline"/>[Censor Tracker](/network/vpns/censor-tracker) — расширение для браузера, проксирует заблокированные сайты с возможностью добавлять домены в список.
+- <img src="/img/logo/wai proxy.png" class="inline"/>[Wai Proxy](https://chromewebstore.google.com/detail/wai-proxy/pobghokogilihngelchnmdgmomnnhged?pli=1)  — расширение для браузера, проксирует заблокированные сайты.
 
 ## Бесплатные публичные ключи VLESS
 - [Goida VPN Configs](https://github.com/AvenCores/goida-vpn-configs)
