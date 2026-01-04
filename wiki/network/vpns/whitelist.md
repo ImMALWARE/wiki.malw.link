@@ -13,6 +13,7 @@
 
 ## Бесплатные VPN-сервисы, предоставляющие обход белых списков
 - [YzeNet](https://t.me/yzewevpn_bot) (Telegram-бот)
+- [Goodbye](@G1BWL_Bot) (Telegram-бот)
 - [FastNet](https://t.me/fastnet_robot) (Telegram-бот)
 - https://ryzgames31.github.io/UWB/ (агрегатор ссылок-подписок)
 
@@ -77,4 +78,25 @@ heads/main/whitelist.txt
 ```
 https://raw.githubusercontent.com/vlesscollector/vlesscollector/refs/heads/main/vless_configs.txt
 
+```
+```
+    https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS#STR.BYPASS👾
+
+```
+```
+https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR#MEGA.STR.BYPASS⚡️
+
+```
+```
+ https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/CUSTOM#CUSTOM.STR.BYPASS🤟
+
+```
+```
+https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/BYPASS#PROXY.STR.BYPASS🐺
+```
+```
+https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/Vless#VLESS.STR.BYPASS🔥
+```
+```
+https://s3c3.001.gpucloud.ru/dg68glfr8yyyrm9hoob72l3gdu/xicrftxzsnsz
 ```
