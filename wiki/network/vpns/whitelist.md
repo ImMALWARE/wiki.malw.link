@@ -80,7 +80,7 @@ https://raw.githubusercontent.com/vlesscollector/vlesscollector/refs/heads/main/
 
 ```
 ```
-    https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS#STR.BYPASS👾
+https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS#STR.BYPASS👾
 
 ```
 ```
@@ -99,4 +99,17 @@ https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/Vless#VLESS.STR.
 ```
 ```
 https://s3c3.001.gpucloud.ru/dg68glfr8yyyrm9hoob72l3gdu/xicrftxzsnsz
+```
+```
+https://livpn.webspot.sbs/sub.php?token=234a7a8acce94c66a4fb
+```
+```
+trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?path=%2Ff2fc2a1f&security=tls&host=free-de-3.undef.network&type=ws&sni=free-de-3.undef.network#PORT%F0%9F%96%95
+```
+```
+https://raw.githubusercontent.com/Kirillo4ka/vpn-configs-for-russia/refs/heads/main/Vless-Rus-Mobile-White-List.txt
+
+```
+```
+https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-all.txt
 ```
