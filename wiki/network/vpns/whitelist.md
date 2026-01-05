@@ -101,7 +101,7 @@ https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/Vless#VLESS.STR.
 https://s3c3.001.gpucloud.ru/dg68glfr8yyyrm9hoob72l3gdu/xicrftxzsnsz
 ```
 ```
-https://livpn.webspot.sbs/sub.php?token=234a7a8acce94c66a4fb
+http://livpn.atwebpages.com/sub.php?token=c829c20769d2112b
 ```
 ```
 trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?path=%2Ff2fc2a1f&security=tls&host=free-de-3.undef.network&type=ws&sni=free-de-3.undef.network#PORT%F0%9F%96%95
