@@ -98,9 +98,6 @@ https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/BYPASS#PROXY.STR
 https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/Vless#VLESS.STR.BYPASS🔥
 ```
 ```
-https://s3c3.001.gpucloud.ru/dg68glfr8yyyrm9hoob72l3gdu/xicrftxzsnsz
-```
-```
 http://livpn.atwebpages.com/sub.php?token=c829c20769d2112b
 ```
 ```
@@ -113,3 +110,11 @@ https://raw.githubusercontent.com/Kirillo4ka/vpn-configs-for-russia/refs/heads/m
 ```
 https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-all.txt
 ```
+```
+https://s3c3.001.gpucloud.ru/rtrq/jsoxn
+```
+```
+https://raw.githubusercontent.com/bywarm/whitelists-vpns-etc/refs/heads/main/whitelists1-4pda.txt
+```
+
+
