@@ -73,7 +73,6 @@ https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/gi
 https://key.vpnstarlink.ru/MB63UT
 ```
 ```
-
 https://raw.githubusercontent.com/55prosek-lgtm/vpn_config_for_russia/refs/
 heads/main/whitelist.txt
 ```
@@ -82,7 +81,6 @@ https://raw.githubusercontent.com/vlesscollector/vlesscollector/refs/heads/main/
 
 ```
 ```
-
 https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS#STR.BYPASS👾
 
 ```
@@ -91,7 +89,7 @@ https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR#MEGA.STR.BYP
 
 ```
 ```
- https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/CUSTOM#CUSTOM.STR.BYPASS🤟
+https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/CUSTOM#CUSTOM.STR.BYPASS🤟
 
 ```
 ```
@@ -108,7 +106,6 @@ trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?path=%2Ff2fc2a1f&
 ```
 ```
 https://raw.githubusercontent.com/Kirillo4ka/vpn-configs-for-russia/refs/heads/main/Vless-Rus-Mobile-White-List.txt
-
 ```
 ```
 https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-all.txt
@@ -120,10 +117,6 @@ https://s3c3.001.gpucloud.ru/rtrq/jsoxn
 https://raw.githubusercontent.com/bywarm/whitelists-vpns-etc/refs/heads/main/whitelists1-4pda.txt
 ```
 ```
-
-
-```
-```
 https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/1
 ```
 ```
@@ -131,5 +124,4 @@ https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/h
 ```
 ```
 https://cdn.jsdelivr.net/gh/EtoNeYaProject/EtoNeYaProject.github.io@refs/heads/main/1
-```
 ```
