@@ -2,7 +2,7 @@
 
 <img src="/img/logo/v2rayn.png" style="float: right" width="200px">
 
-**v2rayN** — это клиент для подключения к [VPN-серверам](/network/vpns/vpn) на протоколах [VMess, VLESS](https://ru.wikipedia.org/wiki/VLESS), [Shadowsocks](https://ru.wikipedia.org/wiki/Shadowsocks), [Trojan](https://wiki.archlinux.org/title/Trojan), [WireGuard](https://ru.wikipedia.org/wiki/WireGuard), [Hysteria2](https://deepwiki.com/apernet/hysteria). Приложение предоставляет удобный графический интерфейс для настройки и управления туннелями, поддерживает импорт конфигураций (в том числе ссылки-подписки). Приложение доступно для Windows, macOS, Linux.
+**v2rayN** — это клиент для подключения к [VPN-серверам](/network/vpns/vpn) на протоколах [VMess, VLESS](https://ru.wikipedia.org/wiki/VLESS), [Shadowsocks](https://ru.wikipedia.org/wiki/Shadowsocks), [Trojan](https://wiki.archlinux.org/title/Trojan), [WireGuard](https://ru.wikipedia.org/wiki/WireGuard), [Hysteria2](https://deepwiki.com/apernet/hysteria). Приложение предоставляет удобный графический интерфейс для настройки и управления туннелями, поддерживает импорт конфигураций (в том числе [ссылки-подписки](/network/vpns/sublinks)). Приложение доступно для Windows, macOS, Linux.
 
 ## Скачать приложение
 

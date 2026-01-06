@@ -18,6 +18,7 @@
 *   **start\_now.cmd** — запустить в окне, блокировки будут обходиться, пока открыта командная строка.
 *   **start\_stop\_service.cmd** — создать или удалить службу. При создании службы, zapret будет запущен без окна и будет автоматически запускаться при запуске Windows.
 *   **autohosts.txt** — список доменов заблокированных сайтов. Обязательно должна быть пустая строка в конце файла.
+*   **ipset.txt** — список доменов заблокированных IP-адресов и CIDR.
 *   **check.cmd** — проверить доступ к сайтам из autohosts.txt.
 *   **ignore.txt** — список доменов незаблокированных сайтов. Если не работает незаблокированный сайт, добавьте его домен сюда.
 *   **config.txt** — конфиг winws. Вместо путей к файлам используйте `{переменные}`.
@@ -53,7 +54,7 @@ bcdedit.exe -set TESTSIGNING ON
     git clone https://github.com/ImMALWARE/zapret-linux-easy && cd zapret-linux-easy
     ```
 
-2.  Убедитесь, что у вас установлены пакеты `iptables` и `ipset`! Если нет — установите. Если вы не знаете, как, спросите у [ChatGPT](https://chatgpt.com)!
+2.  Убедитесь, что у вас установлены пакеты `curl`, `iptables` и `ipset` (для FWTYPE=iptables) или `curl` и `nftables` (для FWTYPE=nftables)! Если нет — установите. Если вы не знаете как, спросите у [ChatGPT](https://chatgpt.com)!
 3.  Откройте терминал в папке, куда архив был распакован.
 4.
     ```shell
@@ -82,9 +83,21 @@ bcdedit.exe -set TESTSIGNING ON
 
 Отключение автозапуска: `sudo rc-update del zapret`
 
+#### Runit
+
+Остановка: `sudo sv down zapret`
+
+Запуск после остановки: `sudo sv up zapret`
+
+Включение автозапуска: `sudo ln -s /etc/sv/zapret /var/service/`
+
+Отключение автозапуска: `sudo rm /var/service/zapret`
+
 ### Списки доменов
 
 Не работает какой-то заблокированный сайт? Попробуйте добавить его домен в `/opt/zapret/autohosts.txt`
+
+Заблокированные IP-адреса и CIDR можно добавить в `/opt/zapret/ipset.txt`
 
 Не работает незаблокированный сайт? Добавьте его домен в `/opt/zapret/ignore.txt`
 
@@ -107,6 +120,8 @@ bcdedit.exe -set TESTSIGNING ON
 
 Список доменов заблокированных сайтов находится в `/data/adb/zapret/autohosts.txt`. Добавьте туда домен в случае, если нужный вам сайт не работает.
 
+Заблокированные IP-адреса и CIDR можно добавить в `/opt/zapret/ipset.txt`.
+
 Если незаблокированный сайт почему-то перестал открываться, добавьте его домен в `/data/adb/zapret/ignore.txt`.
 
 Конфиг (стратегия) находится в `/data/adb/zapret/config.txt`.
@@ -122,6 +137,8 @@ bcdedit.exe -set TESTSIGNING ON
 На вкладке **Домены** можно добавлять/удалять домены, редактируя autohosts и ignore.
 
 На вкладке **Конфиг** можно отредактировать конфиг.
+
+На вкадке **IP-адреса** можно редактировать файл `ipset.txt`.
 
 На вкладке **Проверка** скрипт проверит соединение ко всем доменам из `autohosts.txt` с текущей стратегией.
 
@@ -147,11 +164,12 @@ su -c zapret autostart-off
 
 ## Переменные в config.txt
 
-*   `{hosts}` — подставит путь к autohosts.txt
-*   `{ignore}` — подставит путь к ignore.txt
-*   `{youtube}` — подставит путь к youtube.txt
-*   `{quicgoogle}` — подставит путь к system\\quic\_initial\_www\_google\_com.bin
-*   `{tlsgoogle}` — подставит путь к system\\tls\_clienthello\_www\_google\_com.bin
+*   `{hosts}` — подставит путь к `autohosts.txt`
+*   `{ipset}` — подставит путь к `ipset.txt`
+*   `{ignore}` — подставит путь к `ignore.txt`
+*   `{youtube}` — подставит путь к `youtube.txt`
+*   `{quicgoogle}` — подставит путь к `system\\quic\_initial\_www\_google\_com.bin`
+*   `{tlsgoogle}` — подставит путь к `system\\tls\_clienthello\_www\_google\_com.bin`
 
 ## blockcheck — сложный, но лучший вариант
 В этой статье для использования предлагаются готовые стратегии zapret. Это простое решение, которое может помочь большинству, но не абсолютно всем. Рекомендуется подбирать стратегии самостоятельно с помощью скрипта [blockcheck](/network/vpns/blockcheck). Подробная инструкция по использованию blockcheck находится [в этой статье](/network/vpns/blockcheck).

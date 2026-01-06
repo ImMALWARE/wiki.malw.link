@@ -16,6 +16,7 @@
 - [Goodbye](@G1BWL_Bot) (Telegram-бот)
 - [FastNet](https://t.me/fastnet_robot) (Telegram-бот)
 - https://ryzgames31.github.io/UWB/ (агрегатор ссылок-подписок)
+- https://etoneya.a9fm.site/ (агрегатор ссылок-подписок)
 
 ## Рабочие ссылки-подписки, включающие в себя конфиги, обходящие белые списки
 ```
@@ -72,6 +73,7 @@ https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/gi
 https://key.vpnstarlink.ru/MB63UT
 ```
 ```
+
 https://raw.githubusercontent.com/55prosek-lgtm/vpn_config_for_russia/refs/
 heads/main/whitelist.txt
 ```
@@ -80,6 +82,7 @@ https://raw.githubusercontent.com/vlesscollector/vlesscollector/refs/heads/main/
 
 ```
 ```
+
 https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS#STR.BYPASS👾
 
 ```
@@ -116,5 +119,17 @@ https://s3c3.001.gpucloud.ru/rtrq/jsoxn
 ```
 https://raw.githubusercontent.com/bywarm/whitelists-vpns-etc/refs/heads/main/whitelists1-4pda.txt
 ```
+```
 
 
+```
+```
+https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/1
+```
+```
+https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/2
+```
+```
+https://cdn.jsdelivr.net/gh/EtoNeYaProject/EtoNeYaProject.github.io@refs/heads/main/1
+```
+```

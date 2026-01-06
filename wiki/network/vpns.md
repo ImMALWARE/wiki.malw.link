@@ -4,24 +4,28 @@
 Эта статья требует постоянного обновления информации. [Принять участие в написании](https://github.com/ImMALWARE/wiki.malw.link?tab=contributing-ov-file)
 :::
 
+Информация про [обход белых списков](/network/vpns/whitelist) находится на отдельной странице.
+
 ## Теория
 - [VPN](/network/vpns/vpn)
 - [VPN-сервис](/network/vpns/vpn-service)
 - [Прокси-сервер](/network/vpns/proxy)
 - [Локальный прокси-сервер](/network/vpns/local-proxy)
 - [Протокол AmneziaWG](/network/vpns/amneziawg)
+- [Ссылки-подписки](/network/vpns/sublinks)
 
 ## Программы
 - <img src="/img/logo/zapret.png" class="inline"/>[zapret](/network/vpns/zapret) — автономный инструмент противодействия ограничениям DPI. Работает локально на вашем устройстве, без потерь в скорости интернета.
 - <img src="/img/logo/zapret.png" class="inline"/>[blockcheck](/network/vpns/blockcheck) — скрипт-анализатор способов обхода [DPI](https://ru.wikipedia.org/wiki/Deep_packet_inspection). Используется для автоматизированного подбора стратегий для [zapret](/network/vpns/zapret) в текущей сети по заданным параметрам.
-<!-- - [Hiddify](/network/vpns/hiddify) -->
-- <img src="/img/logo/byebyedpi.svg" class="inline"/>[ByeByeDPI](/network/vpns/byebyedpi) — аналог zapret для Android без root.
-- <img src="/img/logo/orbot.png" class="inline"/>[Orbot](/network/vpns/orbot)
-- [Tor Portable](/network/vpns/tor-portable) — [Tor](https://ru.wikipedia.org/wiki/Tor) для ПК, только для браузера и Discord.
-- <img src="/img/logo/invizible-pro.png" class="inline"/>[InviZible Pro](/network/vpns/invizible-pro)
-- <img src="/img/logo/amneziavpn.png" class="inline"/>[Приложение AmneziaVPN](/network/vpns/amneziavpn)
 - <img src="/img/logo/v2rayn.png" class="inline"/>[v2rayN](/network/vpns/v2rayn) — подключение к VLESS и другим протоколам на Windows, Linux, macOS.
 <!-- - [v2rayNG](/network/vpns/v2rayng) -->
+- <img src="/img/logo/hiddify.png" class="inline"/>[Hiddify](/network/vpns/hiddify) — современный VPN/прокси клиент на базе [sing-box](https://github.com/SagerNet/sing-box) с красивым дизайном для Windows, macOS, Linux, Android, iOS.
+- <img src="/img/logo/happ.png" class="inline"/>[Happ](/network/vpns/happ) — VPN/прокси клиент на Windows, macOS, Linux, Android, iOS, Apple TV.
+- <img src="/img/logo/amneziavpn.png" class="inline"/>[Приложение AmneziaVPN](/network/vpns/amneziavpn). Поддерживает XRay, Shadowsocks, WireGuard, AmneziaWG, OpenVPN. **Не поддерживает [ссылки-подписки](/network/vpns/sublinks)**!
+- <img src="/img/logo/invizible-pro.png" class="inline"/>[InviZible Pro](/network/vpns/invizible-pro) — мощное приложение для подключения к Tor и I2P для Android.
+- [Tor Portable](/network/vpns/tor-portable) — [Tor](https://ru.wikipedia.org/wiki/Tor) для ПК, работает в виде [локального прокси-сервера](/network/vpns/local-proxy) — только для браузера и Discord.
+- <img src="/img/logo/byebyedpi.svg" class="inline"/>[ByeByeDPI](/network/vpns/byebyedpi) — аналог zapret для Android без root.
+- <img src="/img/logo/orbot.png" class="inline"/>[Orbot](/network/vpns/orbot) — Tor для Android.
 
 ## Прочее
 - [dns.malw.link](https://info.dns.malw.link) — DNS-сервер разблокирует сайты, которые сами заблокировали российские IP.
@@ -42,7 +46,6 @@
 - [WhiteDead VPN](@whitedeadvpnbot) (Telegram бот)
 - [astracatvpnX](@astracatvpnX_bot) (Telegram бот)
 - [@FurkVPNbot](https://t.me/FurkVPNbot) (Telegram бот)
-- [VLESS Generator](https://t.me/vlessgeneratorbot) (Telegram бот)
 - [Aeza Security](https://aezasecurity.net)
 - [Windscribe](https://windscribe.com)
 - [nthLink](https://www.nthlink.com)
