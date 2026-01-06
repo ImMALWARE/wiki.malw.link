@@ -13,6 +13,7 @@
 
 ## Бесплатные VPN-сервисы, предоставляющие обход белых списков
 - [YzeNet](https://t.me/yzewevpn_bot) (Telegram-бот)
+- [Goodbye](@G1BWL_Bot) (Telegram-бот)
 - [FastNet](https://t.me/fastnet_robot) (Telegram-бот)
 - https://ryzgames31.github.io/UWB/ (агрегатор ссылок-подписок)
 - https://etoneya.a9fm.site/ (агрегатор ссылок-подписок)
@@ -71,7 +72,6 @@ https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/gi
 ```
 https://key.vpnstarlink.ru/MB63UT
 ```
-
 ```
 https://raw.githubusercontent.com/55prosek-lgtm/vpn_config_for_russia/refs/
 heads/main/whitelist.txt
@@ -79,6 +79,42 @@ heads/main/whitelist.txt
 ```
 https://raw.githubusercontent.com/vlesscollector/vlesscollector/refs/heads/main/vless_configs.txt
 
+```
+```
+https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS#STR.BYPASS👾
+
+```
+```
+https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR#MEGA.STR.BYPASS⚡️
+
+```
+```
+https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/CUSTOM#CUSTOM.STR.BYPASS🤟
+
+```
+```
+https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/BYPASS#PROXY.STR.BYPASS🐺
+```
+```
+https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/Vless#VLESS.STR.BYPASS🔥
+```
+```
+http://livpn.atwebpages.com/sub.php?token=c829c20769d2112b
+```
+```
+trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?path=%2Ff2fc2a1f&security=tls&host=free-de-3.undef.network&type=ws&sni=free-de-3.undef.network#PORT%F0%9F%96%95
+```
+```
+https://raw.githubusercontent.com/Kirillo4ka/vpn-configs-for-russia/refs/heads/main/Vless-Rus-Mobile-White-List.txt
+```
+```
+https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-all.txt
+```
+```
+https://s3c3.001.gpucloud.ru/rtrq/jsoxn
+```
+```
+https://raw.githubusercontent.com/bywarm/whitelists-vpns-etc/refs/heads/main/whitelists1-4pda.txt
 ```
 ```
 https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/1
