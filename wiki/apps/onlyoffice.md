@@ -1,18 +1,21 @@
 # ONLYOFFICE
-<img src="/img/logo/OnlyOffice.webp" style="float: right" width="200">
 
-ONLYOFFICE — офисный пакет с открытым исходным кодом, полностью обратно совместим с Microsoft Office. Пакет доступен на Windows, Linux, MacOS, Android и iOS, что дает ему преимущество перед LibreOffice как минимум для пользователей, перешедших с Windows или противников проприетарного ПО.
+<img src="/img/logo/onlyoffice.svg" style="float: right" width="200">
+
+ONLYOFFICE — офисный пакет с открытым исходным кодом, полностью совместимый с форматами Microsoft Office. Пакет доступен на Windows, Linux, macOS, Android и iOS. Благодаря привычному интерфейсу и кроссплатформенности, он имеет преимущество перед LibreOffice, особенно для пользователей, перешедших с Windows.
 
 ## ИИ-агент
 
 Поддерживается использование ИИ-агента.
 
-<img src="/img/logo/ai.png"> <br>
-<img src="/img/logo/ai1.png">
+<img src="/img/apps/onlyoffice/1.png"> 
+
+<img src="/img/apps/onlyoffice/2.png">
 
 ## Плагины
 
-В данном пакете есть плагины, некоторые из встроенных действительно нужны: встроить видео с YouTube, распознать текст, переводчик, шахматы, в которые можно играть онлайн). Вы можете писать плагины сами, скачать их из встроенного маркета или из интернета.
+В данном пакете есть плагины, и некоторые из встроенных действительно полезны: вставка видео с YouTube, распознавание текста, переводчик и шахматы (в которые можно играть онлайн). Вы можете писать плагины сами, а также скачивать их из встроенного каталога или из интернета.
 
-Официальный сайт: https://onlyoffice.com/ru  
-Загрузки доступны на странице: https://onlyoffice.com/ru/download-desktop
+Официальный сайт: [https://onlyoffice.com/ru](https://onlyoffice.com/ru)
+
+Загрузки доступны на странице: [https://onlyoffice.com/ru/download-desktop](https://onlyoffice.com/ru/download-desktop)
