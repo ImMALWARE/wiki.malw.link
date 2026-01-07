@@ -5,7 +5,7 @@
 **Rufus** — утилита для создания загрузочных флешек, карт памяти и т.д. Чаще всего используется для записи [ISO-образов](https://ru.wikipedia.org/wiki/ISO-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7) Windows на флешку.
 
 ## Запуск
-Скачайте и запустите файл: https://github.com/pbatard/rufus/releases/download/v4.9/rufus-4.9.exe
+Скачайте и запустите файл: https://github.com/pbatard/rufus/releases/download/v4.11/rufus-4.11.exe
 
 ## Использование
 В меню "Устройство" выберите вашу флешку. В "Метод загрузки" выберите ISO-образ с ОС.
