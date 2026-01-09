@@ -125,3 +125,15 @@ https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/h
 ```
 https://cdn.jsdelivr.net/gh/EtoNeYaProject/EtoNeYaProject.github.io@refs/heads/main/1
 ```
+```
+https://sub.luxusvpn.app /KYyB3aWnYmGx7hRN
+```
+```
+https://sub.wetruth.workers.dev/
+```
+```
+http://fsub.flux.2bd.net/githubmirror/bypass/bypass-all.txt
+```
+
+
+
