@@ -20,7 +20,7 @@ Magisk-модули для устройств с [root](/android/root):
 
 *   **YouTube RVX** (v19.44.39): [https://github.com/selfmusing/RVX-Lite-Modules/releases/download/2025-02-25/black\_afn\_blue.zip](https://github.com/selfmusing/RVX-Lite-Modules/releases/download/2025-02-25/black_afn_blue.zip)
 *   **YouTube RVX** (Для старых версий Android 6+, v17.34.36): [https://t.me/rvx\_lite\_repo/4313](https://t.me/rvx_lite_repo/4313)
-*   **YouTube Music RVX** (v8.02.53): [https://github.com/selfmusing/RVX-Lite-Modules/releases/download/2025-01-24/8.02.53-arm64-afn\_blue.zip](https://github.com/selfmusing/RVX-Lite-Modules/releases/download/2025-01-24/8.02.53-arm64-afn_blue.zip)
+*   **YouTube Music RVX** (v8.14.54): [https://github.com/selfmusing/RVX-Lite-Modules/releases/download/2025-06-05/ARM64.AFN.BLUE.RVX.YTM.v8.14.54.zip](https://github.com/selfmusing/RVX-Lite-Modules/releases/download/2025-06-05/ARM64.AFN.BLUE.RVX.YTM.v8.14.54.zip)
 *   **YouTube Music RVX** (Для старых версий Android 5+, v6.20.51): [https://t.me/rvx\_lite\_repo/4255](https://t.me/rvx_lite_repo/4255)
 
 APK для устройств без root:

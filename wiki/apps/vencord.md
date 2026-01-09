@@ -107,5 +107,5 @@
 (Open Themes Folder).
 
 ## Vesktop
-На Windows скачайте Vesktop тут: https://github.com/Vencord/Vesktop/releases/download/v1.5.8/Vesktop-Setup-1.5.8.exe
-На Linux (лучше используйте пакетные менеджеры): https://github.com/Vencord/Vesktop/releases/download/v1.5.8/vesktop_1.5.8_amd64.deb
+На Windows скачайте Vesktop тут: https://github.com/Vencord/Vesktop/releases/download/v1.6.3/Vesktop-Setup-1.6.3.exe
+На Linux (лучше используйте пакетные менеджеры): https://github.com/Vencord/Vesktop/releases/download/v1.6.3/vesktop_1.6.3_amd64.deb
