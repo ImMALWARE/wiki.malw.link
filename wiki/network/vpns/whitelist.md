@@ -13,10 +13,13 @@
 
 ## Бесплатные VPN-сервисы, предоставляющие обход белых списков
 - [YzeNet](https://t.me/yzewevpn_bot) (Telegram-бот)
-- [Goodbye](@G1BWL_Bot) (Telegram-бот)
+- https://uzuk.pro/ (агрегатор ссылок-подписок)
 - [FastNet](https://t.me/fastnet_robot) (Telegram-бот)
 - https://ryzgames31.github.io/UWB/ (агрегатор ссылок-подписок)
 - https://etoneya.a9fm.site/ (агрегатор ссылок-подписок)
+- https://cidvpn.github.io/website-CidVpn/ (агрегатор ссылок-подписок)
+
+
 
 ## Рабочие ссылки-подписки, включающие в себя конфиги, обходящие белые списки
 ```
@@ -124,4 +127,19 @@ https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/h
 ```
 ```
 https://cdn.jsdelivr.net/gh/EtoNeYaProject/EtoNeYaProject.github.io@refs/heads/main/1
+```
+```
+https://sub.luxusvpn.app /KYyB3aWnYmGx7hRN
+```
+```
+https://sub.wetruth.workers.dev/
+```
+```
+http://fsub.flux.2bd.net/githubmirror/bypass/bypass-all.txt
+```
+```
+https://raw.githubusercontent.com/CidVpn/cid-vpn-config/refs/heads/main/general.txt
+```
+```
+https://storage.yandexcloud.net/cid-vpn/whitelist.txt
 ```
