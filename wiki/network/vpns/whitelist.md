@@ -143,7 +143,3 @@ https://raw.githubusercontent.com/CidVpn/cid-vpn-config/refs/heads/main/general.
 ```
 https://storage.yandexcloud.net/cid-vpn/whitelist.txt
 ```
-
-
-
-
