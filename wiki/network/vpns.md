@@ -29,29 +29,27 @@
 
 ## Прочее
 - [dns.malw.link](https://info.dns.malw.link) — DNS-сервер разблокирует сайты, которые сами заблокировали российские IP.
-### Решение ценой дешевле проезда (30р в месяц), 9 серверов 6 локаций: [@hostvless_bot](https://t.me/hostvless_bot) (Telegram бот) (спонсор)
+### Решение ценой дешевле проезда (30р в месяц), 9 серверов 6 локаций: [@hostvless_bot](https://t.me/hostvless_bot) (Telegram-бот) (спонсор)
 
 ## Бесплатные рабочие [VPN-сервисы](/network/vpns/vpn-service)
 - <img src="/img/logo/warp.png" class="inline"/>[Cloudflare WARP](/network/vpns/warp) — бесплатный [VPN-сервис](/network/vpns/vpn-service) от Cloudflare. Не меняет страну IP, почти нет потерь в скорости.
-- [LagomVPN](https://t.me/LagomVPN_bot) (Telegram бот)
+- [LagomVPN](https://t.me/LagomVPN_bot) (Telegram-бот)
 - <img src="/img/logo/amneziavpn.png" class="inline"/>[Amnezia Free](/network/vpns/amnezia-free) — бесплатный VPN-сервис от разработчиков [AmneziaVPN](/network/vpns/amneziavpn). YouTube работать не будет.
-- [Privio](https://t.me/PrivioTech_bot) (Telegram бот)
-- [Liberty Free](https://t.me/liberty_free_link_bot) (Telegram бот)
-- [Waicore VPN](https://t.me/waicorevpn_bot) (Telegram бот)
-- [EOFVPN](https://t.me/eofvpnbot) (Telegram бот)
+- [Privio](https://t.me/PrivioTech_bot) (Telegram-бот)
+- [Liberty Free](https://t.me/liberty_free_link_bot) (Telegram-бот)
+- [Waicore VPN](https://t.me/waicorevpn_bot) (Telegram-бот)
+- [EOFVPN](https://t.me/eofvpnbot) (Telegram-бот)
 - [FPTN VPN](https://fptn.org)
 - [V4Freedom](https://v4freedom.com)
-- [HLVPN](https://t.me/hlvpnbot) (Telegram бот)
-- [Whitenet VPN](https://t.me/whitenetvpn_bot) (Telegram бот)
-- [WhiteDead VPN](@whitedeadvpnbot) (Telegram бот)
-- [astracatvpnX](@astracatvpnX_bot) (Telegram бот)
-- [@FurkVPNbot](https://t.me/FurkVPNbot) (Telegram бот)
-- [Aeza Security](https://aezasecurity.net)
+- [HLVPN](https://t.me/hlvpnbot) (Telegram-бот)
+- [@FurkVPNbot](https://t.me/FurkVPNbot) (Telegram-бот)
+- [AnotherBoringSimpleBot](https://t.me/abs_vpnbot)(Telegram-бот)
 - [Windscribe](https://windscribe.com)
 - [nthLink](https://www.nthlink.com)
 - [Seed4me](https://seed4.me)
 - [AdGuard VPN](https://adguard-vpn.com/ru)
 - <img src="/img/logo/censor-tracker.png" class="inline"/>[Censor Tracker](/network/vpns/censor-tracker) — расширение для браузера, проксирует заблокированные сайты с возможностью добавлять домены в список.
+- <img src="/img/logo/wai.png" class="inline"/>[Wai Proxy](https://chromewebstore.google.com/detail/wai-proxy/pobghokogilihngelchnmdgmomnnhged?pli=1)  — расширение для браузера, проксирует заблокированные сайты.
 
 ## Бесплатные публичные ключи VLESS
 - [Goida VPN Configs](https://github.com/AvenCores/goida-vpn-configs)

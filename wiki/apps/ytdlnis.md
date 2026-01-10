@@ -6,7 +6,7 @@
 
 ## Установка
 
-https://github.com/deniscerri/ytdlnis/releases/download/v1.8.7/YTDLnis-1.8.7-universal-release.apk
+https://github.com/deniscerri/ytdlnis/releases/download/v1.8.7.1/YTDLnis-1.8.7.1-universal-release.apk
 
 ## Использование
 В поисковую строку можно вставить ссылку на видео/аудио. Затем выбрать параметры и скачать.

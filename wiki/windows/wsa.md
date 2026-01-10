@@ -19,8 +19,8 @@
 
 ## Установка
 1. Скачайте архив со сборкой WSA. В сборку встроены Google Play сервисы, KernelSU, удалён Amazon AppStore.
-    - Windows 10: https://github.com/MustardChef/WSABuilds/releases/download/Windows_10_2407.40000.4.0_v2/WSA_2407.40000.4.0_x64_Release-Nightly-with-KernelSU-v1.0.5-MindTheGapps-13.0-RemovedAmazon_Windows_10.7z
-    - Windows 11: https://github.com/MustardChef/WSABuilds/releases/download/Windows_11_2407.40000.4.0_v2/WSA_2407.40000.4.0_x64_Release-Nightly-with-KernelSU-v1.0.5-MindTheGapps-13.0-RemovedAmazon.7z
+    - Windows 10: https://github.com/MustardChef/WSABuilds/releases/download/Windows_10_2407.40000.4.0_LTS_7_HOTFIX_1/WSA_2407.40000.4.0_x64_Release-Nightly-with-KernelSU-v2.1.2-MindTheGapps-13.0-RemovedAmazon_Windows_10.7z
+    - Windows 11: https://github.com/MustardChef/WSABuilds/releases/download/Windows_11_2407.40000.4.0_LTS_7_HOTFIX_1/WSA_2407.40000.4.0_x64_Release-Nightly-with-KernelSU-v2.1.2-MindTheGapps-13.0-RemovedAmazon.7z
 
 2. Распакуйте его, например, в `C:\WSA`
 

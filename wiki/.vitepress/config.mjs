@@ -95,6 +95,7 @@ export default defineConfig({
           { text: 'AutoTotal', link: '/apps/autototal' },
           { text: 'Homebrew', link: '/apps/homebrew' },
           { text: 'MalwTool', link: '/apps/malwtool' },
+          { text: 'OnlyOffice', link: '/apps/onlyoffice' },
           { text: 'Rufus', link: '/apps/rufus' },
           { text: 'Spicetify', link: '/apps/spicetify' },
           { text: 'Termius', link: '/apps/termius' },

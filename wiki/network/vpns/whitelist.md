@@ -14,6 +14,7 @@
 ## Бесплатные VPN-сервисы, предоставляющие обход белых списков
 - [YzeNet](https://t.me/yzewevpn_bot) (Telegram-бот)
 - [GhostVPN](https://t.me/GhostVPN_vpn_bot) (Telegram-бот)
+- https://uzuk.pro/ (агрегатор ссылок-подписок)
 - [FastNet](https://t.me/fastnet_robot) (Telegram-бот)
 - https://uzuk.pro/ (агрегатор ссылок-подписок)
 - https://rentry.co/k5ayfic8 (агрегатор ссылок-подписок)
@@ -148,4 +149,3 @@ https://storage.yandexcloud.net/cid-vpn/whitelist.txt
 ```
 https://raw.githubusercontent.com/FLEXIY0/matryoshka-vpn/main/configs/russia_whitelist.txt
 ```
-

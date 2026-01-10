@@ -8,8 +8,8 @@
 
 ## Установка Ventoy на флешку
 Скачайте установщик Ventoy.
-- Windows: https://github.com/ventoy/Ventoy/releases/download/v1.1.07/ventoy-1.1.07-windows.zip
-- Linux: https://github.com/ventoy/Ventoy/releases/download/v1.1.07/ventoy-1.1.07-linux.tar.gz
+- Windows: https://github.com/ventoy/Ventoy/releases/download/v1.1.10/ventoy-1.1.10-windows.zip
+- Linux: https://github.com/ventoy/Ventoy/releases/download/v1.1.10/ventoy-1.1.10-linux.tar.gz
 
 В архиве есть 3 приложения: **Ventoy2Disk**, **VentoyPlugson**, **VentoyVlnk**. Для создания флешки с Ventoy запустите Ventoy2Disk. Выберите флешку из списка и нажмите Установить.
 <img src="/img/apps/ventoy/3.png" style="display: block; margin: 15px auto;">
