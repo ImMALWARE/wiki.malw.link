@@ -34,6 +34,8 @@ import BackdropAnimation from '/.vitepress/theme/components/main_mountains.vue'
 - <img src="/img/logo/powershell.png" class="inline">[MalwTool](/apps/malwtool)
 <!-- - [Millenium for Steam](/apps/millenium-for-steam) -->
 <!-- - [NanaZip](/apps/nanazip) -->
+- <img src="/img/logo/onlyoffice.svg" class="inline">[OnlyOffice](/apps/onlyoffice)
+
 - <img src="/img/logo/rufus.png" class="inline">[Rufus](/apps/rufus)
 
 - <img src="/img/logo/spicetify.png" class="inline">[Spicetify](/apps/spicetify)

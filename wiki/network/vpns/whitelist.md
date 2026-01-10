@@ -20,7 +20,8 @@
 - https://ryzgames31.github.io/UWB/ (агрегатор ссылок-подписок)
 - https://etoneya.a9fm.site/ (агрегатор ссылок-подписок)
 - https://cidvpn.github.io/website-CidVpn/ (агрегатор ссылок-подписок)
-- https://bp.wl.free.nf/ (агрегатор ммылок-подписок)
+- https://bp.wl.free.nf/ (агрегатор ссылок-подписок)
+
 
 
 
@@ -157,5 +158,14 @@ https://bp.wl.free.nf/confs/wl.txt
 ```
 ```
 https://bp.wl.free.nf/confs/merged.txt
+```
+```
+https://raw.githubusercontent.com/CidVpn/cid-vpn-config/refs/heads/main/general.txt
+```
+```
+https://storage.yandexcloud.net/cid-vpn/whitelist.txt
+```
+```
+https://raw.githubusercontent.com/FLEXIY0/matryoshka-vpn/main/configs/russia_whitelist.txt
 ```
 
