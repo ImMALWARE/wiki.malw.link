@@ -12,7 +12,6 @@
 - Karing (Android, iOS, Windows, Linux, macOS)
 
 ## Бесплатные VPN-сервисы, предоставляющие обход белых списков
-- [YzeNet](https://t.me/yzewevpn_bot) (Telegram-бот)
 - [GhostVPN](https://t.me/GhostVPN_vpn_bot) (Telegram-бот)
 - https://uzuk.pro/ (агрегатор ссылок-подписок)
 - [FastNet](https://t.me/fastnet_robot) (Telegram-бот)
@@ -153,5 +152,6 @@ https://bp.wl.free.nf/confs/wl.txt
 ```
 https://bp.wl.free.nf/confs/merged.txt
 ```
-
-
+```
+https://wlr.s3-website.cloud.ru/zNhbYZtBc
+```
