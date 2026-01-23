@@ -263,3 +263,21 @@ https://cdn.jsdelivr.net/gh/EtoNeYaProject/EtoNeYaProject.github.io@refs/heads/m
 ```
 https://translate.yandex.ru/translate?url=https://etoneya.a9fm.site/whitelist&lang=en-ru
 ```
+```
+https://subs.root.sx/hdff1
+```
+```
+https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt
+```
+```
+https://pastebin.com/raw/5pKVyTTL
+```
+```
+https://catkts.qzz.io/vpn-service/catvpn/catspeedversion.txt
+```
+(для V2RayTun, Happ, v2ng, v2box, Hiddify ⬆️)
+```
+https://catkts.qzz.io/vpn-service/catvpn/fornekobox.txt
+```
+(для Nekobox ⬆️)
+```
