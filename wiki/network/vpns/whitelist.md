@@ -280,4 +280,4 @@ https://catkts.qzz.io/vpn-service/catvpn/catspeedversion.txt
 https://catkts.qzz.io/vpn-service/catvpn/fornekobox.txt
 ```
 (для Nekobox ⬆️)
-```
+
