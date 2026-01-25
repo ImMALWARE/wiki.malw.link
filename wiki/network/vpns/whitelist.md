@@ -280,4 +280,26 @@ https://catkts.qzz.io/vpn-service/catvpn/catspeedversion.txt
 https://catkts.qzz.io/vpn-service/catvpn/fornekobox.txt
 ```
 (для Nekobox ⬆️)
+```
+https://raw.githubusercontent.com/officialdakari/psychic-octo-tribble/refs/heads/main/subwl.txt
+```
+```
+https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/refs/heads/main/configs
+```
+```
+https://raw.githubusercontent.com/Ai123999/WhiteeListSub/refs/heads/main/whitelistkeys
+```
+```
+https://raw.githubusercontent.com/Ai123999/WhiteKeys/refs/heads/main/WhiteKeys
+```
+```
+https://storage.yandexcloud.net/cid-vpn/whitelist.txt
+```
+```
+https://kiryascript.github.io/white-lists/
+```
+```
+https://raw.githubusercontent.com/FalerChannel/FalerChannel/refs/heads/main/configs
+```
+
 
