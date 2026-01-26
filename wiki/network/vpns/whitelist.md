@@ -300,5 +300,7 @@ https://kiryascript.github.io/white-lists/
 ```
 https://raw.githubusercontent.com/FalerChannel/FalerChannel/refs/heads/main/configs
 ```
-
+```
+https://raw.githubusercontent.com/xcom024/vless/refs/heads/main/list.txt
+```
 
