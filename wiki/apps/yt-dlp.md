@@ -62,7 +62,7 @@ yt-dlp доступен в виде приложения [YTDLnis](/apps/ytdlnis
     ```shell
     yt-dlp https://www.youtube.com/watch?v=bLZHcnuqscU
     ```
-    <img src="/img/apps/yt-dlp/1.png" style="margin: 15px auto; display: block">
+    <img src="/img/apps/yt-dlp/usage-explorer-1.png" style="margin: 15px auto; display: block">
 > Ссылок на видео может быть сколько угодно, они пишутся через пробел. Например:
 > ```shell
 > yt-dlp https://www.youtube.com/watch?v=wUXKADf4lxE https://www.tiktok.com/@anonim_us_228/video/7441478571656318209 https://soundcloud.com/jrgz/never-gonna-catch-the-thug-theme-goblin-mashup
@@ -75,7 +75,7 @@ yt-dlp доступен в виде приложения [YTDLnis](/apps/ytdlnis
 
 1.  Перейдите в папку [%appdata%](/windows/appdata).
 2.  Создайте папку с именем `yt-dlp`.
-    <img src="/img/apps/yt-dlp/2.png" style="margin: 15px auto; display: block">
+    <img src="/img/apps/yt-dlp/usage-explorer-2.png" style="margin: 15px auto; display: block">
 3.  Создайте в ней новый текстовый документ с названием `config.txt` (кстати, рекомендуется включить [отображение расширений файлов](/windows/file-ext)).
 4.  В текстовый документ нужно написать аргумент `-P`, пробел и полный путь к нужной папке. Пример:
     ```shell

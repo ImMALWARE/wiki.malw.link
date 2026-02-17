@@ -13,13 +13,13 @@
 Опять же, в отличие от VPN-соединения, установленный прокси работает **только в тех приложениях, в которых это специально предусмотрено**.
 
 1.  Откройте **Свойства браузера** из поиска
-    <img src="/img/network/vpns/local-proxy/1.png" style="margin: 15px auto; display: block;">
+    <img src="/img/network/vpns/local-proxy/windows-1.png" style="margin: 15px auto; display: block;">
 
 2.  На вкладке **Подключения** выберите **Настройка сети**
-    <img src="/img/network/vpns/local-proxy/2.png" style="margin: 15px auto; display: block;">
+    <img src="/img/network/vpns/local-proxy/windows-2.png" style="margin: 15px auto; display: block;">
 
 3.  Включите "**Использовать прокси-сервер...**" и "**Не использовать прокси-сервер для локальных адресов**", выберите **Дополнительно**
-    <img src="/img/network/vpns/local-proxy/3.png" style="margin: 15px auto; display: block;">
+    <img src="/img/network/vpns/local-proxy/windows-3.png" style="margin: 15px auto; display: block;">
 
 4.  В зависимости от типа прокси, введите адрес и порт. Для локального прокси-сервера адрес будет `127.0.0.1`
-    <img src="/img/network/vpns/local-proxy/4.png" style="margin: 15px auto; display: block;">
+    <img src="/img/network/vpns/local-proxy/windows-4.png" style="margin: 15px auto; display: block;">

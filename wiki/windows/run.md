@@ -4,7 +4,7 @@
 
 Проще всего выполнить команду в окне "Выполнить". Для его вызова нажмите горячую клавишу `Windows` + `R`.
 
-<img src="/img/windows/run/1.jpeg" style="margin: 15px auto; display: block;">
+<img src="/img/windows/run/run.jpeg" style="margin: 15px auto; display: block;">
 
 Введите команду в текстовое поле и нажмите "ОК".
 
@@ -12,7 +12,7 @@
 
 Другой способ выполнить команду — Командная строка. Для открытия командной строки напишите в поиске Windows "cmd" и нажмите Enter.
 
-<img src="/img/windows/run/2.png" style="margin: 15px auto; display: block;">
+<img src="/img/windows/run/cmd-search.png" style="margin: 15px auto; display: block;">
 
 Вставьте команду в командную строку и нажмите Enter для выполнения.
 

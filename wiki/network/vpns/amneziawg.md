@@ -99,7 +99,7 @@ AmneziaWG работает в рамках обратной совместимо
     notepad drivers.txt
     ```
 4.  Найдите `wintun.inf`, нам нужен его oem-номер. В моём случае это `oem7.inf`:
-    <img src="/img/network/vpns/amneziawg/1.png">
+    <img src="/img/network/vpns/amneziawg/wintun-inf.png">
 5.  Выполните команду для его удаления:
     ```bat
     pnputil.exe /d oem7.inf
@@ -118,7 +118,7 @@ AmneziaWG работает в рамках обратной совместимо
 
 Откройте конфигурационный файл для редактирования:
 
-<img src="/img/network/vpns/amneziawg/2.png"/>
+<img src="/img/network/vpns/amneziawg/edit-tunnel.png"/>
 
 Уберите галочку "Блокировать нетуннелированный трафик"
 

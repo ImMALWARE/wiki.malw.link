@@ -10,9 +10,9 @@
 
 1.  Скачайте [последнюю версию InviZible Pro](https://github.com/Gedsh/InviZible/releases/latest) с GitHub и установите её. В Play Маркете находится устаревшая версия.
 2.  Зайдите в быстрые настройки и активируйте пункт «Подделать SNI».
-    <img src="/img/network/vpns/invizible-pro/1.png" style="margin: 15px auto; display: block" width="auto">
+    <img src="/img/network/vpns/invizible-pro/sni.png" style="margin: 15px auto; display: block" width="auto">
 3.  Внутри быстрых настроек зайдите в мосты, выберите пункт «Использовать список мостов по умолчанию» и укажите в нём webtunnel. Активируйте все мосты, которые предложит приложение.
-    <img src="/img/network/vpns/invizible-pro/2.png" style="margin: 15px auto; display: block" width="auto">
+    <img src="/img/network/vpns/invizible-pro/bridges.png" style="margin: 15px auto; display: block" width="auto">
 4.  Вернитесь обратно и запустите Tor.
 5.  Если качество подключения вас не устроило, то вернитесь в мосты и удалите нерабочий. Вы увидите значения пинга до мостов. Зелёный пинг — хорошо, красный пинг или отсутствие пинга — плохо, такие мосты стоит удалить. Также нерабочий мост даёт ошибки в логах в разделе TOR. Если вам нужны самые лучшие из возможных мостов, то на июль 2025 стабильно и быстро работали эти пять:
     ```text
