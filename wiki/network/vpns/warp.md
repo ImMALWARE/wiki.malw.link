@@ -12,10 +12,9 @@
 
 *   Самый простой способ — использовать онлайн-генераторы конфигов на сайтах (это не мои сайты):
     *   https://warp-mirrors.vercel.app
-    *   https://config-generator-warp.vercel.app
+    *   https://warp-generator.github.io/warp/
     *   https://warp-gen.vercel.app
     *   https://warp.llimonix.pw
-    *   https://warp-vless.vercel.app
 *   Генераторы в Telegram-ботах (тоже не мои):
     *   [@hostvless_bot](https://t.me/hostvless_bot)
     *   [@warp_generator_bot](https://t.me/warp_generator_bot)
