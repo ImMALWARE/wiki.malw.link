@@ -8,9 +8,9 @@ ONLYOFFICE — офисный пакет с открытым исходным к
 
 Поддерживается использование ИИ-агента.
 
-<img src="/img/apps/onlyoffice/1.png"> 
+<img src="/img/apps/onlyoffice/ai-1.png"> 
 
-<img src="/img/apps/onlyoffice/2.png">
+<img src="/img/apps/onlyoffice/ai-2.png">
 
 ## Плагины
 

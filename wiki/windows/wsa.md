@@ -29,10 +29,10 @@
     Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Bypass -Force;
     ```
 4. Нажмите правой кнопкой на `Install.ps1` -> Выполнить с помощью PowerShell. Ожидайте завершения установки.
-    <img src="/img/windows/wsa/1.png">
+    <img src="/img/windows/wsa/install-1.png">
 
 Когда появится такое окно, и в командной строке будет написано All Done, значит установка завершена!
-<img src="/img/windows/wsa/2.png">
+<img src="/img/windows/wsa/install-2.png">
 Нажмите Продолжить, ожидайте первого запуска "подсистемы".
 
 ## Установка APK
@@ -48,7 +48,7 @@ winget install --id=Google.PlatformTools -e
 Установить ADB нужно будет только один раз.
 
 2. Откройте "Параметры подсистемы Windows для Android" (найдите в Пуске), перейдите во вкладку Разработчик, включите Режим разработчика.
-<img src="/img/windows/wsa/3.png">
+<img src="/img/windows/wsa/adb-address.png">
 
 3. [Выполните команду](/windows/run):
     ```bat

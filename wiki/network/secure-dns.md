@@ -27,7 +27,7 @@
 Параметры > Сеть и Интернет > Wi-Fi > Свойства [название_беспроводной_сети] > Назначение DNS-сервера > Изменить > Вручную
 
 Заполните настройки как на скриншоте:
-<img src="/img/network/secure-dns/1.png" style="margin: 15px auto; display: block;">
+<img src="/img/network/secure-dns/windows.png" style="margin: 15px auto; display: block;">
 
 ### Chrome на ПК
 

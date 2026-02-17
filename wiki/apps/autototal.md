@@ -1,5 +1,5 @@
 # AutoTotal
-<img src="/img/apps/autototal/1.png" style="float: right" width="250px">
+<img src="/img/apps/autototal/settings.png" style="float: right" width="250px">
 
 **AutoTotal** — это программа для автоматического сканирования файлов из папки "Загрузки" (и не только) на [VirusTotal](https://ru.wikipedia.org/wiki/VirusTotal).
 
@@ -23,10 +23,10 @@
 
 ## Скриншоты
 
-<img src="/img/apps/autototal/2.png" style="margin: 15px auto; display: block">
-<img src="/img/apps/autototal/3.png" style="margin: 15px auto; display: block">
-<img src="/img/apps/autototal/4.png" style="margin: 15px auto; display: block">
-<img src="/img/apps/autototal/5.png" style="margin: 15px auto; display: block">
-<img src="/img/apps/autototal/6.png" style="margin: 15px auto; display: block">
-<img src="/img/apps/autototal/7.png" style="margin: 15px auto; display: block">
-<img src="/img/apps/autototal/8.png" style="margin: 15px auto; display: block">
+<img src="/img/apps/autototal/clean.png" style="margin: 15px auto; display: block">
+<img src="/img/apps/autototal/sus.png" style="margin: 15px auto; display: block">
+<img src="/img/apps/autototal/danger.png" style="margin: 15px auto; display: block">
+<img src="/img/apps/autototal/scanning.png" style="margin: 15px auto; display: block">
+<img src="/img/apps/autototal/context-menu-1.png" style="margin: 15px auto; display: block">
+<img src="/img/apps/autototal/context-menu-2.png" style="margin: 15px auto; display: block">
+<img src="/img/apps/autototal/scan-confirm.png" style="margin: 15px auto; display: block">

@@ -13,30 +13,30 @@
 Перейдите на [страницу загрузки Vencord](https://vencord.dev/download/) и следуйте инструкциям на сайте.
 
 Перед установкой Vencord нужно закрыть Discord из трея:
-<img src="/img/apps/vencord/1.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/quit-discord.png" style="display: block; margin: 15px auto;">
 
 После установки Vencord или Vesktop соответствующий раздел должен появиться в настройках:
-<img src="/img/apps/vencord/2.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/vencord-in-settings.png" style="display: block; margin: 15px auto;">
 
 В разделе **Plugins** можно найти и установить плагины. Чтобы плагин заработал, нужно перезапустить приложение (кнопка **Restart Client** в разделе Vencord).
 
 ## Рекомендуемые плагины
 
 ### FakeNitro
-<img src="/img/apps/vencord/3.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/fake-nitro-card.png" style="display: block; margin: 15px auto;">
 Демонстрация экрана в Nitro-качестве, Nitro-эмодзи, стикеры.
 
 ### FakeProfileThemes
-<img src="/img/apps/vencord/4.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/fake-profile-themes-card.png" style="display: block; margin: 15px auto;">
 Цвета профиля (будут видеть все пользователи плагина). Работает через невидимые символы в описании. Зайдите в настройки плагина, выберите нужные цвета, нажмите "Copy 3y3". Вставьте невидимые символы в конец поля «О себе». Все пользователи плагина будут видеть ваши цвета профиля.
 
 ### Decor
-<img src="/img/apps/vencord/5.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/decor-card.png" style="display: block; margin: 15px auto;">
 Рамки аватара. Настраивается в "Профилях". Видны всем пользователям плагина.
-<img src="/img/apps/vencord/6.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/decor-change-button.png" style="display: block; margin: 15px auto;">
 
 ### USRBG
-<img src="/img/apps/vencord/7.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/usrbg-card.png" style="display: block; margin: 15px auto;">
 Обложки профиля, видны всем пользователям плагина.
 Чтобы установить свою обложку, нужно:
     1. Присоединиться к серверу разработчиков [discord.gg/TeRQEPb](https://discord.com/invite/TeRQEPb)
@@ -44,66 +44,66 @@
     3. Дождаться, когда в канале `#userbg-log` появится уведомление о том, что ваша обложка одобрена
 
 ### BetterFolders
-<img src="/img/apps/vencord/8.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/better-folders-card.png" style="display: block; margin: 15px auto;">
 Альтернативное отображение папок серверов
-<img src="/img/apps/vencord/9.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/better-folders.png" style="display: block; margin: 15px auto;">
 
 ### CopyUserURLs
-<img src="/img/apps/vencord/10.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/copy-user-urls-card.png" style="display: block; margin: 15px auto;">
 Добавляет опцию в контекстном меню пользователя для копирования ссылки на его профиль
 
 ### CallTimer
-<img src="/img/apps/vencord/11.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/call-timer-card.png" style="display: block; margin: 15px auto;">
 Секундомер времени нахождения в голосовом канале
-<img src="/img/apps/vencord/12.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/call-timer.png" style="display: block; margin: 15px auto;">
 
 ### FriendsSince
-<img src="/img/apps/vencord/13.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/friends-since-card.png" style="display: block; margin: 15px auto;">
 Показывает дату добавления в друзья пользователя
-<img src="/img/apps/vencord/14.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/friends-since.png" style="display: block; margin: 15px auto;">
 
 ### GameActivityToggle
-<img src="/img/apps/vencord/15.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/game-activity-toggle-card.png" style="display: block; margin: 15px auto;">
 Переключатель статуса активности в вашем профиле
-<img src="/img/apps/vencord/16.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/game-activity-toggle.png" style="display: block; margin: 15px auto;">
 
 ### LastFMRichPresence
-<img src="/img/apps/vencord/17.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/lastfm-rich-presence-card.png" style="display: block; margin: 15px auto;">
 Отображение статуса прослушивания из Last.fm (в настройках надо указать ник и токен)
-<img src="/img/apps/vencord/18.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/lastfm-rich-presence.png" style="display: block; margin: 15px auto;">
 
 ### MemberCount
-<img src="/img/apps/vencord/19.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/member-count-card.png" style="display: block; margin: 15px auto;">
 Отображает количество участников серверов
-<img src="/img/apps/vencord/20.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/member-count.png" style="display: block; margin: 15px auto;">
 
 ### RelationshipNotifier
-<img src="/img/apps/vencord/21.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/relationship-notifier.png" style="display: block; margin: 15px auto;">
 Отправляет уведомление, когда вас удалили из друзей/выгнали с сервера
 
 ### ServerInfo
-<img src="/img/apps/vencord/22.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/server-info-card.png" style="display: block; margin: 15px auto;">
 Подробная информация о серверах
-<img src="/img/apps/vencord/23.png" style="display: block; margin: 15px auto;">
-<img src="/img/apps/vencord/24.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/server-info-where.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/server-info-example.png" style="display: block; margin: 15px auto;">
 
 ### SpotifyControls
-<img src="/img/apps/vencord/25.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/spotify-controls-card.png" style="display: block; margin: 15px auto;">
 Плеер Spotify
-<img src="/img/apps/vencord/26.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/spotify-controls.png" style="display: block; margin: 15px auto;">
 
 ### StreamerModeOnStream
-<img src="/img/apps/vencord/27.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/streamer-mode-on-stream-card.png" style="display: block; margin: 15px auto;">
 Включает режим стримера при демонстрации экрана
 
 ## Темы
 Найти темы можно здесь: [betterdiscord.app/themes](https://betterdiscord.app/themes)
 Если в описании темы есть ссылка такого вида (как здесь для Vencord):
-<img src="/img/apps/vencord/28.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/themes-1.png" style="display: block; margin: 15px auto;">
 То вставьте её в Настройки -> Themes -> Online Themes:
-<img src="/img/apps/vencord/29.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/themes-2.png" style="display: block; margin: 15px auto;">
 Если же такой ссылки нет, скачайте CSS-файл и поместите его в папку для тем
-<img src="/img/apps/vencord/30.png" style="display: block; margin: 15px auto;">
+<img src="/img/apps/vencord/themes-3.png" style="display: block; margin: 15px auto;">
 (Open Themes Folder).
 
 ## Vesktop

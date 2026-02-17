@@ -17,4 +17,4 @@
 
 Готовые сборки доступны на вкладке [Releases](https://github.com/Genymobile/scrcpy/releases) для Windows (x64/x86), macOS и Linux.
 
-<img src="/img/apps/scrcpy/1.jpg" style="margin: 15px auto; display: block">
+<img src="/img/apps/scrcpy/screen.jpg" style="margin: 15px auto; display: block">
