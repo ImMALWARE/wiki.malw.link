@@ -43,11 +43,13 @@
 ### USRBG
 
 <img src="/img/apps/vencord/7.png" style="display: block; margin: 15px auto;">
+
 Обложки профиля, видны всем пользователям плагина.
 Чтобы установить свою обложку, нужно:
-    1. Присоединиться к серверу разработчиков [discord.gg/TeRQEPb](https://discord.com/invite/TeRQEPb)
-    2. В канале `#click-here-to-request` использовать команду `/bg`, чтобы отправить файл обложки
-    3. Дождаться, когда в канале `#userbg-log` появится уведомление о том, что ваша обложка одобрена
+
+1. Присоединиться к серверу разработчиков [discord.gg/TeRQEPb](https://discord.com/invite/TeRQEPb)
+2. В канале `#click-here-to-request` использовать команду `/bg`, чтобы отправить файл обложки
+3. Дождаться, когда в канале `#userbg-log` появится уведомление о том, что ваша обложка одобрена
 
 ### BetterFolders
 
@@ -130,9 +132,9 @@
 
 ### Flatpak (Linux)
 
-Vesktop [доступен на Flathub](https://flathub.org/en/apps/dev.vencord.Vesktop)
+Vesktop [доступен на Flathub](https://flathub.org/en/apps/dev.vencord.Vesktop).
 
-Для установки через терминал должна сработать команда ниже
+Для установки через терминал выполните команду:
 
 ```bash
 flatpak install flathub dev.vencord.Vesktop
@@ -140,7 +142,7 @@ flatpak install flathub dev.vencord.Vesktop
 
 ---
 
-Для того, чтобы починить Drag & Drop (возможность перетащить файл внутрь чата) нужно выполнить команду ниже
+Чтобы исправить работу Drag & Drop (перетаскивание файлов в чат), выполните команду:
 
 ```bash
 flatpak override --filesystem=home:ro dev.vencord.Vesktop
@@ -148,15 +150,18 @@ flatpak override --filesystem=home:ro dev.vencord.Vesktop
 
 ---
 
-Если хочется использовать RPC (Активности в статусе), то не советуется использовать Flatpak версию
+Если требуется RPC (активность в статусе), версия Flatpak не рекомендуется.
 
-Для того чтобы включить поддержку хотя бы тех игр, что используют Game SDK, нужно исполнить команды ниже
+Чтобы включить поддержку игр, использующих Game SDK, выполните команды ниже:
 
 ```bash
 mkdir -p ~/.config/user-tmpfiles.d
 echo 'L %t/discord-ipc-0 - - - - .flatpak/dev.vencord.Vesktop/xdg-run/discord-ipc-0' > ~/.config/user-tmpfiles.d/discord-rpc.conf
 systemctl --user enable --now systemd-tmpfiles-setup.service
 
+# Для системной установки Flatpak-приложения
 sudo flatpak override --filesystem=xdg-run/.flatpak/dev.vencord.Vesktop:create --filesystem=xdg-run/discord-ipc-0
+
+# Для пользовательской установки Flatpak-приложения
 flatpak --user override --filesystem=xdg-run/.flatpak/dev.vencord.Vesktop:create --filesystem=xdg-run/discord-ipc-0
 ```
