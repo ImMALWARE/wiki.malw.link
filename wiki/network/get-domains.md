@@ -21,4 +21,4 @@
 2. В меню "Целевые приложения" выберите те приложения, трафик которых нужно отследить.
 3. Нажмите кнопку "Готов".
 4. Запустите нужное приложение. В PCAPdroid вы можете увидеть список доменов.
-    <img src="/img/network/get-domains/android.jpg" style="display: block; margin: 15px auto;">
+    <img src="/img/network/get-domains/android.png" style="display: block; margin: 15px auto;">
