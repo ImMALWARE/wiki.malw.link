@@ -11,6 +11,10 @@ img.inline {
   vertical-align: sub;
   margin-right: 5px;
 }
+img.centered {
+  display: block;
+  margin: 15px auto;
+}
 img {
   cursor: pointer;
 }

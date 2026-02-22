@@ -95,7 +95,7 @@ powershell -command "[Net.ServicePointManager]::SecurityProtocol = [Net.Security
 :::
 
 1.  Откройте PowerShell от имени администратора:
-    <img src="/img/apps/malwtool/malw-tool-win7-1.png" style="margin: 15px auto; display: block">
+    <img src="/img/apps/malwtool/malw-tool-win7-1.png" class="centered">
 
 2.  Выполните команды:
 
@@ -115,14 +115,14 @@ powershell -command "[Net.ServicePointManager]::SecurityProtocol = [Net.Security
 1.  Скачайте архив: https://github.com/ImMALWARE/MalwTool/raw/main/files/Office_2010_Library.zip
 2.  Распакуйте его в любую папку
 3.  Скопируйте путь к папке, куда были распакованы файлы из архива
-    <img src="/img/apps/malwtool/malw-tool-win7-2.png" style="margin: 15px auto; display: block">
+    <img src="/img/apps/malwtool/malw-tool-win7-2.png" class="centered">
 4.  Откройте cmd от имени администратора
-    <img src="/img/apps/malwtool/malw-tool-win7-3.png" style="margin: 15px auto; display: block">
+    <img src="/img/apps/malwtool/malw-tool-win7-3.png" class="centered">
 5.  Напишите `cd`, пробел, вставьте скопированный путь и нажмите Enter. В моём случае получается так:
     ```bat
     cd "C:\Users\vboxuser\Desktop\library"
     ```
-    <img src="/img/apps/malwtool/malw-tool-win7-4.png" style="margin: 15px auto; display: block">
+    <img src="/img/apps/malwtool/malw-tool-win7-4.png" class="centered">
 6.  Выполните остальные команды:
     ```bat
     if exist "C:\Program Files\Microsoft Office\Office14\ospp.vbs" (set "folder=C:\Program Files\Microsoft Office\Office14")

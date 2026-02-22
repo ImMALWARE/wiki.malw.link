@@ -23,10 +23,10 @@
 
 ## Скриншоты
 
-<img src="/img/apps/autototal/clean.png" style="margin: 15px auto; display: block">
-<img src="/img/apps/autototal/sus.png" style="margin: 15px auto; display: block">
-<img src="/img/apps/autototal/danger.png" style="margin: 15px auto; display: block">
-<img src="/img/apps/autototal/scanning.png" style="margin: 15px auto; display: block">
-<img src="/img/apps/autototal/context-menu-1.png" style="margin: 15px auto; display: block">
-<img src="/img/apps/autototal/context-menu-2.png" style="margin: 15px auto; display: block">
-<img src="/img/apps/autototal/scan-confirm.png" style="margin: 15px auto; display: block">
+<img src="/img/apps/autototal/clean.png" class="centered">
+<img src="/img/apps/autototal/sus.png" class="centered">
+<img src="/img/apps/autototal/danger.png" class="centered">
+<img src="/img/apps/autototal/scanning.png" class="centered">
+<img src="/img/apps/autototal/context-menu-1.png" class="centered">
+<img src="/img/apps/autototal/context-menu-2.png" class="centered">
+<img src="/img/apps/autototal/scan-confirm.png" class="centered">
