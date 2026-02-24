@@ -1,6 +1,6 @@
 # AmneziaWG
 
-<img src="/img/logo/amneziawg.png" style="float: right" width="150px">
+<img src="/img/logo/amneziawg.png" class="right" width="150px">
 
 **AmneziaWG** — это модифицированный протокол ([форк](https://ru.wikipedia.org/wiki/Форк)) WireGuard, разработанный командой проекта [AmneziaVPN](/network/vpns/amneziavpn) для **обхода ограничения** протокола WireGuard. AmneziaWG вносит изменения в протокол WireGuard, чтобы затруднить его обнаружение системами [DPI](https://ru.wikipedia.org/wiki/Deep_packet_inspection), которые используются для идентификации и ограничения VPN-трафика.
 

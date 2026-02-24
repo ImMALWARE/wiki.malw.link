@@ -1,6 +1,6 @@
 # IPFS
 
-<img src="/img/logo/ipfs.png" style="float: right" width="125px">
+<img src="/img/logo/ipfs.png" class="right" width="125px">
 
 **IPFS (InterPlanetary File System)** — распределённая файловая система без цензуры с [открытым исходным кодом](https://github.com/ipfs), доступ к которой осуществляется через [специализированные онлайн-шлюзы](https://ipfs.github.io/public-gateway-checker/) и приложения.
 

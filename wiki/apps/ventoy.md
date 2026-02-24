@@ -1,6 +1,6 @@
 # Ventoy
 
-<img src="/img/logo/ventoy.png" style="float: right" width="100px">
+<img src="/img/logo/ventoy.png" class="right" width="100px">
 
 **Ventoy** — инструмент с [открытым исходным кодом](https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5) для создания универсальных загрузочных USB-накопителей. Вы можете скопировать несколько [ISO-файлов](https://ru.wikipedia.org/wiki/ISO-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7) в папку, а затем выбирать нужный при загрузке с накопителя. Вы также можете загружаться с [VHD](https://ru.wikipedia.org/wiki/VHD) (дисков виртуальных машин) с помощью Ventoy.
 <img src="/img/apps/ventoy/screen-disk.png" class="centered">

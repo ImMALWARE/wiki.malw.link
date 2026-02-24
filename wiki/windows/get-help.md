@@ -1,6 +1,6 @@
 # Приложение Get Help в Windows
 
-<img src="/img/logo/get-help.png" style="float: right;" width="150px">
+<img src="/img/logo/get-help.png" class="right" width="150px">
 
 **Техническая поддержка (Get Help)** — встроенное приложение в [Windows](https://ru.wikipedia.org/wiki/Windows) для обращения в поддержку Microsoft. Оно имеет особенную функцию — инструмент полного удаления [Office](https://ru.wikipedia.org/wiki/Microsoft_Office).
 

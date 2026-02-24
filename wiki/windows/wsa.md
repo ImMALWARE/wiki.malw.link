@@ -1,6 +1,6 @@
 # Windows Subsystem for Android
 
-<img src="/img/logo/wsa.png" style="float: right" width="100px">
+<img src="/img/logo/wsa.png" class="right" width="100px">
 
 **Windows Subsystem for Android** (WSA) — это эмулятор Android для Windows от Microsoft. Он позволяет запускать Android-приложения на Windows 11 и Windows 10.
 

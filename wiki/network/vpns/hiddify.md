@@ -1,6 +1,6 @@
 # Hiddify
 
-<img src="/img/logo/hiddify.png" style="float: right" width="200px">
+<img src="/img/logo/hiddify.png" class="right" width="200px">
 
 **Hiddify** — это современный VPN/прокси-клиент на базе [sing-box](https://github.com/SagerNet/sing-box). Он поддерживает протоколы [VMess, VLESS](https://ru.wikipedia.org/wiki/VLESS), [Trojan](https://wiki.archlinux.org/title/Trojan), [Shadowsocks](https://ru.wikipedia.org/wiki/Shadowsocks), [Hysteria2](https://deepwiki.com/apernet/hysteria), а также различные транспорты: [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol), [gRPC](https://en.wikipedia.org/wiki/GRPC), [WebSocket](https://en.wikipedia.org/wiki/WebSocket).
 

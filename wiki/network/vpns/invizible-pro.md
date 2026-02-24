@@ -1,6 +1,6 @@
 # InviZible Pro
 
-<img src="/img/logo/invizible-pro.png" style="float: right" width="150px">
+<img src="/img/logo/invizible-pro.png" class="right" width="150px">
 
 **InviZible Pro** — клиент [Tor](https://ru.wikipedia.org/wiki/Tor), [I2P](https://ru.wikipedia.org/wiki/I2P) и [DNSCrypt](https://ru.wikipedia.org/wiki/DNSCrypt) для Android с открытым исходным кодом. Приложение известно тем, что одним из первых внесло изменения в протокол WebTunnel, схоже с [Tor Portable](/network/vpns/tor-portable). Оно поставляет мосты WebTunnel в готовом виде, не требуя от пользователя их поиска, поэтому оно очень лёгкое в настройке.
 

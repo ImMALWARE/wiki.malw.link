@@ -1,6 +1,6 @@
 # NFC Card Emulator
 
-<img src="/img/logo/nfc-card-emulator.png" style="float: right" width="200">
+<img src="/img/logo/nfc-card-emulator.png" class="right" width="200">
 
 **NFC Card Emulator** (Эмулятор карт) — Android-приложение для эмуляции, чтения и записи NFC-карт (бесконтактных карт доступа, ключей домофона, проездных и т.д.). Для работы обязательны [root-права](/android/root) и поддержка [NFC](https://ru.wikipedia.org/wiki/NFC) в устройстве.
 

@@ -1,6 +1,6 @@
 # PCAPdroid
 
-<img src="/img/logo/pcapdroid.png" style="float: right" width="200px">
+<img src="/img/logo/pcapdroid.png" class="right" width="200px">
 
 **PCAPdroid** — приложение для мониторинга сетевого трафика на Android. Позволяет отслеживать DNS-запросы, IP-адреса, к которым обращаются приложения. С [root-правами](/android/root) доступна расшифровка содержимого зашифрованного трафика (HTTPS).
 

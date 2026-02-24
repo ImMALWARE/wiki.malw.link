@@ -1,6 +1,6 @@
 # Выполнение команды в Windows
 
-<img src="/img/logo/run.png" style="float: right;" width="150px">
+<img src="/img/logo/run.png" class="right" width="150px">
 
 Проще всего выполнить команду в окне "Выполнить". Для его вызова нажмите горячую клавишу `Windows` + `R`.
 

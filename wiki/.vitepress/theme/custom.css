@@ -29,6 +29,10 @@ img.centered {
   display: block;
   margin: 15px auto;
 }
+img.right {
+  float: right;
+  margin-left: 15px;
+}
 img {
   cursor: pointer;
 }

@@ -1,6 +1,6 @@
 # blockcheck
 
-<img src="/img/logo/zapret.png" style="float: right" width="130px">
+<img src="/img/logo/zapret.png" class="right" width="130px">
 
 **blockcheck** — скрипт-анализатор способов обхода [DPI](https://ru.wikipedia.org/wiki/Deep_packet_inspection). Используется для автоматизированного подбора стратегий для [zapret](/network/vpns/zapret) в текущей сети по заданным параметрам. Входит в состав оригинального [репозитория разработчика zapret](https://github.com/bol-van/zapret) и [пакета для совместимости с Windows](https://github.com/bol-van/zapret-win-bundle).
 

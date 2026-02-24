@@ -1,5 +1,5 @@
 # AutoTotal
-<img src="/img/apps/autototal/settings.png" style="float: right" width="250px">
+<img src="/img/apps/autototal/settings.png" class="right" width="250px">
 
 **AutoTotal** — это программа для автоматического сканирования файлов из папки "Загрузки" (и не только) на [VirusTotal](https://ru.wikipedia.org/wiki/VirusTotal).
 

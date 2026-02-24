@@ -1,6 +1,6 @@
 # Отображение расширений файлов в Windows
 
-<img src="/img/logo/file-ext.png" style="float: right;" width="150px">
+<img src="/img/logo/file-ext.png" class="right" width="150px">
 
 Чем думали в Microsoft, когда решили по умолчанию не отображать расширения файлов? Пользователь может случайно запустить вредоносный файл, замаскированный под изображение, документ.docx или zip-архив, ведь он может иметь название **archive.zip.exe**.
 

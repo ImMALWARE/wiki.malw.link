@@ -1,6 +1,6 @@
 # ByeByeDPI
 
-<img src="/img/logo/byebyedpi.svg" style="float: right" width="200px">
+<img src="/img/logo/byebyedpi.svg" class="right" width="200px">
 
 **ByeByeDPI** или сокращённо ***bbd*** — Android-приложение для противодействия ограничениям [DPI](https://ru.wikipedia.org/wiki/Deep_packet_inspection), которое локально запускает ByeDPI и перенаправляет весь трафик через него.
 

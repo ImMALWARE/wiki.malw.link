@@ -1,6 +1,6 @@
 # YTDLnis
 
-<img src="/img/logo/ytdlnis.png" style="float: right" width="120">
+<img src="/img/logo/ytdlnis.png" class="right" width="120">
 
 **YTDLnis** — Android-приложение с [yt-dlp](/apps/yt-dlp) — многофункциональным инструментом для загрузки аудио и видео с поддержкой [тысяч сайтов](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) (YouTube, Twitch, TikTok, SoundCloud и т.д.).
 

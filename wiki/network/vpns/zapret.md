@@ -2,7 +2,7 @@
 
 ---
 
-<img src="/img/logo/zapret.png" style="float: right" width="130px">
+<img src="/img/logo/zapret.png" class="right" width="130px">
 
 **zapret** — автономный инструмент противодействия ограничениям [DPI](https://ru.wikipedia.org/wiki/Deep_packet_inspection). Не требует каких-либо сторонних серверов, работает локально на вашем устройстве, а значит, без потерь в скорости интернета и пинге. Более подробно можно узнать в [репозитории с исходным кодом и документацией от разработчика](https://github.com/bol-van/zapret).
 

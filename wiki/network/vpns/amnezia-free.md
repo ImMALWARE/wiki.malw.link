@@ -1,6 +1,6 @@
 # Amnezia Free
 
-<img src="/img/logo/amneziavpn.png" style="float: right" width="150px">
+<img src="/img/logo/amneziavpn.png" class="right" width="150px">
 
 **Amnezia Free** — бесплатный [VPN-сервис](/network/vpns/vpn-service) от разработчиков [AmneziaVPN](/network/vpns/amneziavpn). Он проксирует далеко не все сайты! YouTube с ним работать не будет!
 

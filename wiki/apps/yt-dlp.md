@@ -1,6 +1,6 @@
 # yt-dlp
 
-<img src="/img/logo/yt-dlp.png" style="float: right" width="200">
+<img src="/img/logo/yt-dlp.png" class="right" width="200">
 
 **yt-dlp** — это многофункциональный [инструмент командной строки](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B9_%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8) для загрузки аудио и видео с поддержкой [тысяч сайтов](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) (YouTube, Twitch, TikTok, SoundCloud и т.д.). Является [форком](https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D0%BA) [youtube-dl](https://github.com/ytdl-org/youtube-dl), созданным после того, как основной проект перестал активно развиваться.
 

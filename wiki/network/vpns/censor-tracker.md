@@ -1,6 +1,6 @@
 # Censor Tracker
 
-<img src="/img/logo/censor-tracker.png" style="float: right;" width="100px">
+<img src="/img/logo/censor-tracker.png" class="right" width="100px">
 
 **Censor Tracker** — расширение для Chrome и Firefox, которое проксирует заблокированные сайты.
 
