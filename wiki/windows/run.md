@@ -4,7 +4,7 @@
 
 Проще всего выполнить команду в окне "Выполнить". Для его вызова нажмите горячую клавишу `Windows` + `R`.
 
-<img src="/img/windows/run/run.jpeg" class="centered">
+<img src="/img/windows/run/run.png" class="centered">
 
 Введите команду в текстовое поле и нажмите "ОК".
 

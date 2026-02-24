@@ -183,7 +183,7 @@ su -c zapret autostart-off
 ### Отключение Windows Defender
 
 1.  Откройте трей -> нажмите по значку Windows Defender.
-    <img src="/img/network/vpns/zapret/defender-1.jpeg" class="centered" width="150">
+    <img src="/img/network/vpns/zapret/defender-1.png" class="centered" width="150">
 2.  Защита от вирусов и угроз (слева) -> Управление настройками.
     <img src="/img/network/vpns/zapret/defender-2.png" class="centered">
 3.  Отключите "Защиту в режиме реального времени". Она отключается не навсегда, а на некоторое время. Windows Defender не детектит ничего в zapret в распакованном виде.

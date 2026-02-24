@@ -31,17 +31,17 @@
     Если всё прошло успешно, вы увидите, что Shizuku успешно запущен в приложении.
     <img src="/img/android/uninstall-apps/adb-shell.png" class="centered">
 
-    <img src="/img/android/uninstall-apps/shizuku-started.jpg" class="centered" style="width: 300px">
+    <img src="/img/android/uninstall-apps/shizuku-started.png" class="centered" style="width: 300px">
 
 5. В Shizuku в меню "Доступно для ... приложений" активируйте Canta.
 
-    <img src="/img/android/uninstall-apps/shizuku-activate-canta-1.jpg" class="centered" style="width: 300px">
-    <img src="/img/android/uninstall-apps/shizuku-activate-canta-2.jpg" class="centered" style="width: 300px">
+    <img src="/img/android/uninstall-apps/shizuku-activate-canta-1.png" class="centered" style="width: 300px">
+    <img src="/img/android/uninstall-apps/shizuku-activate-canta-2.png" class="centered" style="width: 300px">
 
 6. Перейдите в приложение Canta. Выберите любое приложение, которое вы хотите удалить, и подтвердите удаление.
 
-    <img src="/img/android/uninstall-apps/canta-example-1.jpg" class="centered" style="width: 300px">
-    <img src="/img/android/uninstall-apps/canta-example-2.jpg" class="centered" style="width: 300px">
+    <img src="/img/android/uninstall-apps/canta-example-1.png" class="centered" style="width: 300px">
+    <img src="/img/android/uninstall-apps/canta-example-2.png" class="centered" style="width: 300px">
 
 Теги под пунктами с приложениями могут подсказать, насколько безопасно удалять приложение.
-<img src="/img/android/uninstall-apps/canta-tags.jpg" class="centered" style="width: 300px">
+<img src="/img/android/uninstall-apps/canta-tags.png" class="centered" style="width: 300px">

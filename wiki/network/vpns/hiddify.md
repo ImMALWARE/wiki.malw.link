@@ -23,4 +23,4 @@
 3. Откройте в боковом меню "Параметры конфигурации".
 4. Пролистайте до раздела "Входящие параметры" и найдите пункт "Режим работы".
 5. Выберите режим "VPN (Экспериментальный)" или "Tun".
-<img src="/img/network/vpns/hiddify/vpn-mode.jpg" class="centered">
+<img src="/img/network/vpns/hiddify/vpn-mode.png" class="centered">
