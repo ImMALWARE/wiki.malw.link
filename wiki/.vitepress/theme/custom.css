@@ -33,6 +33,12 @@ img.right {
   float: right;
   margin-left: 15px;
 }
+img.cosmetic-bottom {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 45px;
+}
 img {
   cursor: pointer;
 }
