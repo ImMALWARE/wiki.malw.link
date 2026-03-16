@@ -35,6 +35,7 @@
 - <img src="/img/logo/warp.png" class="inline"/>[Cloudflare WARP](/network/vpns/warp) — бесплатный [VPN-сервис](/network/vpns/vpn-service) от Cloudflare. Не меняет страну IP, почти нет потерь в скорости.
 - [LagomVPN](https://t.me/LagomVPN_bot) (Telegram-бот)
 - <img src="/img/logo/amneziavpn.png" class="inline"/>[Amnezia Free](/network/vpns/amnezia-free) — бесплатный VPN-сервис от разработчиков [AmneziaVPN](/network/vpns/amneziavpn). YouTube работать не будет.
+- [Reborn VPN](https://t.me/RebornVPN_Bot) (Telegram-бот)
 - [Privio](https://t.me/PrivioTech_bot) (Telegram-бот)
 - [Liberty Free](https://t.me/liberty_free_link_bot) (Telegram-бот)
 - [Waicore VPN](https://t.me/waicorevpn_bot) (Telegram-бот)
