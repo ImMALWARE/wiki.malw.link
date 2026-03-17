@@ -2,7 +2,7 @@
 
 ---
 
-<img src="/img/logo/zapret.png" style="float: right" width="130px">
+<img src="/img/logo/zapret.png" class="right" width="130px">
 
 **zapret** — автономный инструмент противодействия ограничениям [DPI](https://ru.wikipedia.org/wiki/Deep_packet_inspection). Не требует каких-либо сторонних серверов, работает локально на вашем устройстве, а значит, без потерь в скорости интернета и пинге. Более подробно можно узнать в [репозитории с исходным кодом и документацией от разработчика](https://github.com/bol-van/zapret).
 
@@ -183,8 +183,8 @@ su -c zapret autostart-off
 ### Отключение Windows Defender
 
 1.  Откройте трей -> нажмите по значку Windows Defender.
-    <img src="/img/network/vpns/zapret/1.jpeg" style="margin: 15px auto; display: block" width="150">
+    <img src="/img/network/vpns/zapret/defender-1.png" class="centered" width="150">
 2.  Защита от вирусов и угроз (слева) -> Управление настройками.
-    <img src="/img/network/vpns/zapret/2.png" style="margin: 15px auto; display: block">
+    <img src="/img/network/vpns/zapret/defender-2.png" class="centered">
 3.  Отключите "Защиту в режиме реального времени". Она отключается не навсегда, а на некоторое время. Windows Defender не детектит ничего в zapret в распакованном виде.
-    <img src="/img/network/vpns/zapret/3.png" style="margin: 15px auto; display: block">
+    <img src="/img/network/vpns/zapret/defender-3.png" class="centered">

@@ -1,6 +1,6 @@
 # Определение редакции Windows 7
 
-<img src="/img/logo/win7.png" style="float: right;" width="150px">
+<img src="/img/logo/win7.png" class="right" width="150px">
 
 Откройте Пуск, введите в поиске "winver" и нажмите Enter. Откроется окно, в котором тут же указана редакция Windows 7.
 

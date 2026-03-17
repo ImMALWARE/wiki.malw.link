@@ -1,6 +1,6 @@
 # Homebrew
 
-<img src="/img/logo/homebrew.png" style="float: right" width="100px">
+<img src="/img/logo/homebrew.png" class="right" width="100px">
 
 Homebrew — это __менеджер пакетов для macOS и Linux__, позволяющий легко и быстро устанавливать приложения и утилиты. Он работает на macOS (версии 10.13 и выше) и различных дистрибутивах Linux. Homebrew использует простой синтаксис команд и имеет огромный репозиторий программ.
 

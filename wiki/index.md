@@ -100,4 +100,4 @@ import BackdropAnimation from '/.vitepress/theme/components/main_mountains.vue'
 ## Другое
 - <img src="/img/logo/chrome.svg" class="inline"/>[Активация всех расширений в Google Chrome](/other/chrome-ext)
 
-<img src="/img/tongue_cat.webp" style="margin: 45px auto; width: 400px"/>
+<img src="/img/tongue_cat.webp" class="cosmetic-bottom"/>

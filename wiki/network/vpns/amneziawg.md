@@ -1,6 +1,6 @@
 # AmneziaWG
 
-<img src="/img/logo/amneziawg.png" style="float: right" width="150px">
+<img src="/img/logo/amneziawg.png" class="right" width="150px">
 
 **AmneziaWG** — это модифицированный протокол ([форк](https://ru.wikipedia.org/wiki/Форк)) WireGuard, разработанный командой проекта [AmneziaVPN](/network/vpns/amneziavpn) для **обхода ограничения** протокола WireGuard. AmneziaWG вносит изменения в протокол WireGuard, чтобы затруднить его обнаружение системами [DPI](https://ru.wikipedia.org/wiki/Deep_packet_inspection), которые используются для идентификации и ограничения VPN-трафика.
 
@@ -99,7 +99,7 @@ AmneziaWG работает в рамках обратной совместимо
     notepad drivers.txt
     ```
 4.  Найдите `wintun.inf`, нам нужен его oem-номер. В моём случае это `oem7.inf`:
-    <img src="/img/network/vpns/amneziawg/1.png">
+    <img src="/img/network/vpns/amneziawg/wintun-inf.png" class="centered">
 5.  Выполните команду для его удаления:
     ```bat
     pnputil.exe /d oem7.inf
@@ -118,7 +118,7 @@ AmneziaWG работает в рамках обратной совместимо
 
 Откройте конфигурационный файл для редактирования:
 
-<img src="/img/network/vpns/amneziawg/2.png"/>
+<img src="/img/network/vpns/amneziawg/edit-tunnel.png" class="centered"/>
 
 Уберите галочку "Блокировать нетуннелированный трафик"
 

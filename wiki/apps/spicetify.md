@@ -1,6 +1,6 @@
 # Spicetify
 
-<img src="/img/logo/spicetify.png" style="float: right" width="80px">
+<img src="/img/logo/spicetify.png" class="right" width="80px">
 
 **Spicetify** — это [инструмент командной строки](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B9_%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8) для настройки внешнего вида и поведения [Spotify](https://ru.wikipedia.org/wiki/Spotify) на Windows, Linux, macOS.
 

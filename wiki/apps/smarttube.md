@@ -1,6 +1,6 @@
 # SmartTube
 
-<img src="/img/logo/smarttube.png" style="float: right" width="200">
+<img src="/img/logo/smarttube.png" class="right" width="200">
 
 **SmartTube** — альтернативное приложение YouTube для Android TV. В нём **нет рекламы и прочего мусора, оно работает гораздо быстрее официального**, поддерживает все функции YouTube и даже больше: настройка [прокси-сервера](/network/vpns/proxy), подключение пульта от приложения [ReVanced](/apps/revanced), "картинка в картинке" и многое другое.
 

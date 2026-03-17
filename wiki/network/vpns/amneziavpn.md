@@ -1,6 +1,6 @@
 # AmneziaVPN
 
-<img src="/img/logo/amneziavpn.png" style="float: right" width="200px">
+<img src="/img/logo/amneziavpn.png" class="right" width="200px">
 
 **AmneziaVPN** — приложение для подключения к любым [VPN-серверам](/network/vpns/vpn-service) на протоколах [OpenVPN](https://ru.wikipedia.org/wiki/OpenVPN), [Shadowsocks](https://ru.wikipedia.org/wiki/Shadowsocks), OpenVPN over [Cloak](https://github.com/cbeuw/Cloak), [WireGuard](https://ru.wikipedia.org/wiki/WireGuard), [IKEv2](https://ru.wikipedia.org/wiki/IKE), [AmneziaWG](/network/vpns/amneziawg), XRay (VLESS, VMESS, Trojan). Приложение доступно для Windows, macOS, Linux, Android, iOS.
 

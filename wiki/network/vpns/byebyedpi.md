@@ -1,6 +1,6 @@
 # ByeByeDPI
 
-<img src="/img/logo/byebyedpi.svg" style="float: right" width="200px">
+<img src="/img/logo/byebyedpi.svg" class="right" width="200px">
 
 **ByeByeDPI** или сокращённо ***bbd*** — Android-приложение для противодействия ограничениям [DPI](https://ru.wikipedia.org/wiki/Deep_packet_inspection), которое локально запускает ByeDPI и перенаправляет весь трафик через него.
 
@@ -39,7 +39,7 @@
 ## Исключения для приложений
 
 Есть возможность настроить приложение так, чтобы ByeByeDPI игнорировал некоторые приложения или работал только с определёнными приложениями. Для этого в настройках (слева вверху) нажмите "Фильтр приложений", выберите черный или белый список соответственно.
-<img src="/img/network/vpns/byebyedpi/1.png" style="margin: 15px auto; display: block">
+<img src="/img/network/vpns/byebyedpi/app-filter.png" class="centered">
 
 **Белый список** — только выбранные приложения будут работать через ByeByeDPI, все остальные будут работать напрямую.
 

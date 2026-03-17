@@ -1,6 +1,6 @@
 # ReVanced
 
-<img src="/img/logo/revanced.png" style="float: right" width="200px">
+<img src="/img/logo/revanced.png" class="right" width="200px">
 
 **ReVanced** — это проект сообщества, нацеленный на создание модифицированных версий популярных Android-приложений. Наиболее известен своими модами для YouTube, но также поддерживает другие приложения, такие как YouTube Music, Reddit, Twitter (X), Spotify, IG, Duolingo, Google Фото, Photomath, SoundCloud, TikTok, Tumblr и другие.
 
