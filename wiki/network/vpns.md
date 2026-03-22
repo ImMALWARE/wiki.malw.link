@@ -40,6 +40,8 @@
 - [Liberty Free](https://t.me/liberty_free_link_bot) (Telegram-бот)
 - [Waicore VPN](https://t.me/waicorevpn_bot) (Telegram-бот)
 - [EOFVPN](https://t.me/eofvpnbot) (Telegram-бот)
+- [Geodema](https://t.me/Geodema_bot) (Telegram-бот)
+- [Окно в Европу](https://t.me/vpn4peace_bot) (Telegram-бот)
 - [FPTN VPN](https://fptn.org)
 - [V4Freedom](https://v4freedom.com)
 - [HLVPN](https://t.me/hlvpnbot) (Telegram-бот)

@@ -13,7 +13,6 @@
 
 ## Бесплатные VPN-сервисы, предоставляющие обход белых списков
 - [GhostVPN](https://t.me/GhostVPN_vpn_bot) (Telegram-бот)
-- https://uzuk.pro/ (агрегатор ссылок-подписок)
 - [FastNet](https://t.me/fastnet_robot) (Telegram-бот)
 - https://rentry.co/k5ayfic8 (агрегатор ссылок-подписок)
 - https://ryzgames31.github.io/UWB/ (агрегатор ссылок-подписок)
