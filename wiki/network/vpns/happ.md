@@ -1,6 +1,6 @@
 # Happ
 
-<img src="/img/logo/happ.png" style="float: right; margin-left: 15px;" width="200px">
+<img src="/img/logo/happ.png" class="right" width="200px">
 
 **Happ** — это кроссплатформенный клиент для подключения к [VPN-серверам](/network/vpns/vpn). Поддерживает протоколы [VMess, VLESS](https://ru.wikipedia.org/wiki/VLESS), [Shadowsocks](https://ru.wikipedia.org/wiki/Shadowsocks), [Trojan](https://wiki.archlinux.org/title/Trojan) и [WireGuard](https://ru.wikipedia.org/wiki/WireGuard).
 

@@ -1,6 +1,6 @@
 # blockcheck
 
-<img src="/img/logo/zapret.png" style="float: right" width="130px">
+<img src="/img/logo/zapret.png" class="right" width="130px">
 
 **blockcheck** — скрипт-анализатор способов обхода [DPI](https://ru.wikipedia.org/wiki/Deep_packet_inspection). Используется для автоматизированного подбора стратегий для [zapret](/network/vpns/zapret) в текущей сети по заданным параметрам. Входит в состав оригинального [репозитория разработчика zapret](https://github.com/bol-van/zapret) и [пакета для совместимости с Windows](https://github.com/bol-van/zapret-win-bundle).
 
@@ -63,7 +63,7 @@
     **force** — полный. Проверяет абсолютно все заложенные в скрипт стратегии и их комбинации. Он не остановится, даже если самый простой метод уже сработал. Выбирайте только если режимы quick и standard не нашли ни одного рабочего решения. Минус: тестирование может занять очень много времени.
 
 Сохраните полученный * SUMMARY с найденными стратегиями. Полная история проверки хранится в `blockcheck.log` рядом с одноимённым `.cmd` или `.sh` (до момента перезапуска подбора).
-<img src="/img/network/vpns/blockcheck/1.png" style="margin: 15px auto; display: block">
+<img src="/img/network/vpns/blockcheck/screen.png" class="centered">
 В * SUMMARY выделены три строчки. Каждая — сработавшая для своего теста стратегия.
 
 В [моей сборке zapret](/network/vpns/zapret) есть файл `config.txt`, в котором легко можно отредактировать стратегию. Все стратегии из blockcheck предназначены только для HTTPS (TCP и UDP). Поэтому нужно заменить только те строки в `config.txt`, которые отвечают за HTTPS (TCP и UDP).

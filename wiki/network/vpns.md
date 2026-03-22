@@ -59,4 +59,4 @@
 - [V2Ray List](https://openproxylist.com/v2ray/)
 - [Агрегатор подписок](https://sub-aggregator.vercel.app)
 
-<img src="/img/vpn_cat.jpeg">
+<img class="cosmetic-bottom" src="/img/vpn_cat.webp">

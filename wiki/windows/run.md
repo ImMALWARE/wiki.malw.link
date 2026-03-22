@@ -1,10 +1,10 @@
 # Выполнение команды в Windows
 
-<img src="/img/logo/run.png" style="float: right;" width="150px">
+<img src="/img/logo/run.png" class="right" width="150px">
 
 Проще всего выполнить команду в окне "Выполнить". Для его вызова нажмите горячую клавишу `Windows` + `R`.
 
-<img src="/img/windows/run/1.jpeg" style="margin: 15px auto; display: block;">
+<img src="/img/windows/run/run.png" class="centered">
 
 Введите команду в текстовое поле и нажмите "ОК".
 
@@ -12,7 +12,7 @@
 
 Другой способ выполнить команду — Командная строка. Для открытия командной строки напишите в поиске Windows "cmd" и нажмите Enter.
 
-<img src="/img/windows/run/2.png" style="margin: 15px auto; display: block;">
+<img src="/img/windows/run/cmd-search.png" class="centered">
 
 Вставьте команду в командную строку и нажмите Enter для выполнения.
 

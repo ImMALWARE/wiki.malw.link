@@ -1,6 +1,6 @@
 # scrcpy
 
-<img src="/img/logo/scrcpy.svg" style="float: right; margin-left: 15px;" width="200">
+<img src="/img/logo/scrcpy.svg" class="right" width="200">
 
 **scrcpy** (от **scr**een **c**o**py**) — бесплатная утилита с [открытым исходным кодом](https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5), позволяющая транслировать экран вашего смартфона на компьютер через USB или Wi-Fi.
 
@@ -17,4 +17,4 @@
 
 Готовые сборки доступны на вкладке [Releases](https://github.com/Genymobile/scrcpy/releases) для Windows (x64/x86), macOS и Linux.
 
-<img src="/img/apps/scrcpy/1.jpg" style="margin: 15px auto; display: block">
+<img src="/img/apps/scrcpy/screen.png" class="centered">
