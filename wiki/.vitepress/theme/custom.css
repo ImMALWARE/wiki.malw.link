@@ -35,9 +35,8 @@ img.right {
 }
 img.cosmetic-bottom {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 45px;
+  margin: 45px auto;
+  max-width: 100%;
 }
 img {
   cursor: pointer;
