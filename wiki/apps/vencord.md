@@ -2,9 +2,9 @@
 
 <img src="/img/logo/vencord.png" class="right" width="100px">
 
- **Vencord** — модификация для приложения и веб-версии [Discord](https://discord.com/) с также [открытым исходным кодом](https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5) доступным в [Github репозитории](https://github.com/Vendicated/Vencord), позволяющая устанавливать плагины и темы. Плагины могут дать возможность использовать некоторые платные функции Nitro бесплатно.
+ **Vencord** — модификация для приложения и веб-версии [Discord](https://discord.com/) с также [открытым исходным кодом](https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5) доступным в [GitHub репозитории](https://github.com/Vendicated/Vencord), позволяющая устанавливать плагины и темы. Плагины могут дать возможность использовать некоторые платные функции Nitro бесплатно.
 
- **Vesktop** — альтернативное приложение Discord с встроенным Vencord с также [открытым исходным кодом](https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5) доступным в [Github репозитории](https://github.com/Vencord/Vesktop). Особенно популярно среди пользователей Linux, так как имеет значительные преимущества перед официальным Discord:
+ **Vesktop** — альтернативное приложение Discord с встроенным Vencord с также [открытым исходным кодом](https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5) доступным в [GitHub репозитории](https://github.com/Vencord/Vesktop). Особенно популярно среди пользователей Linux, так как имеет значительные преимущества перед официальным Discord:
 
 - Демонстрация экрана со звуком, с поддержкой Wayland
 - Не требует обновлений каждый раз при запуске :D

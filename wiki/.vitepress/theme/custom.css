@@ -20,7 +20,7 @@ img.inline {
   display: inline;
   width: 17px;
   vertical-align: sub;
-  margin-right: 5px;
+  margin: 0 5px;
 }
 img.centered {
   display: block;
