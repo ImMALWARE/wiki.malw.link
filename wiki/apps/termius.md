@@ -1,6 +1,6 @@
 # Termius
 
-<img src="/img/logo/termius.png" style="float: right; margin-left: 15px;" width="200">
+<img src="/img/logo/termius.png" class="right" width="200">
 
 **Termius** — это современный кроссплатформенный SSH/SFTP/Telnet клиент. Его главная фишка — это единая экосистема: ты начинаешь настройку сервера на ПК, а продолжаешь администрировать его с телефона.
 

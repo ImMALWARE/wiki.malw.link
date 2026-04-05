@@ -1,5 +1,5 @@
 # uBlock Origin
-<img src="/img/logo/ubo.svg" style="float: right" width="250px">
+<img src="/img/logo/ubo.svg" class="right" width="250px">
 
 **uBlock Origin** — многофункциональный блокировщик рекламы для интернет-браузеров Chrome (и основанных на Chrome) и Firefox. Использует наборы популярных фильтров, а также позволяет тонко настраивать параметры блокировки, устанавливать собственные правила и исключения.
 

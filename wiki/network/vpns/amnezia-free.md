@@ -1,6 +1,6 @@
 # Amnezia Free
 
-<img src="/img/logo/amneziavpn.png" style="float: right" width="150px">
+<img src="/img/logo/amneziavpn.png" class="right" width="150px">
 
 **Amnezia Free** — бесплатный [VPN-сервис](/network/vpns/vpn-service) от разработчиков [AmneziaVPN](/network/vpns/amneziavpn). Он проксирует далеко не все сайты! YouTube с ним работать не будет!
 
@@ -19,5 +19,5 @@
 4.  Скачайте конфиг из бота, импортируйте его в AmneziaWG.
 5.  Подключитесь.
 
-<img src="/img/network/vpns/amnezia-free/1.png" style="margin: 15px auto; display: block;" width="300px">
-<img src="/img/network/vpns/amnezia-free/2.png" style="margin: 15px auto; display: block;" width="300px">
+<img src="/img/network/vpns/amnezia-free/config.png" class="centered" style="width: 300px">
+<img src="/img/network/vpns/amnezia-free/app.png" class="centered" style="width: 300px">

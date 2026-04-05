@@ -1,6 +1,6 @@
 # Отображение расширений файлов в Windows
 
-<img src="/img/logo/file-ext.png" style="float: right;" width="150px">
+<img src="/img/logo/file-ext.png" class="right" width="150px">
 
 Чем думали в Microsoft, когда решили по умолчанию не отображать расширения файлов? Пользователь может случайно запустить вредоносный файл, замаскированный под изображение, документ.docx или zip-архив, ведь он может иметь название **archive.zip.exe**.
 
@@ -18,7 +18,7 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v Hi
 
 1.  Откройте Проводник
 2.  Выберите вкладку "Вид" и поставьте галочку на настройке "Расширения имён файлов"
-    <img src="/img/windows/file-ext/1.png" width="800px" style="margin: 15px auto; display: block;" />
+    <img src="/img/windows/file-ext/win10.png" width="800px" class="centered" />
 
 ### В проводнике Windows 11
 
@@ -26,4 +26,4 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v Hi
 2.  Просмотреть
 3.  Показать
 4.  Расширения имен файлов
-    <img src="/img/windows/file-ext/2.png" width="800px" style="margin: 15px auto; display: block;" />
+    <img src="/img/windows/file-ext/win11.png" width="800px" class="centered" />

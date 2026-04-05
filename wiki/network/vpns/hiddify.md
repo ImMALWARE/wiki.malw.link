@@ -1,6 +1,6 @@
 # Hiddify
 
-<img src="/img/logo/hiddify.png" style="float: right" width="200px">
+<img src="/img/logo/hiddify.png" class="right" width="200px">
 
 **Hiddify** — это современный VPN/прокси-клиент на базе [sing-box](https://github.com/SagerNet/sing-box). Он поддерживает протоколы [VMess, VLESS](https://ru.wikipedia.org/wiki/VLESS), [Trojan](https://wiki.archlinux.org/title/Trojan), [Shadowsocks](https://ru.wikipedia.org/wiki/Shadowsocks), [Hysteria2](https://deepwiki.com/apernet/hysteria), а также различные транспорты: [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol), [gRPC](https://en.wikipedia.org/wiki/GRPC), [WebSocket](https://en.wikipedia.org/wiki/WebSocket).
 
@@ -23,4 +23,4 @@
 3. Откройте в боковом меню "Параметры конфигурации".
 4. Пролистайте до раздела "Входящие параметры" и найдите пункт "Режим работы".
 5. Выберите режим "VPN (Экспериментальный)" или "Tun".
-<img src="/img/network/vpns/hiddify/1.jpg" style="margin: 15px auto; display: block">
+<img src="/img/network/vpns/hiddify/vpn-mode.png" class="centered">

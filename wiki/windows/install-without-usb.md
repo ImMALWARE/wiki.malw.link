@@ -1,6 +1,6 @@
 # Переустановка Windows без флешки
 
-<img src="/img/logo/windows10.png" style="float: right" width="100px">
+<img src="/img/logo/windows10.png" class="right" width="100px">
 
 ## Шаг 1: Скачайте ISO-образ Windows
 Проще всего сделать это на https://malw.link/apps/malwtool

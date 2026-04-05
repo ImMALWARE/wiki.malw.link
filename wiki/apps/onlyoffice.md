@@ -1,6 +1,6 @@
 # ONLYOFFICE
 
-<img src="/img/logo/onlyoffice.svg" style="float: right" width="200">
+<img src="/img/logo/onlyoffice.svg" class="right" width="200">
 
 ONLYOFFICE — офисный пакет с открытым исходным кодом, полностью совместимый с форматами Microsoft Office. Пакет доступен на Windows, Linux, macOS, Android и iOS. Благодаря привычному интерфейсу и кроссплатформенности, он имеет преимущество перед LibreOffice, особенно для пользователей, перешедших с Windows.
 
@@ -8,9 +8,9 @@ ONLYOFFICE — офисный пакет с открытым исходным к
 
 Поддерживается использование ИИ-агента.
 
-<img src="/img/apps/onlyoffice/1.png"> 
+<img src="/img/apps/onlyoffice/ai-1.png"> 
 
-<img src="/img/apps/onlyoffice/2.png">
+<img src="/img/apps/onlyoffice/ai-2.png">
 
 ## Плагины
 

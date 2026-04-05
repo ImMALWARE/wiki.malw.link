@@ -1,6 +1,6 @@
 # yt-dlp
 
-<img src="/img/logo/yt-dlp.png" style="float: right" width="200">
+<img src="/img/logo/yt-dlp.png" class="right" width="200">
 
 **yt-dlp** — это многофункциональный [инструмент командной строки](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B9_%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8) для загрузки аудио и видео с поддержкой [тысяч сайтов](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) (YouTube, Twitch, TikTok, SoundCloud и т.д.). Является [форком](https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D0%BA) [youtube-dl](https://github.com/ytdl-org/youtube-dl), созданным после того, как основной проект перестал активно развиваться.
 
@@ -62,7 +62,7 @@ yt-dlp доступен в виде приложения [YTDLnis](/apps/ytdlnis
     ```shell
     yt-dlp https://www.youtube.com/watch?v=bLZHcnuqscU
     ```
-    <img src="/img/apps/yt-dlp/1.png" style="margin: 15px auto; display: block">
+    <img src="/img/apps/yt-dlp/usage-explorer-1.png" class="centered">
 > Ссылок на видео может быть сколько угодно, они пишутся через пробел. Например:
 > ```shell
 > yt-dlp https://www.youtube.com/watch?v=wUXKADf4lxE https://www.tiktok.com/@anonim_us_228/video/7441478571656318209 https://soundcloud.com/jrgz/never-gonna-catch-the-thug-theme-goblin-mashup
@@ -75,7 +75,7 @@ yt-dlp доступен в виде приложения [YTDLnis](/apps/ytdlnis
 
 1.  Перейдите в папку [%appdata%](/windows/appdata).
 2.  Создайте папку с именем `yt-dlp`.
-    <img src="/img/apps/yt-dlp/2.png" style="margin: 15px auto; display: block">
+    <img src="/img/apps/yt-dlp/usage-explorer-2.png" class="centered">
 3.  Создайте в ней новый текстовый документ с названием `config.txt` (кстати, рекомендуется включить [отображение расширений файлов](/windows/file-ext)).
 4.  В текстовый документ нужно написать аргумент `-P`, пробел и полный путь к нужной папке. Пример:
     ```shell

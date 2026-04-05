@@ -4,7 +4,7 @@
 
 ## cleanmgr
 
-<img src="/img/logo/cleanmgr.png" style="float: right;" width="150px">
+<img src="/img/logo/cleanmgr.png" class="right" width="150px">
 
 В Windows уже встроено приложение "Очистка диска". Для его запуска найдите в поиске Windows "cleanmgr". Либо [выполните команду](/windows/run) `cleanmgr`.
 

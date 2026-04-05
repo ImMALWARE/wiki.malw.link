@@ -1,6 +1,6 @@
 # Orbot
 
-<img src="/img/logo/orbot.png" style="float: right" width="120px">
+<img src="/img/logo/orbot.png" class="right" width="120px">
 
 **Orbot** — это приложение для Android и iOS, которое позволяет направлять свой интернет-трафик через сеть [Tor](https://ru.wikipedia.org/wiki/Tor).
 
