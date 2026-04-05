@@ -66,7 +66,7 @@ powershell -command "irm https://malw.link/dl/malwtool | iex"
 
 ## MalwTool Legacy — для Windows 8/8.1
 
- <img src="/img/apps/malwtool/malw-tool-legacy.png" class="right" width="300px">
+ <img src="/img/apps/malwtool/malwtool-legacy.png" class="right" width="300px">
 
 **MalwTool Legacy** — [инструмент командной строки](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B9_%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8) для Windows 8/8.1, который может активировать Windows, Office, Visio и Project.
 
@@ -95,7 +95,7 @@ powershell -command "[Net.ServicePointManager]::SecurityProtocol = [Net.Security
 :::
 
 1.  Откройте PowerShell от имени администратора:
-    <img src="/img/apps/malwtool/malw-tool-win7-1.png" class="centered">
+    <img src="/img/apps/malwtool/malwtool-win7-1.png" class="centered">
 
 2.  Выполните команды:
 
@@ -115,14 +115,14 @@ powershell -command "[Net.ServicePointManager]::SecurityProtocol = [Net.Security
 1.  Скачайте архив: https://github.com/ImMALWARE/MalwTool/raw/main/files/Office_2010_Library.zip
 2.  Распакуйте его в любую папку
 3.  Скопируйте путь к папке, куда были распакованы файлы из архива
-    <img src="/img/apps/malwtool/malw-tool-win7-2.png" class="centered">
+    <img src="/img/apps/malwtool/malwtool-win7-2.png" class="centered">
 4.  Откройте cmd от имени администратора
-    <img src="/img/apps/malwtool/malw-tool-win7-3.png" class="centered">
+    <img src="/img/apps/malwtool/malwtool-win7-3.png" class="centered">
 5.  Напишите `cd`, пробел, вставьте скопированный путь и нажмите Enter. В моём случае получается так:
     ```bat
     cd "C:\Users\vboxuser\Desktop\library"
     ```
-    <img src="/img/apps/malwtool/malw-tool-win7-4.png" class="centered">
+    <img src="/img/apps/malwtool/malwtool-win7-4.png" class="centered">
 6.  Выполните остальные команды:
     ```bat
     if exist "C:\Program Files\Microsoft Office\Office14\ospp.vbs" (set "folder=C:\Program Files\Microsoft Office\Office14")

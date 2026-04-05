@@ -19,5 +19,5 @@
 4.  Скачайте конфиг из бота, импортируйте его в AmneziaWG.
 5.  Подключитесь.
 
-<img src="/img/network/vpns/amnezia-free/ios-1.png" class="centered" style="width: 300px">
-<img src="/img/network/vpns/amnezia-free/ios-2.png" class="centered" style="width: 300px">
+<img src="/img/network/vpns/amnezia-free/config.png" class="centered" style="width: 300px">
+<img src="/img/network/vpns/amnezia-free/app.png" class="centered" style="width: 300px">
