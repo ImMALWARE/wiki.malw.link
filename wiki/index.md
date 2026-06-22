@@ -26,7 +26,7 @@ import BackdropAnimation from '/.vitepress/theme/components/main_mountains.vue'
 </script>
 # Список всех статей
 ## Программы на ПК
-- [AutoTotal](/apps/autototal)
+- <img src="/img/logo/autototal.png" class="inline">[AutoTotal](/apps/autototal)
 <!-- - [Autoruns](/apps/autoruns) -->
 <!-- - [Bulk Crap Uninstaller](/apps/bulk-crap-uninstaller) -->
 - <img src="/img/logo/homebrew.png" class="inline">[Homebrew](/apps/homebrew)

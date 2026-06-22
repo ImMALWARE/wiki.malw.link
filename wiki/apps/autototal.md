@@ -1,5 +1,6 @@
 # AutoTotal
-<img src="/img/apps/autototal/settings.png" class="right" width="250px">
+
+<img src="/img/logo/autototal.png" class="right" width="100px">
 
 **AutoTotal** — это программа для автоматического сканирования файлов из папки "Загрузки" (и не только) на [VirusTotal](https://ru.wikipedia.org/wiki/VirusTotal).
 
@@ -12,6 +13,10 @@
 ## Использование
 
 1.  Скачайте установщик с сайта [malw.link/autototal](https://malw.link/autototal).
+    Либо установите из [winget](/apps/winget):
+    ```powershell
+    winget install -e --id ImMALWARE.AutoTotal
+    ```
 2.  Введите ключ API VirusTotal при запуске.
 3.  Дальнейшее управление производится через иконку в трее. Оттуда можно открыть настройки.
 
@@ -23,10 +28,12 @@
 
 ## Скриншоты
 
-<img src="/img/apps/autototal/clean.png" class="centered">
-<img src="/img/apps/autototal/sus.png" class="centered">
-<img src="/img/apps/autototal/danger.png" class="centered">
-<img src="/img/apps/autototal/scanning.png" class="centered">
-<img src="/img/apps/autototal/context-menu-1.png" class="centered">
-<img src="/img/apps/autototal/context-menu-2.png" class="centered">
-<img src="/img/apps/autototal/scan-confirm.png" class="centered">
+<img src="https://malw.link/img/autototal/1.png" class="centered">
+<img src="https://malw.link/img/autototal/2.png" class="centered">
+<img src="https://malw.link/img/autototal/3.png" class="centered">
+<img src="https://malw.link/img/autototal/4.png" class="centered">
+<img src="https://malw.link/img/autototal/5.png" class="centered">
+<img src="https://malw.link/img/autototal/6.png" class="centered">
+<img src="https://malw.link/img/autototal/7.png" class="centered">
+<img src="https://malw.link/img/autototal/8.png" class="centered">
+<img src="https://malw.link/img/autototal/9.png" class="centered">
