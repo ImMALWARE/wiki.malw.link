@@ -82,12 +82,12 @@ export default defineConfig({
             }
           }
         }
-    }
-  },
+      }
+    },
     editLink: {
-          pattern: 'https://github.com/ImMALWARE/wiki.malw.link/edit/main/wiki/:path',
-          text: 'Редактировать страницу на GitHub'
-        },
+      pattern: 'https://github.com/ImMALWARE/wiki.malw.link/edit/main/wiki/:path',
+      text: 'Редактировать страницу на GitHub'
+    },
     sidebar: [
       {
         text: 'Программы на ПК',
@@ -141,6 +141,7 @@ export default defineConfig({
           { text: 'Очистка диска в Windows', link: '/windows/cleanmgr' },
           { text: 'Приложение Get Help в Windows', link: '/windows/get-help' },
           { text: 'Переустановка Windows без флешки', link: '/windows/install-without-usb' },
+          { text: 'AppData', link: '/windows/appdata' },
           { text: 'HWID', link: '/windows/hwid' },
           { text: 'Windows Subsystem for Android', link: '/windows/wsa' }
         ]
@@ -148,7 +149,9 @@ export default defineConfig({
       {
         text: 'Android',
         items: [
-          { text: 'Удаление системных приложений без root', link: '/android/uninstall-apps' }
+          { text: 'Удаление системных приложений без root', link: '/android/uninstall-apps' },
+          { text: 'Root-права', link: '/android/root' },
+          { text: 'Xposed Framework', link: '/android/xposed' }
         ]
       },
       {

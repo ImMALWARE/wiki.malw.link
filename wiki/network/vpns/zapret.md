@@ -105,9 +105,9 @@ bcdedit.exe -set TESTSIGNING ON
 
 Для проверки текущего конфига вы можете использовать `/opt/zapret/check.sh`
 
-## Android (только с root!)
+## Android (только с [root](/android/root)!)
 
-1.  Скачайте Magisk модуль тут: [https://github.com/ImMALWARE/zapret-magisk/releases/latest/download/zapret\_module.zip](https://github.com/ImMALWARE/zapret-magisk/releases/latest/download/zapret_module.zip)
+1.  Скачайте Magisk-модуль тут: [https://github.com/ImMALWARE/zapret-magisk/releases/latest/download/zapret\_module.zip](https://github.com/ImMALWARE/zapret-magisk/releases/latest/download/zapret_module.zip)
 2.  Установите модуль и перезагрузитесь как обычно. zapret будет запущен автоматически.
 
 ### Все способы управления

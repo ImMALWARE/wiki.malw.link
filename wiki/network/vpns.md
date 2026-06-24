@@ -24,7 +24,7 @@
 - <img src="/img/logo/amneziavpn.png" class="inline"/>[Приложение AmneziaVPN](/network/vpns/amneziavpn). Поддерживает XRay, Shadowsocks, WireGuard, AmneziaWG, OpenVPN. **Не поддерживает [ссылки-подписки](/network/vpns/sublinks)**!
 - <img src="/img/logo/invizible-pro.png" class="inline"/>[InviZible Pro](/network/vpns/invizible-pro) — мощное приложение для подключения к Tor и I2P для Android.
 - [Tor Portable](/network/vpns/tor-portable) — [Tor](https://ru.wikipedia.org/wiki/Tor) для ПК, работает в виде [локального прокси-сервера](/network/vpns/local-proxy) — только для браузера и Discord.
-- <img src="/img/logo/byebyedpi.svg" class="inline"/>[ByeByeDPI](/network/vpns/byebyedpi) — аналог zapret для Android без root.
+- <img src="/img/logo/byebyedpi.svg" class="inline"/>[ByeByeDPI](/network/vpns/byebyedpi) — аналог zapret для Android без [root](/android/root).
 - <img src="/img/logo/orbot.png" class="inline"/>[Orbot](/network/vpns/orbot) — Tor для Android.
 
 ## Прочее

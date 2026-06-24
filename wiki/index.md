@@ -87,15 +87,15 @@ import BackdropAnimation from '/.vitepress/theme/components/main_mountains.vue'
 - <img src="/img/logo/get-help.png" class="inline"/>[Приложение Get Help в Windows](/windows/get-help)
 
 - <img src="/img/logo/windows11.png" class="inline"/>[Переустановка Windows без флешки](/windows/install-without-usb)
-<!-- - [%appdata%](/windows/appdata) -->
+- [AppData](/windows/appdata)
 - [HWID](/windows/hwid)
 <!-- - [TrustedInstaller](/windows/trusted-installer) -->
 - <img src="/img/logo/wsa.png" class="inline"/>[Windows Subsystem for Android](/windows/wsa)
 
 ## Android
 - [Удаление системных приложений без root](/android/uninstall-apps)
-<!-- - [Magisk](/android/magisk) -->
-<!-- - [root-права](/android/root) -->
+- [Root-права](/android/root)
+- <img src="/img/logo/xposed.svg" class="inline"/>[Xposed Framework](/android/xposed)
 
 ## Другое
 - <img src="/img/logo/chrome.svg" class="inline"/>[Активация всех расширений в Google Chrome](/other/chrome-ext)

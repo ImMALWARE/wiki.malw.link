@@ -273,7 +273,7 @@ https://pastebin.com/raw/5pKVyTTL
 ```
 https://catkts.qzz.io/vpn-service/catvpn/catspeedversion.txt
 ```
-(для V2RayTun, Happ, v2rayng, v2box, Hiddify ⬆️)
+(для V2RayTun, Happ, v2rayNG, v2box, [Hiddify](/network/vpns/hiddify) ⬆️)
 ```
 https://catkts.qzz.io/vpn-service/catvpn/fornekobox.txt
 ```
