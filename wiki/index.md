@@ -98,6 +98,6 @@ import BackdropAnimation from '/.vitepress/theme/components/main_mountains.vue'
 - <img src="/img/logo/xposed.svg" class="inline"/>[Xposed Framework](/android/xposed)
 
 ## Другое
-- <img src="/img/logo/chrome.svg" class="inline"/>[Активация всех расширений в Google Chrome](/other/chrome-ext)
+- <img src="/img/logo/chrome.svg" class="inline"/>[Активация всех расширений в Google Chrome](/other/chrome-ext) (в старой версии)
 
 <img src="/img/tongue_cat.webp" class="cosmetic-bottom"/>
