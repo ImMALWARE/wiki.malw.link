@@ -38,3 +38,9 @@ img.cosmetic-bottom {
 img {
   cursor: pointer;
 }
+
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation-duration: 0.6s;
+}
+
