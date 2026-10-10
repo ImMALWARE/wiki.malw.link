@@ -29,7 +29,6 @@
 
 ## Прочее
 - [dns.malw.link](https://info.dns.malw.link) — DNS-сервер разблокирует сайты, которые сами заблокировали российские IP.
-### Решение ценой дешевле проезда (30р в месяц), 9 серверов 6 локаций: [@hostvless_bot](https://t.me/hostvless_bot) (Telegram-бот) (спонсор)
 
 ## Бесплатные рабочие [VPN-сервисы](/network/vpns/vpn-service)
 - <img src="/img/logo/warp.png" class="inline"/>[Cloudflare WARP](/network/vpns/warp) — бесплатный [VPN-сервис](/network/vpns/vpn-service) от Cloudflare. Не меняет страну IP, почти нет потерь в скорости.
