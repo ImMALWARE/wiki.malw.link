@@ -17,11 +17,12 @@
 ## Программы
 - <img src="/img/logo/zapret.png" class="inline"/>[zapret](/network/vpns/zapret) — автономный инструмент противодействия ограничениям DPI. Работает локально на вашем устройстве, без потерь в скорости интернета.
 - <img src="/img/logo/zapret.png" class="inline"/>[blockcheck](/network/vpns/blockcheck) — скрипт-анализатор способов обхода [DPI](https://ru.wikipedia.org/wiki/Deep_packet_inspection). Используется для автоматизированного подбора стратегий для [zapret](/network/vpns/zapret) в текущей сети по заданным параметрам.
+- <img src="/img/logo/throne.png" class="inline"/>[Throne](/network/vpns/throne) — продвинутая программа подключения к прокси-серверам на базе [Xray](https://github.com/XTLS/Xray-core) и [Sing-box](https://github.com/SagerNet/sing-box/) для Windows, macOS, Linux.
 - <img src="/img/logo/v2rayn.png" class="inline"/>[v2rayN](/network/vpns/v2rayn) — подключение к VLESS и другим протоколам на Windows, Linux, macOS.
 <!-- - [v2rayNG](/network/vpns/v2rayng) -->
 - <img src="/img/logo/hiddify.png" class="inline"/>[Hiddify](/network/vpns/hiddify) — современный VPN/прокси клиент на базе [sing-box](https://github.com/SagerNet/sing-box) с красивым дизайном для Windows, macOS, Linux, Android, iOS.
 - <img src="/img/logo/happ.png" class="inline"/>[Happ](/network/vpns/happ) — VPN/прокси клиент на Windows, macOS, Linux, Android, iOS, Apple TV.
-- <img src="/img/logo/amneziavpn.png" class="inline"/>[Приложение AmneziaVPN](/network/vpns/amneziavpn). Поддерживает XRay, Shadowsocks, WireGuard, AmneziaWG, OpenVPN. **Не поддерживает [ссылки-подписки](/network/vpns/sublinks)**!
+- <img src="/img/logo/amneziavpn.png" class="inline"/>[Приложение AmneziaVPN](/network/vpns/amneziavpn). Поддерживает Xray, Shadowsocks, WireGuard, AmneziaWG, OpenVPN. **Не поддерживает [ссылки-подписки](/network/vpns/sublinks)**!
 - <img src="/img/logo/invizible-pro.png" class="inline"/>[InviZible Pro](/network/vpns/invizible-pro) — мощное приложение для подключения к Tor и I2P для Android.
 - [Tor Portable](/network/vpns/tor-portable) — [Tor](https://ru.wikipedia.org/wiki/Tor) для ПК, работает в виде [локального прокси-сервера](/network/vpns/local-proxy) — только для браузера и Discord.
 - <img src="/img/logo/byebyedpi.svg" class="inline"/>[ByeByeDPI](/network/vpns/byebyedpi) — аналог zapret для Android без [root](/android/root).
