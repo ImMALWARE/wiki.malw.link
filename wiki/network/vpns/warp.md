@@ -49,15 +49,6 @@
 Пример правильного названия файла: `WARP123.conf`
 :::
 
-#### Killercoda
-1. Перейдите на https://killercoda.com/playgrounds/scenario/ubuntu
-2. Войдите через Google
-3. Когда процесс входа закончится, отобразится терминал. Вставьте команду (Shift + Insert):
-```bash
-bash <(wget --inet4-only -qO- https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh)
-```
-4. После того, как конфиг сгенерируется, скопируйте его и вставьте в новый текстовый файл. Либо, для скачивания файлом, выделите ссылку и нажмите Ctrl + C, затем вставьте в адресную строку браузера. Импортируйте файл в [AmneziaWG](/network/vpns/amneziawg) или [AmneziaVPN](/network/vpns/amneziavpn).
-
 #### Replit
 1. Перейдите по ссылке: https://replit.com/new/github/ImMALWARE/bash-warp-generator
 2. Войдите или создайте аккаунт.
@@ -108,15 +99,6 @@ bash warp_generator.sh
 
 Пример правильного названия файла: `WARP123.yaml`
 :::
-
-#### Killercoda
-1. Перейдите на https://killercoda.com/playgrounds/scenario/ubuntu
-2. Войдите через Google
-3. Когда процесс входа закончится, отобразится терминал. Вставьте команду (Shift + Insert):
-```bash
-bash <(wget --inet4-only -qO- https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/masque_generator.sh)
-```
-4. После того, как конфиг сгенерируется, скопируйте его и вставьте в новый текстовый файл. Либо, для скачивания файлом, выделите ссылку и нажмите Ctrl + C, затем вставьте в адресную строку браузера. О подключении будет написано ниже.
 
 #### Replit
 1. Перейдите по ссылке: https://replit.com/new/github/ImMALWARE/bash-warp-generator
